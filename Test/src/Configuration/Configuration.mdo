@@ -101,6 +101,7 @@
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
   <subsystems>Subsystem.ИнструментыРазработчикаTormozit</subsystems>
+  <subsystems>Subsystem.ДенежнеСредства</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряВоскресеньеЦвет</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряНеУказанЦвет</styleItems>
@@ -878,6 +879,8 @@
   <commonPictures>CommonPicture.ирЧасы</commonPictures>
   <commonPictures>CommonPicture.ирЧисло</commonPictures>
   <commonPictures>CommonPicture.ирКластеризация</commonPictures>
+  <commonPictures>CommonPicture.БанкИКасса</commonPictures>
+  <commonPictures>CommonPicture.ЛогоПокемон</commonPictures>
   <interfaces>Interface.ирРазработчик</interfaces>
   <sessionParameters>SessionParameter.АвторизованныйПользователь</sessionParameters>
   <sessionParameters>SessionParameter.БуферОбмена</sessionParameters>
@@ -1025,6 +1028,7 @@
   <roles>Role.ирПользователь</roles>
   <roles>Role.ирПравоАдминистрирование</roles>
   <roles>Role.ирРазработчик</roles>
+  <roles>Role.БанкИКассаЧтениеЗапись</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияДляУстановкиКодаДляПредопределенногоУзла_ru</commonTemplates>
@@ -1790,6 +1794,7 @@
   <definedTypes>DefinedType.Сотрудник</definedTypes>
   <definedTypes>DefinedType.УточнениеКонтекстаПроверокВеденияУчета</definedTypes>
   <definedTypes>DefinedType.ФизическоеЛицо</definedTypes>
+  <definedTypes>DefinedType.Сумма</definedTypes>
   <commonCommands>CommonCommand.АвтономнаяРабота</commonCommands>
   <commonCommands>CommonCommand.АвтономнаяРаботаВМоделиСервиса</commonCommands>
   <commonCommands>CommonCommand.ВремяТекущегоСеанса</commonCommands>
@@ -2169,6 +2174,10 @@
   <catalogs>Catalog.ирАлгоритмы</catalogs>
   <catalogs>Catalog.ирКомандаРедактироватьОбъект</catalogs>
   <catalogs>Catalog.ирОбъектыДляОтладки</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.СтатьиДвиженияДенежныхСредств</catalogs>
+  <catalogs>Catalog.СтатьиДоходов</catalogs>
+  <catalogs>Catalog.СтатьиЗатрат</catalogs>
   <documents>Document.Анкета</documents>
   <documents>Document.Встреча</documents>
   <documents>Document.ЗапланированноеВзаимодействие</documents>
@@ -2177,6 +2186,8 @@
   <documents>Document.ТелефонныйЗвонок</documents>
   <documents>Document.ЭлектронноеПисьмоВходящее</documents>
   <documents>Document.ЭлектронноеПисьмоИсходящее</documents>
+  <documents>Document.ПоступлениеДенег</documents>
+  <documents>Document.РасходДенег</documents>
   <documentJournals>DocumentJournal.Взаимодействия</documentJournals>
   <enums>Enum.ВажностьПроблемыУчета</enums>
   <enums>Enum.ВариантыВажностиВзаимодействия</enums>
@@ -2546,6 +2557,7 @@
   <informationRegisters>InformationRegister.УдалитьНастройкиТранспортаОбмена</informationRegisters>
   <informationRegisters>InformationRegister.УдалитьРезультатыОбменаДанными</informationRegisters>
   <informationRegisters>InformationRegister.УдалитьХранимыеФайлыВерсий</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ВопросыДляАнкетирования</chartsOfCharacteristicTypes>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ОбъектыАдресацииЗадач</chartsOfCharacteristicTypes>

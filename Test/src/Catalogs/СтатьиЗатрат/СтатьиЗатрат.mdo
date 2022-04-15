@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cdfc3ccb-fe3f-45f3-bf14-7da9907db505">
+  <producedTypes>
+    <objectType typeId="9fdea974-cb4d-46d0-8d08-867f8aa37f69" valueTypeId="c79a5e15-b20d-4c54-be08-b8fe3bb9828e"/>
+    <refType typeId="fc35ffaa-29eb-4c84-b22c-d221307d38e5" valueTypeId="7e392128-f5b5-408e-b4c9-23f0a2f6a273"/>
+    <selectionType typeId="d2ba6218-fc38-43f0-add4-9701a6a5025b" valueTypeId="5941e81b-1e0d-40b6-8a1b-920fbd5e14ce"/>
+    <listType typeId="185b289e-9ac9-474c-9c07-12328274d5a6" valueTypeId="88b0314c-7636-45bf-92ff-53a31cd33609"/>
+    <managerType typeId="cd7de1ac-0f77-4101-9155-399664bd78f0" valueTypeId="2a673456-04e2-4ba8-9e32-6e39eab8713c"/>
+  </producedTypes>
+  <name>СтатьиЗатрат</name>
+  <synonym>
+    <key>en</key>
+    <value>Cost items</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи затрат</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Статті витратек</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СтатьиЗатрат.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СтатьиЗатрат.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <limitLevelCount>true</limitLevelCount>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

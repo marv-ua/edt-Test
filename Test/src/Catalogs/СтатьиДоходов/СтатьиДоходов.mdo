@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5618e57c-5726-4757-98f3-e7e8724500a1">
+  <producedTypes>
+    <objectType typeId="2490c754-b44a-4d0d-b0d8-dda4925b70fb" valueTypeId="959843bf-f6d9-4fea-861c-1349150783fa"/>
+    <refType typeId="5ea9d19d-f587-44ed-bc74-54ca091659de" valueTypeId="253b1340-f2c3-4f03-b5ff-d1c86becccff"/>
+    <selectionType typeId="d360bbfd-7e49-4aac-bf07-8a54fe5419df" valueTypeId="6e2e5d9b-c2fc-48ae-bc5b-2917c2626b73"/>
+    <listType typeId="07d1ea8a-09ac-46db-853a-87106d6ea2dd" valueTypeId="f924a041-aa42-45ab-ad1f-fd2933cb46d4"/>
+    <managerType typeId="dc92b7c0-7a8f-4556-8754-c0afea63f748" valueTypeId="6ab439f2-c89b-474c-9e50-9b03672f0d83"/>
+  </producedTypes>
+  <name>СтатьиДоходов</name>
+  <synonym>
+    <key>en</key>
+    <value>Income items</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи доходов</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Статті доходів</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СтатьиДоходов.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СтатьиДоходов.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

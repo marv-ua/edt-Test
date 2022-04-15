@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0bae35ae-7eac-4728-a76d-5e68feeb2dba">
+  <producedTypes>
+    <objectType typeId="b6c9f8a4-4c32-4899-b796-9c2e5a8ff4e2" valueTypeId="c44490ec-6368-4fb1-9df3-e926b22d0f9d"/>
+    <refType typeId="92c33c96-692a-49c7-882a-31c634f01912" valueTypeId="39ed87df-069a-41b0-a33d-93b4c759b326"/>
+    <selectionType typeId="4d74268e-e016-4fb8-bca9-7a0c0e4e2287" valueTypeId="f5d7ef32-9345-4653-aca8-f0fcd9c833f7"/>
+    <listType typeId="36e9c9ad-fc1d-4790-b449-f9ca54229511" valueTypeId="0e218ef7-8c8e-4466-84f5-b0682034829f"/>
+    <managerType typeId="ed93e62b-f0cf-4f1e-8b41-fa1f44f1e653" valueTypeId="b0aecf23-8483-4163-8fc4-e14c826a7711"/>
+  </producedTypes>
+  <name>РасходДенег</name>
+  <synonym>
+    <key>en</key>
+    <value>Spending of money</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Расход денег</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Витрата грошей</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.РасходДенег.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <registerRecords>AccumulationRegister.Взаиморасчеты</registerRecords>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+  <attributes uuid="e540b20b-1be3-463c-8cbb-30027d0c768b">
+    <name>Контрагент</name>
+    <synonym>
+      <key>en</key>
+      <value>Сounterparty</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Контрагент</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Контрагент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Контрагенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="69dbbae1-f77b-419f-842a-dc1d45ec4099">
+    <name>Сумма</name>
+    <synonym>
+      <key>en</key>
+      <value>Sum</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Сума</value>
+    </synonym>
+    <type>
+      <types>DefinedType.Сумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="bbe463bd-f3bd-4e9e-a8b5-62c4b5cd79be">
+    <name>СтатьяЗатрат</name>
+    <synonym>
+      <key>en</key>
+      <value>Cost item</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Статья затрат</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Стаття витрат</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.СтатьиЗатрат</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="5c57b6b7-f032-422a-9b61-c7b3c02dc959">
+    <name>Валюта</name>
+    <synonym>
+      <key>en</key>
+      <value>Currency</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Валюта</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Валюта</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Валюты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Document>

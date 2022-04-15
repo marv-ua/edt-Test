@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:AccumulationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dcecaa86-bc35-45e3-a6fc-70bc3d008afd">
+  <producedTypes>
+    <selectionType typeId="59d6b958-a50a-4814-b8ae-77098b4dc9d1" valueTypeId="a254012d-92d6-4b10-b252-2cc8c44da0b6"/>
+    <listType typeId="aae4949c-1cd9-4201-a622-cfb2c9d4b964" valueTypeId="7dca1e95-95c7-4a11-9f71-ae78ee39cb5c"/>
+    <managerType typeId="d77e63e0-2707-4be8-a72a-17f1ebc27629" valueTypeId="ff96e983-1a5e-451a-849a-3a4d75b63bc8"/>
+    <recordSetType typeId="4740002b-421f-43c8-803f-c94671933a09" valueTypeId="f69e0152-1778-4c2f-a2c0-8e1ac6f68da8"/>
+    <recordKeyType typeId="e8db2f1b-438a-4704-9fe8-47becdc86528" valueTypeId="ac2f016b-fcc1-4f22-b194-fffb21ff9bb0"/>
+    <recordType typeId="04618098-6926-4d11-93c6-d5498e509b59" valueTypeId="d9935846-7fa0-4783-90f9-06e89ee87985"/>
+  </producedTypes>
+  <name>Взаиморасчеты</name>
+  <synonym>
+    <key>en</key>
+    <value>Mutual settlements</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Взаиморасчеты</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Взаєморозрахунки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <enableTotalsSplitting>true</enableTotalsSplitting>
+  <resources uuid="a65b34ec-915f-4b62-b2c0-a690dfc51964">
+    <name>Сумма</name>
+    <synonym>
+      <key>en</key>
+      <value>Sum</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Сума</value>
+    </synonym>
+    <type>
+      <types>DefinedType.Сумма</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </resources>
+  <dimensions uuid="de215cd3-7c3e-462d-b79c-02bd1f44a90a">
+    <name>Контрагент</name>
+    <synonym>
+      <key>en</key>
+      <value>Сounterparty</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Контрагент</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Контрагент</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Контрагенты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+  <dimensions uuid="9a581441-8c89-4ef9-86e5-fd6075da5ba8">
+    <name>Валюта</name>
+    <synonym>
+      <key>en</key>
+      <value>Currency</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Валюта</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Валюта</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.Валюты</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+  </dimensions>
+</mdclass:AccumulationRegister>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="df94993f-0fcc-47e0-a413-b3be08d26057">
+  <name>ДенежнеСредства</name>
+  <synonym>
+    <key>en</key>
+    <value>Cash</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Денежне средства</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Грошові кошти</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.БанкИКасса</picture>
+  </picture>
+  <content>Document.РасходДенег</content>
+  <content>Document.ПоступлениеДенег</content>
+  <content>Catalog.СтатьиЗатрат</content>
+  <content>Catalog.СтатьиДоходов</content>
+  <content>Catalog.СтатьиДвиженияДенежныхСредств</content>
+  <content>Catalog.Контрагенты</content>
+  <content>CommonPicture.БанкИКасса</content>
+  <content>AccumulationRegister.Взаиморасчеты</content>
+  <content>Role.БанкИКассаЧтениеЗапись</content>
+</mdclass:Subsystem>

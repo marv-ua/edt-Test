@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ef6e03c4-0da1-4b9c-a687-63619e67ffe8">
+  <producedTypes>
+    <objectType typeId="53073817-566f-4ed3-9c50-c5c71b8316f4" valueTypeId="22524c87-e5a0-461c-be69-1250ec0095ff"/>
+    <refType typeId="658a21e3-e80e-4534-9491-ba92cc0f6b28" valueTypeId="99431290-1d30-4d99-b61c-9028519efe90"/>
+    <selectionType typeId="fafa81ba-7342-434b-889d-74e14a0722e0" valueTypeId="3a0cac3b-6a73-4733-bbc4-b12408608460"/>
+    <listType typeId="38fa0e1e-d132-482f-a221-4d29d2a913a8" valueTypeId="7288ffa3-75f9-4235-aaa3-9ecb3ce91178"/>
+    <managerType typeId="4fb0b14a-96f3-431a-ba46-98004d7015e3" valueTypeId="aea70e91-1dad-4ebe-a4f9-851f4cfab1be"/>
+  </producedTypes>
+  <name>СтатьиДвиженияДенежныхСредств</name>
+  <synonym>
+    <key>en</key>
+    <value>Cash flow items</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи движения денежных средств</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Статті руху грошових коштів</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СтатьиДвиженияДенежныхСредств.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СтатьиДвиженияДенежныхСредств.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <hierarchical>true</hierarchical>
+  <limitLevelCount>true</limitLevelCount>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

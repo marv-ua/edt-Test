@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e367bbcf-0c17-4d0e-84bc-78616d191874">
+  <name>БанкИКассаЧтениеЗапись</name>
+  <synonym>
+    <key>en</key>
+    <value>Bank and cash desk (read write)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Банк и касса (чтение запись)</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Банк та каса (читання запис)</value>
+  </synonym>
+</mdclass:Role>
