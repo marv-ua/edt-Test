@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c14e922d-c45b-432b-86b3-3252978910a5">
+  <producedTypes>
+    <objectType typeId="83c2b7b7-93fb-4b71-a758-132435a5a119" valueTypeId="78062dab-d95b-4074-973a-21af95efeed4"/>
+    <managerType typeId="c3308db5-2d55-4bc1-952a-f8e9f92b729c" valueTypeId="e76b2548-493c-4471-a34f-638d5363a06a"/>
+  </producedTypes>
+  <name>ЗагрузкаКурсовВалютНБУ</name>
+  <synonym>
+    <key>uk</key>
+    <value>Завантаження курсів валют (НБУ)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка курсов валют (НБУ)</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Loading exchange rates (NBU)</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ЗагрузкаКурсовВалютНБУ.Form.Обробка</defaultForm>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+    <pages>
+      <lang>uk</lang>
+    </pages>
+  </help>
+  <tabularSections uuid="47b54514-f8de-44f7-9ea7-4bd828e0cdc0">
+    <producedTypes>
+      <objectType typeId="745d6e6a-5b99-4165-8b56-b0b5d945b78f" valueTypeId="02a13856-46fe-4105-9cba-29b0361986ad"/>
+      <rowType typeId="4a9b6fad-8173-4ffe-af68-f0f616f0e71f" valueTypeId="ee44dc3e-aa23-42c5-b319-f6db005ce0ea"/>
+    </producedTypes>
+    <name>КурсиВалют</name>
+    <synonym>
+      <key>uk</key>
+      <value>Курси валют</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Курси валют</value>
+    </synonym>
+    <standardAttributes>
+      <dataHistory>Use</dataHistory>
+      <name>LineNumber</name>
+      <fillValue xsi:type="core:UndefinedValue"/>
+      <fullTextSearch>Use</fullTextSearch>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+    </standardAttributes>
+    <attributes uuid="d08d1749-3f66-4292-9072-fca31e06c7ab">
+      <name>Вибір</name>
+      <synonym>
+        <key>uk</key>
+        <value>Вибір</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Вибір</value>
+      </synonym>
+      <type>
+        <types>Boolean</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="b39b45cd-7dea-499f-9035-f7596aede1b9">
+      <name>ДатаКурсу</name>
+      <synonym>
+        <key>uk</key>
+        <value>Дата курсу</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Дата курсу</value>
+      </synonym>
+      <type>
+        <types>Date</types>
+        <dateQualifiers>
+          <dateFractions>Date</dateFractions>
+        </dateQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="b22e96c7-b9f0-4544-a3d1-33cefc602410">
+      <name>Валюта</name>
+      <synonym>
+        <key>uk</key>
+        <value>Валюта</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Валюта</value>
+      </synonym>
+      <type>
+        <types>CatalogRef.Валюты</types>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="eb72360a-2cd2-40bc-92ab-4d0810b1bfcc">
+      <name>ЛітернийКод</name>
+      <synonym>
+        <key>uk</key>
+        <value>Літерний код</value>
+      </synonym>
+      <type>
+        <types>String</types>
+        <stringQualifiers>
+          <length>10</length>
+        </stringQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:StringValue">
+        <value></value>
+      </fillValue>
+    </attributes>
+    <attributes uuid="aaa35dec-70cd-4884-ab00-8a57a65ef6f6">
+      <name>КурсНБУ</name>
+      <synonym>
+        <key>uk</key>
+        <value>Курс НБУ</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Курс НБУ</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>20</precision>
+          <scale>10</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="9d76dfec-194c-4b34-9955-9e1b2d7d4d18">
+      <name>Кратність</name>
+      <synonym>
+        <key>uk</key>
+        <value>Кратність</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Кратність</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillChecking>ShowError</fillChecking>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="af9be43a-96fe-4977-b6a9-d482a06154f7">
+      <name>Курс</name>
+      <synonym>
+        <key>uk</key>
+        <value>Курс</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Курс</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+          <scale>4</scale>
+          <nonNegative>true</nonNegative>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillChecking>ShowError</fillChecking>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+    <attributes uuid="5359cdde-f906-4b37-80e4-09d98840d741">
+      <name>Стан</name>
+      <synonym>
+        <key>uk</key>
+        <value>Стан</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
+        <value>Стан</value>
+      </synonym>
+      <type>
+        <types>Number</types>
+        <numberQualifiers>
+          <precision>10</precision>
+        </numberQualifiers>
+      </type>
+      <minValue xsi:type="core:UndefinedValue"/>
+      <maxValue xsi:type="core:UndefinedValue"/>
+      <fillValue xsi:type="core:UndefinedValue"/>
+    </attributes>
+  </tabularSections>
+  <forms uuid="c70665df-cc8d-4cd0-ba7e-0c711a1d8ab3">
+    <name>Обробка</name>
+    <synonym>
+      <key>uk</key>
+      <value>Обробка</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Обробка</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

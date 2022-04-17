@@ -2166,6 +2166,7 @@
   <scheduledJobs>ScheduledJob.УдалениеУстаревшихПараметровРаботыВерсийРасширений</scheduledJobs>
   <scheduledJobs>ScheduledJob.УстановкаПериодаРассчитанныхИтогов</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЭкспортОценкиПроизводительности</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ЗагрузкаКурсовВалют</scheduledJobs>
   <settingsStorages>SettingsStorage.ХранилищеВариантовОтчетов</settingsStorages>
   <functionalOptions>FunctionalOption.АктуальнаяДатаОбновленияПовторноИспользуемыхЗначенийМРО</functionalOptions>
   <functionalOptions>FunctionalOption.ВариантыВерсионированияОбъектов</functionalOptions>
@@ -2510,6 +2511,7 @@
   <constants>Constant.ХранитьФайлыВТомахНаДиске</constants>
   <constants>Constant.ЭтоАвтономноеРабочееМесто</constants>
   <constants>Constant.УдалитьНастройкиВходаПользователей</constants>
+  <constants>Constant.ВалютаРегламентированногоУчета</constants>
   <commonForms>CommonForm.АвтономнаяРабота</commonForms>
   <commonForms>CommonForm.АвтономнаяРаботаВМоделиСервиса</commonForms>
   <commonForms>CommonForm.АдреснаяКнига</commonForms>
@@ -2918,6 +2920,7 @@
   <dataProcessors>DataProcessor.ирУправлениеПрофайлами1С</dataProcessors>
   <dataProcessors>DataProcessor.ирУправлениеСлужбамиСервера1С</dataProcessors>
   <dataProcessors>DataProcessor.ирУстановщикРасширения</dataProcessors>
+  <dataProcessors>DataProcessor.ЗагрузкаКурсовВалютНБУ</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.БлокировкиСеансовОбластейДанных</informationRegisters>

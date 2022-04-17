@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ScheduledJob xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="853a77e2-d834-4c53-9ed3-9231824e7e5c">
+  <name>ЗагрузкаКурсовВалют</name>
+  <synonym>
+    <key>uk</key>
+    <value>Завантаження курсів валют</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка курсов валют</value>
+  </synonym>
+  <synonym>
+    <key>en</key>
+    <value>Loading exchange rates</value>
+  </synonym>
+  <methodName>CommonModule.РаботаСКурсамиВалют.ЗагрузитьАктуальныйКурсНБУ</methodName>
+  <predefined>true</predefined>
+  <restartCountOnFailure>3</restartCountOnFailure>
+  <restartIntervalOnFailure>10</restartIntervalOnFailure>
+</mdclass:ScheduledJob>

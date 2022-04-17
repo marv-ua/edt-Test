@@ -28,4 +28,6 @@
   <content>AccumulationRegister.Взаиморасчеты</content>
   <content>Role.БанкИКассаЧтениеЗапись</content>
   <content>Catalog.Валюты</content>
+  <content>DataProcessor.ЗагрузкаКурсовВалютНБУ</content>
+  <content>Constant.ВалютаРегламентированногоУчета</content>
 </mdclass:Subsystem>
