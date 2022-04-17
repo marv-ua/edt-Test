@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="49543199-a4c6-4ec9-9e34-4518cb50af1c">
+  <name>ПерейтиНаИТС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перейти на ИТС</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Перейти на ІТС</value>
+  </synonym>
+</mdclass:CommonPicture>

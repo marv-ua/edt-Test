@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Позвонить или отправить SMS</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Зателефонувати або відправити SMS</value>
+  </synonym>
 </mdclass:CommonPicture>

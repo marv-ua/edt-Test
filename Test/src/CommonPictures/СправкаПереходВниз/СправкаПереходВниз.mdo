@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Справка переход вниз</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідка перехід униз</value>
+  </synonym>
 </mdclass:CommonPicture>

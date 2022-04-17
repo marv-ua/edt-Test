@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1b2dd84b-4f63-45ad-8d61-14aa9c36a3a8">
+  <name>ЗначокДвиженияДокумента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок движения документа</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок рухи документа</value>
+  </synonym>
+  <transparentPixel>
+    <x>14</x>
+    <y>1</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

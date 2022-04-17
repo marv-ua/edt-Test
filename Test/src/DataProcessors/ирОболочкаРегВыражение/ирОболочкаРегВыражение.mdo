@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирОболочкаРегВыражение</name>
   <synonym>
-    <key>ru</key>
-    <value>Ир оболочка рег выражение</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Ир оболочка рег выражение</value>
   </synonym>
@@ -17,18 +13,22 @@
     <key>uk</key>
     <value>Ир оболочка рег выражение</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Ир оболочка рег выражение</value>
+  </synonym>
   <attributes uuid="86248791-d891-4777-89f5-6db5390984f2">
     <name>Global</name>
-    <synonym>
-      <key>ru</key>
-      <value>Global</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Global</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Global</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Global</value>
     </synonym>
     <type>
@@ -40,15 +40,15 @@
   <attributes uuid="ff6283e0-da68-4f4c-aa64-09ffb2615022">
     <name>IgnoreCase</name>
     <synonym>
-      <key>ru</key>
-      <value>Ignore case</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Ignore case</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Ignore case</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Ignore case</value>
     </synonym>
     <type>
@@ -60,15 +60,15 @@
   <attributes uuid="c2ec8784-229b-4670-8482-b3feef909c4b">
     <name>Multiline</name>
     <synonym>
-      <key>ru</key>
-      <value>Multiline</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Multiline</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Multiline</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Multiline</value>
     </synonym>
     <type>
@@ -80,15 +80,15 @@
   <attributes uuid="e42c249a-0f11-4a59-bd6f-b8cf6e1c9166">
     <name>Pattern</name>
     <synonym>
-      <key>ru</key>
-      <value>Pattern</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Pattern</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Pattern</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Pattern</value>
     </synonym>
     <type>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7d080e19-79ef-4f6d-9fc7-8e041b56c0e2">
+  <name>Кредиторы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Кредиторы</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Кредитори</value>
+  </synonym>
+</mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Увеличить шрифт</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Збільшити шрифт</value>
+  </synonym>
 </mdclass:CommonPicture>

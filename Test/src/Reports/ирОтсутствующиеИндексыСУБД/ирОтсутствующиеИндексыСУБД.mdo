@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирОтсутствующиеИндексыСУБД</name>
   <synonym>
-    <key>ru</key>
-    <value>Отсутствующие индексы СУБД (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Отсутствующие индексы СУБД (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Отсутствующие индексы СУБД (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Отсутствующие индексы СУБД (ИР)</value>
   </synonym>
   <defaultForm>Report.ирОтсутствующиеИндексыСУБД.Form.ФормаОтчета</defaultForm>
@@ -27,15 +27,15 @@
   <attributes uuid="f2344e7f-8ee7-4724-80b2-d41154d9e4fb">
     <name>РассчитыватьСелективность</name>
     <synonym>
-      <key>ru</key>
-      <value>Рассчитывать селективность</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Рассчитывать селективность</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Рассчитывать селективность</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Рассчитывать селективность</value>
     </synonym>
     <type>
@@ -47,15 +47,15 @@
   <forms uuid="27cd7080-d529-4ada-b0ba-613e22068aec">
     <name>ФормаОтчета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма отчета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -65,15 +65,15 @@
   <templates uuid="1b68faac-5bdc-48b3-9f1d-b105de02f2d0">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -81,15 +81,15 @@
   <templates uuid="3f43e46e-3d9b-479d-a9fd-1c8f0d2a01cf">
     <name>ЗапросMSSQL</name>
     <synonym>
-      <key>ru</key>
-      <value>Запрос MSSQL</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Запрос MSSQL</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Запрос MSSQL</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Запрос MSSQL</value>
     </synonym>
     <templateType>TextDocument</templateType>
@@ -97,15 +97,15 @@
   <commands uuid="6f0de6a6-5a2e-4fd4-8d63-7a3495e86d09">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Отсутствующие индексы СУБД (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Отсутствующие индексы СУБД (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Отсутствующие индексы СУБД (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Отсутствующие индексы СУБД (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

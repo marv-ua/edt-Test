@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eb0ffb42-c155-44b3-9703-f2c4455a254d">
+  <name>ПересчитатьЗарплату</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пересчитать зарплату</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Перерахувати зарплату</value>
+  </synonym>
+</mdclass:CommonPicture>

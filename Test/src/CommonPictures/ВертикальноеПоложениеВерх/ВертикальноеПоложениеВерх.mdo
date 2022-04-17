@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Вертикальное положение верх</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Вертикальне положення верх</value>
+  </synonym>
 </mdclass:CommonPicture>

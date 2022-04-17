@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="71b6c4a4-f3b1-485d-8873-31e15b331325">
+  <producedTypes>
+    <objectType typeId="d2a6031c-76e4-4ff6-8e0d-50c6b05fa350" valueTypeId="37d687f4-228f-4642-aa52-310f40b52dd3"/>
+    <managerType typeId="16183914-f8fc-4561-8e88-ae4970282580" valueTypeId="bf1b2c67-a269-47df-9dbf-55af0cd24daa"/>
+  </producedTypes>
+  <name>НСИСНовости</name>
+  <synonym>
+    <key>ru</key>
+    <value>Новости ИТС</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Новини ІТС</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.НСИСНовости.Form.Форма</defaultForm>
+  <forms uuid="5246625a-d5b3-4bc2-aa55-b1ea658e9607">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="1d975441-cb65-489a-a3cd-da75601cf235">
+    <name>НСИСНовости</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новости ИТС</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Новини ІТС</value>
+    </synonym>
+    <group>CommandGroup.Информация</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

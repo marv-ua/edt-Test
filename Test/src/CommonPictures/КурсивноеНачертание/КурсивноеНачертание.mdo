@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Курсивное начертание</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Курсивне накреслення</value>
+  </synonym>
 </mdclass:CommonPicture>

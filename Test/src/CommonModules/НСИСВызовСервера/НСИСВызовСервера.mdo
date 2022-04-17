@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0adbf359-d356-4f57-9f36-196a7ff53aa9">
+  <name>НСИСВызовСервера</name>
+  <synonym>
+    <key>ru</key>
+    <value>НСИС вызов  сервера</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>НСІС виклик сервера</value>
+  </synonym>
+  <server>true</server>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

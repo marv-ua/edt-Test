@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Подчеркивание</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Підкреслення</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Закончить редактирование файла</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Закінчити редагування файлу</value>
+  </synonym>
 </mdclass:CommonPicture>

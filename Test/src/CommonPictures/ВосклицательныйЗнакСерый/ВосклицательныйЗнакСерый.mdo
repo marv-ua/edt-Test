@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Восклицательный знак серый</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Знак оклику сірий</value>
+  </synonym>
 </mdclass:CommonPicture>

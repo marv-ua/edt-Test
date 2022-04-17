@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирКонсольКода</name>
   <synonym>
-    <key>ru</key>
-    <value>Консоль кода (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Консоль кода (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Консоль кода (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Консоль кода (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирКонсольКода.Form.Форма</defaultForm>
   <forms uuid="05fcf94a-0377-449c-bf64-580ad24cd504">
     <name>Форма</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -39,15 +39,15 @@
   <forms uuid="3c07df48-3997-48db-b935-1fb79914ce77">
     <name>ВыделениеМетода</name>
     <synonym>
-      <key>ru</key>
-      <value>Выделение метода</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выделение метода</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выделение метода</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выделение метода</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -57,15 +57,15 @@
   <commands uuid="cd72b562-2c52-4a37-aaea-c8733b927574">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Консоль кода (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Консоль кода (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Консоль кода (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Консоль кода (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

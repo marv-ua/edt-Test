@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Электронное письмо исходящее</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Електронний лист вихідний</value>
+  </synonym>
 </mdclass:CommonPicture>

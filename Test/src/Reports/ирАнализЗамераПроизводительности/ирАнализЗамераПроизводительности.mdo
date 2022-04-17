@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирАнализЗамераПроизводительности</name>
   <synonym>
-    <key>ru</key>
-    <value>Анализ замера производительности (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Анализ замера производительности (ИР)</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Анализ замера производительности (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Анализ замера производительности (ИР)</value>
+  </synonym>
   <defaultForm>Report.ирАнализЗамераПроизводительности.Form.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ирАнализЗамераПроизводительности.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
   <attributes uuid="1737a873-c483-4e1e-8c26-30a48ae9bc29">
     <name>ВстроитьИменаМетодовВФайл</name>
-    <synonym>
-      <key>ru</key>
-      <value>Встроить имена методов в файл</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Встроить имена методов в файл</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Встроить имена методов в файл</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Встроить имена методов в файл</value>
     </synonym>
     <type>
@@ -42,15 +42,15 @@
   <attributes uuid="4ac7e5c6-e1b3-44ed-aad0-b769e762e7cc">
     <name>ИзвлекатьИменаМетодов</name>
     <synonym>
-      <key>ru</key>
-      <value>Извлекать имена методов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Извлекать имена методов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Извлекать имена методов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Извлекать имена методов</value>
     </synonym>
     <type>
@@ -62,15 +62,15 @@
   <forms uuid="082988b6-2715-42f5-97a1-cdacf8204d9a">
     <name>ФормаОтчета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма отчета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -80,15 +80,15 @@
   <templates uuid="5898cdca-dd11-4207-91a0-baa6224be29d">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -96,15 +96,15 @@
   <commands uuid="9170ca05-648f-4362-9104-54a0495e45b8">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Анализ замера производительности (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Анализ замера производительности (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Анализ замера производительности (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Анализ замера производительности (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

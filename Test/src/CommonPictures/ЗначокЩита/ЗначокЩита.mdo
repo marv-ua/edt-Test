@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Значок щита</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок щита</value>
+  </synonym>
 </mdclass:CommonPicture>

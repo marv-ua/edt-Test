@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Иерархический список</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Ієрархічний список</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="12f9c3cf-ed00-4a4e-bba6-a4f2ab6401de">
+  <producedTypes>
+    <objectType typeId="27ee43a6-acef-48a8-be70-a294e5816c36" valueTypeId="0a97ced6-0001-4fc8-aec2-886fef733f85"/>
+    <managerType typeId="b7c57116-c832-4a2f-b32a-aa47c60a92c6" valueTypeId="365f4aae-d168-441d-95b1-c4a00b8d72ff"/>
+  </producedTypes>
+  <name>НСИСКалендарьБухгалтера</name>
+  <synonym>
+    <key>ru</key>
+    <value>Календарь бухгалтера</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Календар бухгалтера</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.НСИСКалендарьБухгалтера.Form.Форма</defaultForm>
+  <forms uuid="7d31d3ff-07a6-469b-b80e-6bea1269f3b5">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="3f1e71cb-3e04-4678-97da-06623041651f">
+    <name>НСИСКалендарьБухгалтера</name>
+    <synonym>
+      <key>ru</key>
+      <value>Календарь бухгалтера</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Календар бухгалтера</value>
+    </synonym>
+    <group>CommandGroup.Информация</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

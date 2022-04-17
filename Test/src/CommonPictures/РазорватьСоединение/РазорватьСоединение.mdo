@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Разорвать соединение</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Розірвати з'єднання</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирПодготовкаКИзменениюСтруктурыБД</name>
   <synonym>
-    <key>ru</key>
-    <value>Подготовка к изменению структуры БД (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Подготовка к изменению структуры БД (ИР)</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Подготовка к изменению структуры БД (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Подготовка к изменению структуры БД (ИР)</value>
+  </synonym>
   <comment> </comment>
   <defaultForm>DataProcessor.ирПодготовкаКИзменениюСтруктурыБД.Form.Форма</defaultForm>
   <attributes uuid="04a6d65b-2756-4b12-adad-7896b264103b">
     <name>ВыполнятьВТранзакции</name>
-    <synonym>
-      <key>ru</key>
-      <value>Выполнять в транзакции</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Выполнять в транзакции</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выполнять в транзакции</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выполнять в транзакции</value>
     </synonym>
     <type>
@@ -42,15 +42,15 @@
   <attributes uuid="e6534809-a830-48b9-8044-b2b8e982a214">
     <name>ГруппыТекущегоРегистра</name>
     <synonym>
-      <key>ru</key>
-      <value>Группы текущего регистра</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Группы текущего регистра</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Группы текущего регистра</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Группы текущего регистра</value>
     </synonym>
     <type>
@@ -62,15 +62,15 @@
   <attributes uuid="eaeb3298-851a-4aed-b472-35ad855cd88d">
     <name>ЗатрагиваемыеЭлементыТекущегоПланаВидовХарактеристик</name>
     <synonym>
-      <key>ru</key>
-      <value>Затрагиваемые элементы текущего плана видов характеристик</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Затрагиваемые элементы текущего плана видов характеристик</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Затрагиваемые элементы текущего плана видов характеристик</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Затрагиваемые элементы текущего плана видов характеристик</value>
     </synonym>
     <type>
@@ -82,15 +82,15 @@
   <attributes uuid="82ed5929-2bba-416a-ba46-c921bb844cbe">
     <name>ИзменяемыеИзмерения</name>
     <synonym>
-      <key>ru</key>
-      <value>Изменяемые измерения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Изменяемые измерения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Изменяемые измерения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Изменяемые измерения</value>
     </synonym>
     <type>
@@ -102,15 +102,15 @@
   <attributes uuid="1d436f12-9d24-427e-ac23-f046cb8244e4">
     <name>УдаляемыеТипы</name>
     <synonym>
-      <key>ru</key>
-      <value>Удаляемые типы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Удаляемые типы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Удаляемые типы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Удаляемые типы</value>
     </synonym>
     <type>
@@ -122,15 +122,15 @@
   <attributes uuid="efe0cb85-98c1-48ba-9b3e-127779824024">
     <name>ЭлементыТекущейГруппы</name>
     <synonym>
-      <key>ru</key>
-      <value>Элементы текущей группы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Элементы текущей группы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Элементы текущей группы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Элементы текущей группы</value>
     </synonym>
     <type>
@@ -146,15 +146,15 @@
     </producedTypes>
     <name>ПроблемныеРегистры</name>
     <synonym>
-      <key>ru</key>
-      <value>Проблемные регистры</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Проблемные регистры</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Проблемные регистры</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Проблемные регистры</value>
     </synonym>
     <standardAttributes>
@@ -168,15 +168,15 @@
     <attributes uuid="dea5910a-4ed8-49ee-99a5-f8ded933b3b5">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -192,15 +192,15 @@
     <attributes uuid="e672354f-176c-41af-9317-0acc45e5179b">
       <name>КоличествоГрупп</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество групп</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество групп</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество групп</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество групп</value>
       </synonym>
       <type>
@@ -216,15 +216,15 @@
     <attributes uuid="5d7d12c2-a4a9-43a9-85c8-68a0f8bdf550">
       <name>ЗапросВыборкиСоставаГруппы</name>
       <synonym>
-        <key>ru</key>
-        <value>Запрос выборки состава группы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Запрос выборки состава группы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Запрос выборки состава группы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Запрос выборки состава группы</value>
       </synonym>
       <type>
@@ -243,15 +243,15 @@
     </producedTypes>
     <name>ПроблемныеПланыВидовХарактеристик</name>
     <synonym>
-      <key>ru</key>
-      <value>Проблемные планы видов характеристик</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Проблемные планы видов характеристик</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Проблемные планы видов характеристик</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Проблемные планы видов характеристик</value>
     </synonym>
     <standardAttributes>
@@ -265,15 +265,15 @@
     <attributes uuid="12431c16-8c28-4cea-a223-19391e740282">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -289,15 +289,15 @@
     <attributes uuid="5d45bdec-b5ed-4779-abf3-a80769742f1f">
       <name>КоличествоЗатрагиваемыхЭлементов</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество затрагиваемых элементов</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество затрагиваемых элементов</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество затрагиваемых элементов</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество затрагиваемых элементов</value>
       </synonym>
       <type>
@@ -314,15 +314,15 @@
   <forms uuid="f10849b4-15bb-42ac-a4d4-9455d73d853d">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <comment> </comment>
@@ -333,15 +333,15 @@
   <forms uuid="0c5fa2e6-5326-4148-866f-41208ac3fbe8">
     <name>ИзменяемыеИзмерения</name>
     <synonym>
-      <key>ru</key>
-      <value>Изменяемые измерения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Изменяемые измерения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Изменяемые измерения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Изменяемые измерения</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -351,15 +351,15 @@
   <commands uuid="ff4ae201-9ff2-48ab-9a89-c0ce00c035dc">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Подготовка к изменению структуры БД (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Подготовка к изменению структуры БД (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Подготовка к изменению структуры БД (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Подготовка к изменению структуры БД (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

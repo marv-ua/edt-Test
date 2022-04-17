@@ -13,12 +13,12 @@
     <value>Spending of money</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Расход денег</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Витрата грошей</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Расход денег</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.РасходДенег.StandardAttribute.Number</inputByString>
@@ -41,11 +41,11 @@
       <value>Сounterparty</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Контрагент</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Контрагент</value>
     </synonym>
     <type>
@@ -64,12 +64,12 @@
       <value>Sum</value>
     </synonym>
     <synonym>
-      <key>ru</key>
-      <value>Сумма</value>
-    </synonym>
-    <synonym>
       <key>uk</key>
       <value>Сума</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
     </synonym>
     <type>
       <types>DefinedType.Сумма</types>
@@ -87,12 +87,12 @@
       <value>Cost item</value>
     </synonym>
     <synonym>
-      <key>ru</key>
-      <value>Статья затрат</value>
-    </synonym>
-    <synonym>
       <key>uk</key>
       <value>Стаття витрат</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Статья затрат</value>
     </synonym>
     <type>
       <types>CatalogRef.СтатьиЗатрат</types>
@@ -110,11 +110,11 @@
       <value>Currency</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Валюта</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Валюта</value>
     </synonym>
     <type>

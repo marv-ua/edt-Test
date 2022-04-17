@@ -12,15 +12,15 @@
       <segments>ПерехватВнешнихОбработок</segments>
     </dataPath>
     <toolTip>
-      <key>ru</key>
-      <value>Перехват создания внешних обработок для всех пользователей. Выключайте в случае проблем.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Перехват создания внешних обработок для всех пользователей. Выключайте в случае проблем.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Перехват создания внешних обработок для всех пользователей. Выключайте в случае проблем.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Перехват создания внешних обработок для всех пользователей. Выключайте в случае проблем.</value>
     </toolTip>
     <handlers>
@@ -71,15 +71,15 @@
       <segments>КаталогФайловогоКэша</segments>
     </dataPath>
     <toolTip>
-      <key>ru</key>
-      <value>Рекомендуется выбирать сетевой каталог, чтобы он был доступен любому серверному и нужным клиентским процессам.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Рекомендуется выбирать сетевой каталог, чтобы он был доступен любому серверному и нужным клиентским процессам.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Рекомендуется выбирать сетевой каталог, чтобы он был доступен любому серверному и нужным клиентским процессам.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Рекомендуется выбирать сетевой каталог, чтобы он был доступен любому серверному и нужным клиентским процессам.</value>
     </toolTip>
     <handlers>
@@ -148,15 +148,15 @@
       <segments>СозданиеВнешнихОбработокЧерезФайл</segments>
     </dataPath>
     <toolTip>
-      <key>ru</key>
-      <value>Под текущим пользователем внешние обработки будут создаваться через постоянные файлы и будет доступна их отладка.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Под текущим пользователем внешние обработки будут создаваться через постоянные файлы и будет доступна их отладка.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Под текущим пользователем внешние обработки будут создаваться через постоянные файлы и будет доступна их отладка.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Под текущим пользователем внешние обработки будут создаваться через постоянные файлы и будет доступна их отладка.</value>
     </toolTip>
     <handlers>
@@ -199,15 +199,15 @@
     <name>НадписьНеРаботаютТочкиОстанова</name>
     <id>51</id>
     <title>
-      <key>ru</key>
-      <value>В 8.3.6 точки останова во внешних обработках не работают из-за ошибки платформы</value>
-    </title>
-    <title>
       <key>en</key>
       <value>В 8.3.6 точки останова во внешних обработках не работают из-за ошибки платформы</value>
     </title>
     <title>
       <key>uk</key>
+      <value>В 8.3.6 точки останова во внешних обработках не работают из-за ошибки платформы</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>В 8.3.6 точки останова во внешних обработках не работают из-за ошибки платформы</value>
     </title>
     <visible>true</visible>
@@ -873,7 +873,7 @@
           <horizontalAlign>Left</horizontalAlign>
         </extInfo>
       </extendedTooltip>
-      <commandName>0:3330c3e5-734f-4ba1-b58c-7e86e4965d8d</commandName>
+      <commandName>0</commandName>
       <representation>PictureAndText</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -903,7 +903,7 @@
           <horizontalAlign>Left</horizontalAlign>
         </extInfo>
       </extendedTooltip>
-      <commandName>0:60b48362-4a19-4a23-95da-9a9ce4ad14c5</commandName>
+      <commandName>0</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -968,15 +968,15 @@
   <attributes>
     <name>СозданиеВнешнихОбработокЧерезФайл</name>
     <title>
-      <key>ru</key>
-      <value>Создание внешних обработок через файл</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Создание внешних обработок через файл</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Создание внешних обработок через файл</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Создание внешних обработок через файл</value>
     </title>
     <id>1</id>
@@ -993,15 +993,15 @@
   <attributes>
     <name>КаталогФайловогоКэша</name>
     <title>
-      <key>ru</key>
-      <value>Каталог файлового кэша</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Каталог файлового кэша</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Каталог файлового кэша</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Каталог файлового кэша</value>
     </title>
     <id>2</id>
@@ -1019,15 +1019,15 @@
   <attributes>
     <name>Список</name>
     <title>
-      <key>ru</key>
-      <value>Список</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Список</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Список</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Список</value>
     </title>
     <id>3</id>
@@ -1043,15 +1043,15 @@
     <columns>
       <name>Ссылка</name>
       <title>
-        <key>ru</key>
-        <value>Ссылка</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Ссылка</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Ссылка</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Ссылка</value>
       </title>
       <id>1</id>
@@ -1068,15 +1068,15 @@
     <columns>
       <name>ИмяФайла</name>
       <title>
-        <key>ru</key>
-        <value>Имя файла</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Имя файла</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Имя файла</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Имя файла</value>
       </title>
       <id>2</id>
@@ -1094,15 +1094,15 @@
     <columns>
       <name>ДатаИзмененияФайла</name>
       <title>
-        <key>ru</key>
-        <value>Дата изменения файла</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Дата изменения файла</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Дата изменения файла</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Дата изменения файла</value>
       </title>
       <id>3</id>
@@ -1120,15 +1120,15 @@
     <columns>
       <name>ФайлОтличаетсяОтХранилища</name>
       <title>
-        <key>ru</key>
-        <value>Файл отличается от хранилища</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Файл отличается от хранилища</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Файл отличается от хранилища</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Файл отличается от хранилища</value>
       </title>
       <id>4</id>
@@ -1146,15 +1146,15 @@
   <attributes>
     <name>ПерехватВнешнихОбработок</name>
     <title>
-      <key>ru</key>
-      <value>Перехват внешних обработок</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Перехват внешних обработок</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Перехват внешних обработок</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Перехват внешних обработок</value>
     </title>
     <id>4</id>
@@ -1171,28 +1171,28 @@
   <formCommands>
     <name>ОбновитьСписок</name>
     <title>
-      <key>ru</key>
-      <value>Обновить список</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Обновить список</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Обновить список</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Обновить список</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Обновить список</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Обновить список</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Обновить список</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Обновить список</value>
     </toolTip>
     <use>
@@ -1211,28 +1211,28 @@
   <formCommands>
     <name>ОткрытьВОтладчике</name>
     <title>
-      <key>ru</key>
-      <value>Открыть в отладчике</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Открыть в отладчике</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Открыть в отладчике</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Открыть в отладчике</value>
     </title>
     <id>2</id>
     <toolTip>
-      <key>ru</key>
-      <value>Открыть файл внешней обработки в уже открытом отладчике. Окна отладчика ищутся по подстроке &quot;Конфигуратор&quot; в заголовке.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Открыть файл внешней обработки в уже открытом отладчике. Окна отладчика ищутся по подстроке &quot;Конфигуратор&quot; в заголовке.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Открыть файл внешней обработки в уже открытом отладчике. Окна отладчика ищутся по подстроке &quot;Конфигуратор&quot; в заголовке.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Открыть файл внешней обработки в уже открытом отладчике. Окна отладчика ищутся по подстроке &quot;Конфигуратор&quot; в заголовке.</value>
     </toolTip>
     <use>
@@ -1252,28 +1252,28 @@
   <formCommands>
     <name>ПрочитатьАктуальныеНастройки</name>
     <title>
-      <key>ru</key>
-      <value>Прочитать актуальные настройки</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Прочитать актуальные настройки</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Прочитать актуальные настройки</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Прочитать актуальные настройки</value>
     </title>
     <id>3</id>
     <toolTip>
-      <key>ru</key>
-      <value>Полезно в случае изменения настроек в другом сеансе</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Полезно в случае изменения настроек в другом сеансе</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Полезно в случае изменения настроек в другом сеансе</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Полезно в случае изменения настроек в другом сеансе</value>
     </toolTip>
     <use>
@@ -1292,28 +1292,28 @@
   <formCommands>
     <name>ЗагрузитьИзФайла</name>
     <title>
-      <key>ru</key>
-      <value>Загрузить из файла</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Загрузить из файла</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Загрузить из файла</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Загрузить из файла</value>
     </title>
     <id>4</id>
     <toolTip>
-      <key>ru</key>
-      <value>Загрузить файл в хранилище внешней обработки в базе. После этого он станет использоваться всеми пользователями.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Загрузить файл в хранилище внешней обработки в базе. После этого он станет использоваться всеми пользователями.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Загрузить файл в хранилище внешней обработки в базе. После этого он станет использоваться всеми пользователями.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Загрузить файл в хранилище внешней обработки в базе. После этого он станет использоваться всеми пользователями.</value>
     </toolTip>
     <use>
@@ -1333,28 +1333,28 @@
   <formCommands>
     <name>ОткрытьКонфигуратор</name>
     <title>
-      <key>ru</key>
-      <value>Открыть конфигуратор</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Открыть конфигуратор</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Открыть конфигуратор</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Открыть конфигуратор</value>
     </title>
     <id>5</id>
     <toolTip>
-      <key>ru</key>
-      <value>Открыть конфигуратор</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Открыть конфигуратор</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Открыть конфигуратор</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Открыть конфигуратор</value>
     </toolTip>
     <use>
@@ -1374,28 +1374,28 @@
   <formCommands>
     <name>УдалитьФайлы</name>
     <title>
-      <key>ru</key>
-      <value>Удалить файлы</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Удалить файлы</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Удалить файлы</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Удалить файлы</value>
     </title>
     <id>6</id>
     <toolTip>
-      <key>ru</key>
-      <value>Удалить выделенные файлы для обновления их из справочника</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Удалить выделенные файлы для обновления их из справочника</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Удалить выделенные файлы для обновления их из справочника</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Удалить выделенные файлы для обновления их из справочника</value>
     </toolTip>
     <use>
@@ -1411,28 +1411,28 @@
   <formCommands>
     <name>ОПодсистеме</name>
     <title>
-      <key>ru</key>
-      <value>О подсистеме</value>
-    </title>
-    <title>
       <key>en</key>
       <value>О подсистеме</value>
     </title>
     <title>
       <key>uk</key>
+      <value>О подсистеме</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>О подсистеме</value>
     </title>
     <id>7</id>
     <toolTip>
-      <key>ru</key>
-      <value>О подсистеме</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>О подсистеме</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>О подсистеме</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>О подсистеме</value>
     </toolTip>
     <use>

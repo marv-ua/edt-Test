@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирСлужебный</name>
   <synonym>
-    <key>ru</key>
-    <value>Служебный (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Служебный (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Служебный (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Служебный (ИР)</value>
   </synonym>
   <comment>Вспомогательная</comment>

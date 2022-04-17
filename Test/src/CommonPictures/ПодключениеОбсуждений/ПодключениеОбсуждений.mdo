@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Подключение обсуждений</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Підключення обговорень</value>
+  </synonym>
 </mdclass:CommonPicture>

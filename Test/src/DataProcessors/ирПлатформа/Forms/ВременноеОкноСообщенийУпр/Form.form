@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>ru</key>
-    <value>Текущие сообщения</value>
-  </title>
-  <title>
     <key>en</key>
     <value>Текущие сообщения</value>
   </title>
   <title>
     <key>uk</key>
+    <value>Текущие сообщения</value>
+  </title>
+  <title>
+    <key>ru</key>
     <value>Текущие сообщения</value>
   </title>
   <items xsi:type="form:FormGroup">
@@ -182,10 +182,6 @@
       <common>true</common>
     </userVisible>
     <title>
-      <key>ru</key>
-      <value>Группа основная</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Группа основная</value>
     </title>
@@ -193,16 +189,20 @@
       <key>uk</key>
       <value>Группа основная</value>
     </title>
-    <toolTip>
+    <title>
       <key>ru</key>
       <value>Группа основная</value>
-    </toolTip>
+    </title>
     <toolTip>
       <key>en</key>
       <value>Группа основная</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Группа основная</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Группа основная</value>
     </toolTip>
     <extendedTooltip>
@@ -266,15 +266,15 @@
   <attributes>
     <name>Текст</name>
     <title>
-      <key>ru</key>
-      <value>Текст</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Текст</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Текст</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Текст</value>
     </title>
     <id>1</id>
@@ -292,15 +292,15 @@
   <attributes>
     <name>ПоследнееОбновлениеОтображения</name>
     <title>
-      <key>ru</key>
-      <value>Последнее обновление отображения</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последнее обновление отображения</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последнее обновление отображения</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последнее обновление отображения</value>
     </title>
     <id>2</id>
@@ -318,15 +318,15 @@
   <attributes>
     <name>МоментОткрытия</name>
     <title>
-      <key>ru</key>
-      <value>Момент открытия</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Момент открытия</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Момент открытия</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Момент открытия</value>
     </title>
     <id>3</id>

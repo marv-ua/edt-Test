@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Вопрос (32x32)</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Питання (32x32)</value>
+  </synonym>
 </mdclass:CommonPicture>

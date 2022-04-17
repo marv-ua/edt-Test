@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирОболочкаПолеТекста</name>
   <synonym>
-    <key>ru</key>
-    <value>Ир оболочка поле текста</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Ир оболочка поле текста</value>
   </synonym>
@@ -17,18 +13,22 @@
     <key>uk</key>
     <value>Ир оболочка поле текста</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Ир оболочка поле текста</value>
+  </synonym>
   <attributes uuid="fa7d91da-504a-417c-af3c-a6ec0daec474">
     <name>ЭлементФормы</name>
-    <synonym>
-      <key>ru</key>
-      <value>Элемент формы</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Элемент формы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Элемент формы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Элемент формы</value>
     </synonym>
     <type/>

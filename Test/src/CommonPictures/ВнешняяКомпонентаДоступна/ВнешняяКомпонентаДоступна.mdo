@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Внешняя компонента доступна</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Зовнішня компонента доступна</value>
+  </synonym>
 </mdclass:CommonPicture>

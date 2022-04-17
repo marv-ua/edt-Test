@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Виды операций</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Види операцій</value>
+  </synonym>
 </mdclass:CommonPicture>

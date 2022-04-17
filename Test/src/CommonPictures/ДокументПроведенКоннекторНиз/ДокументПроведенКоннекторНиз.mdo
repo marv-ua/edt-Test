@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Документ проведен коннектор низ</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Документ проведений конектор низ</value>
+  </synonym>
 </mdclass:CommonPicture>

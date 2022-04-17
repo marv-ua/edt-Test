@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирПодпискиНаСобытия</name>
   <synonym>
-    <key>ru</key>
-    <value>Подписки на события (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Подписки на события (ИР)</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Подписки на события (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Подписки на события (ИР)</value>
+  </synonym>
   <defaultForm>Report.ирПодпискиНаСобытия.Form.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ирПодпискиНаСобытия.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
   <attributes uuid="df277108-a4b8-4eb6-a1fd-d581c31dcaf8">
     <name>ОбъектМетаданных</name>
-    <synonym>
-      <key>ru</key>
-      <value>Объект метаданных</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Объект метаданных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Объект метаданных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Объект метаданных</value>
     </synonym>
     <type>
@@ -43,15 +43,15 @@
   <attributes uuid="2741e7cd-ee5a-4697-b128-60a663fa132c">
     <name>Событие</name>
     <synonym>
-      <key>ru</key>
-      <value>Событие</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Событие</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Событие</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Событие</value>
     </synonym>
     <type>
@@ -64,15 +64,15 @@
   <forms uuid="f43c4069-364a-4d01-a1a7-16ec5252409c">
     <name>ФормаОтчета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма отчета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -82,15 +82,15 @@
   <templates uuid="af96b06e-a15f-49b6-a63e-69e54df3fd14">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -98,30 +98,30 @@
   <templates uuid="55b86d18-22bf-4cde-80ce-725eab40cf54">
     <name>События</name>
     <synonym>
-      <key>ru</key>
-      <value>События</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>События</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>События</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>События</value>
     </synonym>
   </templates>
   <commands uuid="2ab3a7da-e662-4fb3-9d94-00512653fc14">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Подписки на события (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Подписки на события (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Подписки на события (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Подписки на события (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

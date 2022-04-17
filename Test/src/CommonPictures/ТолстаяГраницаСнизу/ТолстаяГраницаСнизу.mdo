@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Толстая граница снизу</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Товста границя знизу</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Заполнить форму</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Заповнити форму</value>
+  </synonym>
 </mdclass:CommonPicture>

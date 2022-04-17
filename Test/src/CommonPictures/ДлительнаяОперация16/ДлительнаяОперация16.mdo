@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Длительная операция</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Тривала операція</value>
+  </synonym>
 </mdclass:CommonPicture>

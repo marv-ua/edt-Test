@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2b503872-d330-46df-8eb9-e257a993c272">
+  <name>СтрелкаВперед</name>
+  <synonym>
+    <key>ru</key>
+    <value>Стрелка вперед</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стрілка вперед</value>
+  </synonym>
+  <transparentPixel>
+    <x>14</x>
+    <y>3</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

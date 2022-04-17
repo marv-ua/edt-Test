@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2b6961aa-b53b-47b1-979d-87b04ca87a14">
+  <name>РегистрНакопления_Остатки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр накопления (остатков)</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Регістр накопичення (залишків)</value>
+  </synonym>
+  <transparentPixel>
+    <x>5</x>
+    <y>13</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

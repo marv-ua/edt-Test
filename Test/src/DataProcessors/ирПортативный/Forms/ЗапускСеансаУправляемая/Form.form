@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>ru</key>
-    <value>Инструменты разработчика. Запуск сеанса</value>
-  </title>
-  <title>
     <key>en</key>
     <value>Инструменты разработчика. Запуск сеанса</value>
   </title>
   <title>
     <key>uk</key>
+    <value>Инструменты разработчика. Запуск сеанса</value>
+  </title>
+  <title>
+    <key>ru</key>
     <value>Инструменты разработчика. Запуск сеанса</value>
   </title>
   <items xsi:type="form:FormGroup">
@@ -126,15 +126,15 @@
         <name>Текст</name>
         <id>1</id>
         <title>
-          <key>ru</key>
-          <value>&lt;Предупреждение></value>
-        </title>
-        <title>
           <key>en</key>
           <value>&lt;Предупреждение></value>
         </title>
         <title>
           <key>uk</key>
+          <value>&lt;Предупреждение></value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>&lt;Предупреждение></value>
         </title>
         <visible>true</visible>
@@ -183,15 +183,15 @@
         <common>true</common>
       </userVisible>
       <title>
-        <key>ru</key>
-        <value>Группа левая</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Группа левая</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Группа левая</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Группа левая</value>
       </title>
       <extendedTooltip>
@@ -234,15 +234,15 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
-          <key>ru</key>
-          <value>Завершить текущий сеанс после запуска нового</value>
-        </toolTip>
-        <toolTip>
           <key>en</key>
           <value>Завершить текущий сеанс после запуска нового</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Завершить текущий сеанс после запуска нового</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Завершить текущий сеанс после запуска нового</value>
         </toolTip>
         <handlers>
@@ -294,15 +294,15 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
-          <key>ru</key>
-          <value>Закрыть эту форму после запуска</value>
-        </toolTip>
-        <toolTip>
           <key>en</key>
           <value>Закрыть эту форму после запуска</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Закрыть эту форму после запуска</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Закрыть эту форму после запуска</value>
         </toolTip>
         <extendedTooltip>
@@ -350,15 +350,6 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
-          <key>ru</key>
-          <value>Применить текущие параметры запуска к запускаемому сеансу
-- язык системы и код локализации сеанса
-- подключение отладчика
-- доступность команды &quot;Все функции&quot; (режим технического специалиста)
-- поиск аппаратных лицензий 
-- код разрешения</value>
-        </toolTip>
-        <toolTip>
           <key>en</key>
           <value>Применить текущие параметры запуска к запускаемому сеансу
 - язык системы и код локализации сеанса
@@ -369,6 +360,15 @@
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Применить текущие параметры запуска к запускаемому сеансу
+- язык системы и код локализации сеанса
+- подключение отладчика
+- доступность команды &quot;Все функции&quot; (режим технического специалиста)
+- поиск аппаратных лицензий 
+- код разрешения</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Применить текущие параметры запуска к запускаемому сеансу
 - язык системы и код локализации сеанса
 - подключение отладчика
@@ -463,15 +463,15 @@
         <name>ДополнительныеПараметры</name>
         <id>8039</id>
         <title>
-          <key>ru</key>
-          <value>Доп. параметры</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Доп. параметры</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Доп. параметры</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Доп. параметры</value>
         </title>
         <visible>true</visible>
@@ -534,15 +534,15 @@
         </dataPath>
         <titleLocation>Right</titleLocation>
         <toolTip>
-          <key>ru</key>
-          <value>Запустить от имени текущего пользователя</value>
-        </toolTip>
-        <toolTip>
           <key>en</key>
           <value>Запустить от имени текущего пользователя</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Запустить от имени текущего пользователя</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Запустить от имени текущего пользователя</value>
         </toolTip>
         <handlers>
@@ -597,15 +597,15 @@
           </dataPath>
           <titleLocation>Right</titleLocation>
           <toolTip>
-            <key>ru</key>
-            <value>Отключить защиту от опасных действий для текущего пользователя. Это необходимо для корректной работы инструментов.</value>
-          </toolTip>
-          <toolTip>
             <key>en</key>
             <value>Отключить защиту от опасных действий для текущего пользователя. Это необходимо для корректной работы инструментов.</value>
           </toolTip>
           <toolTip>
             <key>uk</key>
+            <value>Отключить защиту от опасных действий для текущего пользователя. Это необходимо для корректной работы инструментов.</value>
+          </toolTip>
+          <toolTip>
+            <key>ru</key>
             <value>Отключить защиту от опасных действий для текущего пользователя. Это необходимо для корректной работы инструментов.</value>
           </toolTip>
           <extendedTooltip>
@@ -653,15 +653,15 @@
           </dataPath>
           <titleLocation>Right</titleLocation>
           <toolTip>
-            <key>ru</key>
-            <value>Включить компактный вариант масштаба управляемых форм. Вернуть обычный вариант можно в инструменте &quot;Редактор пользователей&quot;.</value>
-          </toolTip>
-          <toolTip>
             <key>en</key>
             <value>Включить компактный вариант масштаба управляемых форм. Вернуть обычный вариант можно в инструменте &quot;Редактор пользователей&quot;.</value>
           </toolTip>
           <toolTip>
             <key>uk</key>
+            <value>Включить компактный вариант масштаба управляемых форм. Вернуть обычный вариант можно в инструменте &quot;Редактор пользователей&quot;.</value>
+          </toolTip>
+          <toolTip>
+            <key>ru</key>
             <value>Включить компактный вариант масштаба управляемых форм. Вернуть обычный вариант можно в инструменте &quot;Редактор пользователей&quot;.</value>
           </toolTip>
           <extendedTooltip>
@@ -700,15 +700,15 @@
           <name>ПарольТекущегоПользователя</name>
           <id>8025</id>
           <title>
-            <key>ru</key>
-            <value>Пароль</value>
-          </title>
-          <title>
             <key>en</key>
             <value>Пароль</value>
           </title>
           <title>
             <key>uk</key>
+            <value>Пароль</value>
+          </title>
+          <title>
+            <key>ru</key>
             <value>Пароль</value>
           </title>
           <visible>true</visible>
@@ -720,15 +720,15 @@
             <segments>ПарольТекущегоПользователя</segments>
           </dataPath>
           <toolTip>
-            <key>ru</key>
-            <value>Пароль не сохраняется</value>
-          </toolTip>
-          <toolTip>
             <key>en</key>
             <value>Пароль не сохраняется</value>
           </toolTip>
           <toolTip>
             <key>uk</key>
+            <value>Пароль не сохраняется</value>
+          </toolTip>
+          <toolTip>
+            <key>ru</key>
             <value>Пароль не сохраняется</value>
           </toolTip>
           <extendedTooltip>
@@ -777,10 +777,6 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Группа параметры пользователя</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Группа параметры пользователя</value>
         </title>
@@ -788,16 +784,20 @@
           <key>uk</key>
           <value>Группа параметры пользователя</value>
         </title>
-        <toolTip>
+        <title>
           <key>ru</key>
           <value>Группа параметры пользователя</value>
-        </toolTip>
+        </title>
         <toolTip>
           <key>en</key>
           <value>Группа параметры пользователя</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Группа параметры пользователя</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Группа параметры пользователя</value>
         </toolTip>
         <extendedTooltip>
@@ -916,15 +916,15 @@
   <attributes>
     <name>Объект</name>
     <title>
-      <key>ru</key>
-      <value>Объект</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Объект</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Объект</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Объект</value>
     </title>
     <id>1</id>
@@ -941,15 +941,15 @@
   <attributes>
     <name>КодРазрешения</name>
     <title>
-      <key>ru</key>
-      <value>Код разрешения</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Код разрешения</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Код разрешения</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Код разрешения</value>
     </title>
     <id>8000</id>
@@ -972,15 +972,15 @@
   <attributes>
     <name>ПрименитьТекущиеПараметрыЗапуска</name>
     <title>
-      <key>ru</key>
-      <value>Применить текущие параметры запуска</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Применить текущие параметры запуска</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Применить текущие параметры запуска</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Применить текущие параметры запуска</value>
     </title>
     <id>8001</id>
@@ -1000,15 +1000,15 @@
   <attributes>
     <name>ЗакрытьФорму</name>
     <title>
-      <key>ru</key>
-      <value>Закрыть форму</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Закрыть форму</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Закрыть форму</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Закрыть форму</value>
     </title>
     <id>8002</id>
@@ -1028,15 +1028,15 @@
   <attributes>
     <name>ТекущийПользователь</name>
     <title>
-      <key>ru</key>
-      <value>Текущий пользователь</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Текущий пользователь</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Текущий пользователь</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Текущий пользователь</value>
     </title>
     <id>8003</id>
@@ -1056,15 +1056,15 @@
   <attributes>
     <name>ПарольТекущегоПользователя</name>
     <title>
-      <key>ru</key>
-      <value>Пароль текущего пользователя</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Пароль текущего пользователя</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Пароль текущего пользователя</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Пароль текущего пользователя</value>
     </title>
     <id>8004</id>
@@ -1082,15 +1082,15 @@
   <attributes>
     <name>ОтключитьЗащитуОтОпасныхДействий</name>
     <title>
-      <key>ru</key>
-      <value>Отключить защиту от опасных действий</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отключить защиту от опасных действий</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отключить защиту от опасных действий</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отключить защиту от опасных действий</value>
     </title>
     <id>8005</id>
@@ -1110,15 +1110,15 @@
   <attributes>
     <name>ВключитьКомпактныйВариантФорм</name>
     <title>
-      <key>ru</key>
-      <value>Включить компактный вариант форм</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Включить компактный вариант форм</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Включить компактный вариант форм</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Включить компактный вариант форм</value>
     </title>
     <id>8006</id>
@@ -1138,15 +1138,15 @@
   <attributes>
     <name>ЗавершитьСеанс</name>
     <title>
-      <key>ru</key>
-      <value>Завершить сеанс</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Завершить сеанс</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Завершить сеанс</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Завершить сеанс</value>
     </title>
     <id>8007</id>
@@ -1166,15 +1166,15 @@
   <attributes>
     <name>ДополнительныеПараметры</name>
     <title>
-      <key>ru</key>
-      <value>Дополнительные параметры</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Дополнительные параметры</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Дополнительные параметры</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Дополнительные параметры</value>
     </title>
     <id>8008</id>
@@ -1195,15 +1195,15 @@
   <attributes>
     <name>ДобавленаРоль</name>
     <title>
-      <key>ru</key>
-      <value>Добавлена роль</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Добавлена роль</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Добавлена роль</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Добавлена роль</value>
     </title>
     <id>2</id>
@@ -1220,15 +1220,15 @@
   <attributes>
     <name>НавигационнаяСсылкаИзПараметра</name>
     <title>
-      <key>ru</key>
-      <value>Навигационная ссылка из параметра</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Навигационная ссылка из параметра</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Навигационная ссылка из параметра</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Навигационная ссылка из параметра</value>
     </title>
     <id>3</id>
@@ -1246,15 +1246,15 @@
   <attributes>
     <name>ИмяФормыДляОткрытия</name>
     <title>
-      <key>ru</key>
-      <value>Имя формы для открытия</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Имя формы для открытия</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Имя формы для открытия</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Имя формы для открытия</value>
     </title>
     <id>4</id>
@@ -1272,28 +1272,28 @@
   <formCommands>
     <name>ЗапуститьОбычноеПриложение</name>
     <title>
-      <key>ru</key>
-      <value>Запустить обычное приложение</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Запустить обычное приложение</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Запустить обычное приложение</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Запустить обычное приложение</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Запустить обычное приложение</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Запустить обычное приложение</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Запустить обычное приложение</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Запустить обычное приложение</value>
     </toolTip>
     <use>
@@ -1310,28 +1310,28 @@
   <formCommands>
     <name>ЗапуститьТолстыйКлиент</name>
     <title>
-      <key>ru</key>
-      <value>Запустить толстый клиент</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Запустить толстый клиент</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Запустить толстый клиент</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Запустить толстый клиент</value>
     </title>
     <id>2</id>
     <toolTip>
-      <key>ru</key>
-      <value>Запустить толстый клиент управляемое приложение</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Запустить толстый клиент управляемое приложение</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Запустить толстый клиент управляемое приложение</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Запустить толстый клиент управляемое приложение</value>
     </toolTip>
     <use>

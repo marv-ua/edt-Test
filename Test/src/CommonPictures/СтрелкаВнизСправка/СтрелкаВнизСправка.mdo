@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Стрелка вниз справка</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стрілка вниз довідка</value>
+  </synonym>
 </mdclass:CommonPicture>

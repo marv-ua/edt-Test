@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Переместить вправо вниз</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Перемістити вправо вниз</value>
+  </synonym>
 </mdclass:CommonPicture>

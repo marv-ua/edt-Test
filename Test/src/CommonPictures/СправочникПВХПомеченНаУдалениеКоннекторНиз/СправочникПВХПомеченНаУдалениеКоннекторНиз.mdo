@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Справочник ПВХ помечен на удаление коннектор низ</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідник ПВХ позначений на видалення коннектор низ</value>
+  </synonym>
 </mdclass:CommonPicture>

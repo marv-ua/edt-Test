@@ -4,30 +4,7 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>AccumulationRegister.Взаиморасчеты</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.Контрагенты</name>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
+		<name>Document.РасходДенег</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -41,58 +18,19 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveClearDeletionMark</name>
+			<name>Posting</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveSetDeletionMark</name>
+			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
-		<right>
-			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.СтатьиДвиженияДенежныхСредств</name>
 		<right>
 			<name>View</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -104,15 +42,35 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>InteractivePosting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractivePostingRegular</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveUndoPosting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveChangeOfPosted</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>ReadDataHistory</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>ViewDataHistory</name>
+			<name>UpdateDataHistoryVersionComment</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>UpdateDataHistoryVersionComment</name>
+			<name>ViewDataHistory</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -147,11 +105,11 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveClearDeletionMark</name>
+			<name>InteractiveSetDeletionMark</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveSetDeletionMark</name>
+			<name>InteractiveClearDeletionMark</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -159,11 +117,11 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>ViewDataHistory</name>
+			<name>UpdateDataHistoryVersionComment</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>UpdateDataHistoryVersionComment</name>
+			<name>ViewDataHistory</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -173,6 +131,99 @@
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
 			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Document.ПоступлениеДенег</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Insert</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Posting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UndoPosting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveSetDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractivePosting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractivePostingRegular</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveUndoPosting</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveChangeOfPosted</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InputByString</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ReadDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ViewDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>EditDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>SwitchToDataHistoryVersion</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>AccumulationRegister.Взаиморасчеты.Dimension.Валюта</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>AccumulationRegister.Взаиморасчеты.Resource.Сумма</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
 		</right>
 	</object>
 	<object>
@@ -198,11 +249,11 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveClearDeletionMark</name>
+			<name>InteractiveSetDeletionMark</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>InteractiveSetDeletionMark</name>
+			<name>InteractiveClearDeletionMark</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -210,11 +261,11 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>ViewDataHistory</name>
+			<name>UpdateDataHistoryVersionComment</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>UpdateDataHistoryVersionComment</name>
+			<name>ViewDataHistory</name>
 			<value>true</value>
 		</right>
 		<right>
@@ -227,86 +278,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Document.ПоступлениеДенег</name>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveUndoPosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractivePostingRegular</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractivePosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveChangeOfPosted</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document.РасходДенег</name>
+		<name>AccumulationRegister.Взаиморасчеты</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -316,104 +288,16 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>Edit</name>
-			<value>true</value>
-		</right>
-		<right>
 			<name>View</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractivePosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractivePostingRegular</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveUndoPosting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>InteractiveChangeOfPosted</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
+			<name>TotalsControl</name>
 			<value>true</value>
 		</right>
 	</object>
 	<object>
 		<name>AccumulationRegister.Взаиморасчеты.StandardAttribute.RecordType</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister.Взаиморасчеты.Resource.Сумма</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister.Взаиморасчеты.StandardAttribute.Recorder</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister.Взаиморасчеты.StandardAttribute.LineNumber</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister.Взаиморасчеты.Dimension.Контрагент</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -427,7 +311,14 @@
 		</right>
 	</object>
 	<object>
-		<name>AccumulationRegister.Взаиморасчеты.Dimension.Валюта</name>
+		<name>AccumulationRegister.Взаиморасчеты.StandardAttribute.LineNumber</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>AccumulationRegister.Взаиморасчеты.StandardAttribute.Recorder</name>
 		<right>
 			<name>Edit</name>
 			<value>false</value>
@@ -438,6 +329,115 @@
 		<right>
 			<name>Edit</name>
 			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>AccumulationRegister.Взаиморасчеты.Dimension.Контрагент</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.СтатьиДвиженияДенежныхСредств</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Insert</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveSetDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ReadDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ViewDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>EditDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>SwitchToDataHistoryVersion</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Контрагенты</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Insert</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Update</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>Edit</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveSetDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>InteractiveClearDeletionMark</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ReadDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>UpdateDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ViewDataHistory</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>EditDataHistoryVersionComment</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>SwitchToDataHistoryVersion</name>
+			<value>true</value>
 		</right>
 	</object>
 </Rights>

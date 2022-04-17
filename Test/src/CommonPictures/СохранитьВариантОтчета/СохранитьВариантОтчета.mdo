@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Сохранить вариант отчета</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Зберегти варіант звіту</value>
+  </synonym>
 </mdclass:CommonPicture>

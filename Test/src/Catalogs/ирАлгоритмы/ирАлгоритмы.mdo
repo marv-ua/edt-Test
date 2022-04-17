@@ -9,15 +9,15 @@
   </producedTypes>
   <name>ирАлгоритмы</name>
   <synonym>
-    <key>ru</key>
-    <value>Алгоритмы (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Алгоритмы (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Алгоритмы (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Алгоритмы (ИР)</value>
   </synonym>
   <inputByString>Catalog.ирАлгоритмы.StandardAttribute.Description</inputByString>
@@ -115,15 +115,15 @@
   <attributes uuid="752333cd-4139-4023-9718-89eacc6b00b3">
     <name>ТекстАлгоритма</name>
     <synonym>
-      <key>ru</key>
-      <value>Текст алгоритма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Текст алгоритма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Текст алгоритма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Текст алгоритма</value>
     </synonym>
     <type>
@@ -141,15 +141,15 @@
   <attributes uuid="c8656f15-4984-4ee2-b095-393b5122dbef">
     <name>ДатаИзменения</name>
     <synonym>
-      <key>ru</key>
-      <value>Дата изменения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дата изменения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дата изменения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дата изменения</value>
     </synonym>
     <type>
@@ -166,15 +166,15 @@
   <attributes uuid="f2413c27-5a5e-4061-a64e-dfecccc25fab">
     <name>Комментарий</name>
     <synonym>
-      <key>ru</key>
-      <value>Комментарий</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Комментарий</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Комментарий</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Комментарий</value>
     </synonym>
     <type>
@@ -197,15 +197,15 @@
     </producedTypes>
     <name>Параметры</name>
     <synonym>
-      <key>ru</key>
-      <value>Параметры</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Параметры</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Параметры</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Параметры</value>
     </synonym>
     <standardAttributes>
@@ -219,15 +219,15 @@
     <attributes uuid="91ba1118-c685-436c-9cb5-9e48be1fa2fa">
       <name>Вход</name>
       <synonym>
-        <key>ru</key>
-        <value>Вход</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Вход</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Вход</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Вход</value>
       </synonym>
       <type>
@@ -241,15 +241,15 @@
     <attributes uuid="97e52288-772a-44f1-b1e5-87946a181136">
       <name>Выход</name>
       <synonym>
-        <key>ru</key>
-        <value>Выход</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Выход</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Выход</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Выход</value>
       </synonym>
       <type>
@@ -263,15 +263,15 @@
     <attributes uuid="c75b215e-4045-417b-ad3b-81cee427b74d">
       <name>ДопустимыеТипы</name>
       <synonym>
-        <key>ru</key>
-        <value>Допустимые типы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Допустимые типы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Допустимые типы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Допустимые типы</value>
       </synonym>
       <type>
@@ -286,15 +286,15 @@
     <attributes uuid="ed73fc4f-631a-4947-9658-edd7c83a3d7f">
       <name>Значение</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение</value>
       </synonym>
       <type>
@@ -320,15 +320,15 @@
     <attributes uuid="fb41bfc4-ae98-41e4-b7f5-2bd50ba8d374">
       <name>ЗначениеХранилище</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение хранилище</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение хранилище</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение хранилище</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение хранилище</value>
       </synonym>
       <type>
@@ -342,15 +342,15 @@
     <attributes uuid="cfe27c3e-153d-478c-be7e-316dcb4820d0">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -368,15 +368,15 @@
   <forms uuid="dfc6daf1-67ea-4070-8f07-213451065108">
     <name>ФормаЭлемента</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма элемента</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма элемента</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма элемента</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -386,15 +386,15 @@
   <forms uuid="14c3fc6b-84b9-47f8-8d22-7f66a7ae5c3b">
     <name>ФормаСписка</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма списка</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма списка</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма списка</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма списка</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -404,15 +404,15 @@
   <forms uuid="22be523e-211e-4c12-a1dd-156c5ff2a9d8">
     <name>ФормаСпискаУпр</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма списка упр</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма списка упр</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма списка упр</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма списка упр</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
@@ -421,15 +421,15 @@
   <forms uuid="e4fac686-4e42-4713-9022-57d00fe38c6e">
     <name>ФормаВыбораУпр</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора упр</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора упр</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора упр</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора упр</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
@@ -438,15 +438,15 @@
   <commands uuid="d2f08665-e019-47dc-bd2a-7cd8919c48d8">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Алгоритмы (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Алгоритмы (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Алгоритмы (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Алгоритмы (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>
@@ -456,30 +456,30 @@
   <commands uuid="b94f2fc6-8dd9-4a1b-88c6-9d061b7c5766">
     <name>ОткрытьНастройкиАлгоритмов</name>
     <synonym>
-      <key>ru</key>
-      <value>Настройки алгоритмов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Настройки алгоритмов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Настройки алгоритмов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Настройки алгоритмов</value>
     </synonym>
     <group>ActionsPanelTools</group>
     <commandParameterType/>
     <representation>Auto</representation>
     <toolTip>
-      <key>ru</key>
-      <value>Открыть настройки алгоритмов</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Открыть настройки алгоритмов</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Открыть настройки алгоритмов</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Открыть настройки алгоритмов</value>
     </toolTip>
     <picture xsi:type="core:PictureRef">

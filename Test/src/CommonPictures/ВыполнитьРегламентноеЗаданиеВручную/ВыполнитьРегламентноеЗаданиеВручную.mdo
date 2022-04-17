@@ -5,6 +5,10 @@
     <key>ru</key>
     <value>Выполнить регламентное задание вручную</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Виконати регламентне завдання вручну</value>
+  </synonym>
   <transparentPixel>
     <x>14</x>
     <y>8</y>

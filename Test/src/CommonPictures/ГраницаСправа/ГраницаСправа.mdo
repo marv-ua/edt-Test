@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Граница справа</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Границя праворуч</value>
+  </synonym>
 </mdclass:CommonPicture>

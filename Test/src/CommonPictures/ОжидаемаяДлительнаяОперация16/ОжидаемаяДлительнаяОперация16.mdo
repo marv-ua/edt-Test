@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Ожидаемая длительная операция 16</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Очікувана тривала операція 16</value>
+  </synonym>
 </mdclass:CommonPicture>

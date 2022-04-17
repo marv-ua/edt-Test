@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Коннектор лево право</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Конектор ліво право</value>
+  </synonym>
 </mdclass:CommonPicture>

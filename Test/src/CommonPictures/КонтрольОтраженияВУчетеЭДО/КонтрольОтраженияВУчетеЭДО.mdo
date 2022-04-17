@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="afa5e2de-bda6-4689-9fd1-4954bdd72c3b">
+  <name>КонтрольОтраженияВУчетеЭДО</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контроль отражения в учете ЭДО</value>
+  </synonym>
+</mdclass:CommonPicture>

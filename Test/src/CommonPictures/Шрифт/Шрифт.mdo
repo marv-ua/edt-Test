@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Шрифт</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Шрифт</value>
+  </synonym>
 </mdclass:CommonPicture>

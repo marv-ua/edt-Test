@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Рассчитать</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Розрахувати</value>
+  </synonym>
 </mdclass:CommonPicture>

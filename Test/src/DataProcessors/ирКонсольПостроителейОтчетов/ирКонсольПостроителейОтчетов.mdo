@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирКонсольПостроителейОтчетов</name>
   <synonym>
-    <key>ru</key>
-    <value>Консоль построителей отчетов (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Консоль построителей отчетов (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Консоль построителей отчетов (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Консоль построителей отчетов (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирКонсольПостроителейОтчетов.Form.Форма</defaultForm>
@@ -27,15 +27,15 @@
   <attributes uuid="f3d80cb8-7e01-4e83-890a-00bfba7fd198">
     <name>ПостроительОтчетов</name>
     <synonym>
-      <key>ru</key>
-      <value>Построитель отчетов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Построитель отчетов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Построитель отчетов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Построитель отчетов</value>
     </synonym>
     <type>
@@ -47,15 +47,15 @@
   <attributes uuid="ae2e428b-2e16-4ba2-bd9b-6a054b77807d">
     <name>ВыбТипДиаграммы</name>
     <synonym>
-      <key>ru</key>
-      <value>Выб тип диаграммы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выб тип диаграммы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выб тип диаграммы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выб тип диаграммы</value>
     </synonym>
     <type/>
@@ -65,15 +65,15 @@
   <attributes uuid="becb0b27-c47b-49bc-8331-3464a75ef4a0">
     <name>ДеревоЗапросов</name>
     <synonym>
-      <key>ru</key>
-      <value>Дерево запросов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дерево запросов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дерево запросов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дерево запросов</value>
     </synonym>
     <type>
@@ -85,15 +85,15 @@
   <attributes uuid="5075b138-7241-4ade-a2d6-b8a9820bd220">
     <name>ВыбТипСводДиаграммы</name>
     <synonym>
-      <key>ru</key>
-      <value>Выб тип свод диаграммы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выб тип свод диаграммы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выб тип свод диаграммы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выб тип свод диаграммы</value>
     </synonym>
     <type/>
@@ -103,15 +103,15 @@
   <attributes uuid="d6ed24c5-4a7b-4c26-b299-1d76eef754d0">
     <name>Автозапуск</name>
     <synonym>
-      <key>ru</key>
-      <value>Автозапуск</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Автозапуск</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Автозапуск</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Автозапуск</value>
     </synonym>
     <type>
@@ -123,15 +123,15 @@
   <attributes uuid="2d24a299-a88e-4313-b5e8-55a0ae4e2e3d">
     <name>РасширенныйРежим</name>
     <synonym>
-      <key>ru</key>
-      <value>Расширенный режим</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Расширенный режим</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Расширенный режим</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Расширенный режим</value>
     </synonym>
     <type>
@@ -143,15 +143,15 @@
   <attributes uuid="a823da6f-f9ff-44bc-b40e-13389ac4da15">
     <name>мНеВосстанавливатьНастройкиПриОткрытии</name>
     <synonym>
-      <key>ru</key>
-      <value>Не восстанавливать настройки при открытии</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Не восстанавливать настройки при открытии</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Не восстанавливать настройки при открытии</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Не восстанавливать настройки при открытии</value>
     </synonym>
     <type>
@@ -163,15 +163,15 @@
   <attributes uuid="98447b9d-c5e6-443b-9c93-7916ad53a71d">
     <name>ОтображатьНастройки</name>
     <synonym>
-      <key>ru</key>
-      <value>Отображать настройки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Отображать настройки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Отображать настройки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Отображать настройки</value>
     </synonym>
     <type>
@@ -183,15 +183,15 @@
   <forms uuid="b764459b-cb24-4e43-893a-8afdda8c094c">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -207,15 +207,15 @@
   <forms uuid="0beaa9dc-bcc5-47b0-aec1-90aec439369d">
     <name>ФормаВыбораИзмерения</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора измерения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора измерения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора измерения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора измерения</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -225,15 +225,15 @@
   <forms uuid="b135617b-263a-495b-b1a1-9bb5dd1a62b6">
     <name>ФормаВыбораОтчета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора отчета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -243,15 +243,15 @@
   <forms uuid="b604d69a-c236-4715-857d-36ef19b1864a">
     <name>ФормаВыбораСтрокиДереваЗапросов</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора строки дерева запросов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора строки дерева запросов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора строки дерева запросов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора строки дерева запросов</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -261,15 +261,15 @@
   <forms uuid="85d51c23-a718-4319-9bc5-35935eaaada8">
     <name>ФормаРедактированияЗапроса</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма редактирования запроса</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма редактирования запроса</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма редактирования запроса</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма редактирования запроса</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -285,15 +285,15 @@
   <forms uuid="a0dd1a1b-bf04-4501-8cff-1e7fc1b94724">
     <name>ФормаРедактированияМакета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма редактирования макета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма редактирования макета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма редактирования макета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма редактирования макета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -309,15 +309,15 @@
   <forms uuid="7e2338f4-110d-440c-a0d4-690cf9a50732">
     <name>ФормаСохраненияНастроек</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма сохранения настроек</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма сохранения настроек</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма сохранения настроек</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма сохранения настроек</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -333,30 +333,30 @@
   <templates uuid="68304e47-558e-4b7c-ba03-4311f563333c">
     <name>МакетЗаголовка</name>
     <synonym>
-      <key>ru</key>
-      <value>МакетЗаголовка</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>МакетЗаголовка</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>МакетЗаголовка</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>МакетЗаголовка</value>
     </synonym>
   </templates>
   <commands uuid="dd7190de-c5ca-48ab-82b1-e0b5401c3819">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Консоль построителей отчетов (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Консоль построителей отчетов (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Консоль построителей отчетов (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Консоль построителей отчетов (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

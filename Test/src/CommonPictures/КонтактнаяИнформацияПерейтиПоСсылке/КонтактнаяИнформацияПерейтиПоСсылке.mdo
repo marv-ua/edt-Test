@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Контактная информация перейти по ссылке</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Контактна інформація перейти за посиланням</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Заставка внешней операции</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Заставка зовнішньої операції</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,5 +5,9 @@
     <key>ru</key>
     <value>Режим использования приложения</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Режим використання програми</value>
+  </synonym>
   <comment>Режим использования приложения (в сервисе или локально)</comment>
 </mdclass:CommonPicture>

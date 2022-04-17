@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирРедакторПредопределенных</name>
   <synonym>
-    <key>ru</key>
-    <value>Редактор предопределенных (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Редактор предопределенных (ИР)</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Редактор предопределенных (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Редактор предопределенных (ИР)</value>
+  </synonym>
   <comment>Только для 8.3</comment>
   <defaultForm>DataProcessor.ирРедакторПредопределенных.Form.Форма</defaultForm>
   <attributes uuid="03057eee-31e1-4c47-be77-81caac92836e">
     <name>РежимОбновления</name>
-    <synonym>
-      <key>ru</key>
-      <value>Режим обновления</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Режим обновления</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Режим обновления</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Режим обновления</value>
     </synonym>
     <type>
@@ -49,15 +49,15 @@
     </producedTypes>
     <name>Типы</name>
     <synonym>
-      <key>ru</key>
-      <value>Типы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Типы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Типы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Типы</value>
     </synonym>
     <standardAttributes>
@@ -71,15 +71,15 @@
     <attributes uuid="45f77366-1d7a-4e04-91df-75227f8b5d5e">
       <name>ИмяТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <type>
@@ -97,15 +97,15 @@
     <attributes uuid="4e72f7fb-df82-4133-b301-f4df13799294">
       <name>КоличествоВсего</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество всего</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество всего</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество всего</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество всего</value>
       </synonym>
       <type>
@@ -121,15 +121,15 @@
     <attributes uuid="a4ab354f-8f60-494b-81ec-8c47dc673cb5">
       <name>ПредставлениеТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление типа ссылки</value>
       </synonym>
       <type>
@@ -147,15 +147,15 @@
     <attributes uuid="0326d8ee-c987-4eac-a0e4-535a5f9446d3">
       <name>КоличествоОтсутствующих</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество отсутствующих</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество отсутствующих</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество отсутствующих</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество отсутствующих</value>
       </synonym>
       <type>
@@ -171,15 +171,15 @@
     <attributes uuid="01538ccf-69dd-474c-bbb4-c85ce05bfc5b">
       <name>КоличествоЗадублированных</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество задублированных</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество задублированных</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество задублированных</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество задублированных</value>
       </synonym>
       <type>
@@ -195,15 +195,15 @@
     <attributes uuid="5a43d8ee-2c29-40ad-b66b-cb04047589e4">
       <name>РежимОбновления</name>
       <synonym>
-        <key>ru</key>
-        <value>Режим обновления</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Режим обновления</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Режим обновления</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Режим обновления</value>
       </synonym>
       <type>
@@ -221,15 +221,15 @@
     <attributes uuid="802ba58e-efde-4aba-9b94-9ead2b1c7be2">
       <name>РежимОбновленияИзМетаданных</name>
       <synonym>
-        <key>ru</key>
-        <value>Режим обновления из метаданных</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Режим обновления из метаданных</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Режим обновления из метаданных</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Режим обновления из метаданных</value>
       </synonym>
       <type>
@@ -247,15 +247,15 @@
     <attributes uuid="88ab6223-fce5-4026-a679-69441658a5ab">
       <name>РежимОбновленияРезультирующий</name>
       <synonym>
-        <key>ru</key>
-        <value>Режим обновления результирующий</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Режим обновления результирующий</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Режим обновления результирующий</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Режим обновления результирующий</value>
       </synonym>
       <type>
@@ -273,15 +273,15 @@
     <attributes uuid="678eff8c-a6cf-4681-8d4f-27b68bdce9bf">
       <name>ИнициализацияВыполнена</name>
       <synonym>
-        <key>ru</key>
-        <value>Инициализация выполнена</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Инициализация выполнена</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Инициализация выполнена</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Инициализация выполнена</value>
       </synonym>
       <type>
@@ -299,15 +299,15 @@
     </producedTypes>
     <name>Данные</name>
     <synonym>
-      <key>ru</key>
-      <value>Данные</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Данные</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Данные</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Данные</value>
     </synonym>
     <standardAttributes>
@@ -321,15 +321,15 @@
     <attributes uuid="a5f5e58e-08ef-4896-99f7-b4aa696e2a66">
       <name>ИмяПредопределенного</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя предопределенного</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя предопределенного</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя предопределенного</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя предопределенного</value>
       </synonym>
       <type>
@@ -347,15 +347,15 @@
     <attributes uuid="7eed5a2a-047a-4520-bf3e-d5243f37635c">
       <name>ИмяТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <type>
@@ -373,15 +373,15 @@
     <attributes uuid="f1e51156-adf8-49a9-a267-263514a11345">
       <name>КоличествоДанных</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество данных</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество данных</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество данных</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество данных</value>
       </synonym>
       <type>
@@ -397,15 +397,15 @@
     <attributes uuid="6bb5eab5-97da-4d51-a1f0-2201a8dae1db">
       <name>Ссылка</name>
       <synonym>
-        <key>ru</key>
-        <value>Ссылка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ссылка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ссылка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ссылка</value>
       </synonym>
       <type>
@@ -418,15 +418,15 @@
     <attributes uuid="896adcd4-3748-471c-a38e-061b359f808e">
       <name>Идентификатор</name>
       <synonym>
-        <key>ru</key>
-        <value>Идентификатор</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Идентификатор</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Идентификатор</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Идентификатор</value>
       </synonym>
       <type>
@@ -439,15 +439,15 @@
     <attributes uuid="8601a1c3-7a0a-47ec-a4d7-4c72a99a4380">
       <name>КоличествоОтсутствующих</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество отсутствующих</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество отсутствующих</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество отсутствующих</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество отсутствующих</value>
       </synonym>
       <type>
@@ -463,15 +463,15 @@
     <attributes uuid="2ebd31f3-04a6-49e1-a5e7-2b8ed718056e">
       <name>КоличествоЗадублированных</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество задублированных</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество задублированных</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество задублированных</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество задублированных</value>
       </synonym>
       <type>
@@ -487,15 +487,15 @@
     <attributes uuid="967c28ad-9742-4f57-bd6e-d088808f6b44">
       <name>КоличествоВсего</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество всего</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество всего</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество всего</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество всего</value>
       </synonym>
       <type>
@@ -512,15 +512,15 @@
   <forms uuid="3aea1cf1-dfc1-4dd1-8407-8ae01111ed62">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -530,15 +530,15 @@
   <commands uuid="7d61660a-ec88-489f-9f04-50d778c948d1">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Редактор предопределенных (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Редактор предопределенных (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Редактор предопределенных (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Редактор предопределенных (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

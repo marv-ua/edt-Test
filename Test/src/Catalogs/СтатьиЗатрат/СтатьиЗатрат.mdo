@@ -13,12 +13,12 @@
     <value>Cost items</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Статьи затрат</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Статті витратек</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи затрат</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.СтатьиЗатрат.StandardAttribute.Code</inputByString>

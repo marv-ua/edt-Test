@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Справочник ПВХ коннектор лево</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідник ПВХ коннектор ліво</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="403d4127-d52a-4220-9482-db9d10741097">
+  <name>ЗаписиВТабличномПоле</name>
+  <synonym>
+    <key>ru</key>
+    <value>Записи в табличном поле</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Записи в табличному полі</value>
+  </synonym>
+</mdclass:CommonPicture>

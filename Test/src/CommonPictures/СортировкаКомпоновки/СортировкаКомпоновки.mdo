@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="83547d51-04f7-4f69-8326-f79af775497a">
+  <name>СортировкаКомпоновки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Сортировка компоновки</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Сортування компонування</value>
+  </synonym>
+  <transparentPixel>
+    <x>14</x>
+    <y>10</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

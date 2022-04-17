@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Пиктограммы настроек отчета</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Піктограми настройок звіту</value>
+  </synonym>
 </mdclass:CommonPicture>

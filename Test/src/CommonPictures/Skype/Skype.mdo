@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Skype</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Skype</value>
+  </synonym>
 </mdclass:CommonPicture>

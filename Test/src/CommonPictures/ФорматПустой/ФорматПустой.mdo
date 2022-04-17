@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Формат пустой</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Формат порожній</value>
+  </synonym>
 </mdclass:CommonPicture>

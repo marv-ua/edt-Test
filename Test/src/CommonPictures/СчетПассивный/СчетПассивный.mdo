@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dea5060e-cf71-4d2a-a516-c688424cb02b">
+  <name>СчетПассивный</name>
+  <synonym>
+    <key>ru</key>
+    <value>Счет пассивный</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Рахунок пасивний</value>
+  </synonym>
+  <transparentPixel>
+    <x>13</x>
+    <y>1</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

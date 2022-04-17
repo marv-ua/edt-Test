@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Предопределенный элемент</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стандартний елемент</value>
+  </synonym>
 </mdclass:CommonPicture>

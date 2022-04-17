@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Картинки для помеченных на удаление объектов</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Картинки для відмічених для вилучення об'єктів</value>
+  </synonym>
 </mdclass:CommonPicture>

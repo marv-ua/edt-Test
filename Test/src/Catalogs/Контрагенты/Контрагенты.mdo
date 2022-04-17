@@ -13,12 +13,12 @@
     <value>Counterparties</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Контрагенты</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Контрагенти</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Контрагенты</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.Контрагенты.StandardAttribute.Code</inputByString>

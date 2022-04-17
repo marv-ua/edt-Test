@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f4fc1c24-5387-4dd2-91cc-6f17d40f4f20">
+  <name>СписокПолный</name>
+  <synonym>
+    <key>ru</key>
+    <value>Список полный</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Список повний</value>
+  </synonym>
+  <transparentPixel>
+    <x>2</x>
+    <y>17</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

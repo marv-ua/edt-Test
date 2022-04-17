@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Справка в начало</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідка в початок</value>
+  </synonym>
 </mdclass:CommonPicture>

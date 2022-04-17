@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирСинтаксПомощник</name>
   <synonym>
-    <key>ru</key>
-    <value>Синтакс помощник (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Синтакс помощник (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Синтакс помощник (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Синтакс помощник (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирСинтаксПомощник.Form.Форма</defaultForm>
@@ -25,15 +25,15 @@
     </producedTypes>
     <name>ТаблицаИндекса</name>
     <synonym>
-      <key>ru</key>
-      <value>Таблица индекса</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Таблица индекса</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Таблица индекса</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Таблица индекса</value>
     </synonym>
     <standardAttributes>
@@ -47,15 +47,15 @@
     <attributes uuid="3cc0fb06-5dc1-4dc2-9a2b-803ee0e3b2d1">
       <name>ПутьКСлову</name>
       <synonym>
-        <key>ru</key>
-        <value>Путь к слову</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Путь к слову</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Путь к слову</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Путь к слову</value>
       </synonym>
       <type>
@@ -71,15 +71,15 @@
     <attributes uuid="cf988f63-3e43-4b3e-9620-b4aaba717def">
       <name>НПутьКСлову</name>
       <synonym>
-        <key>ru</key>
-        <value>Н путь к слову</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Н путь к слову</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Н путь к слову</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Н путь к слову</value>
       </synonym>
       <type>
@@ -95,15 +95,15 @@
     <attributes uuid="d984b8bc-7729-4224-a423-12adc459552b">
       <name>ПутьКОписанию</name>
       <synonym>
-        <key>ru</key>
-        <value>Путь к описанию</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Путь к описанию</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Путь к описанию</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Путь к описанию</value>
       </synonym>
       <type>
@@ -119,15 +119,15 @@
     <attributes uuid="23cf1aae-713d-4268-9d95-19f24e9aad4e">
       <name>Варианты</name>
       <synonym>
-        <key>ru</key>
-        <value>Варианты</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Варианты</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Варианты</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Варианты</value>
       </synonym>
       <type>
@@ -144,15 +144,15 @@
   <forms uuid="9861e17b-a985-4dc2-adca-079fddb44315">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -162,15 +162,15 @@
   <templates uuid="3c9eefa5-543e-4a22-b5af-bcb97d1caacb">
     <name>ВерсииПлатформы</name>
     <synonym>
-      <key>ru</key>
-      <value>Версии платформы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Версии платформы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Версии платформы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Версии платформы</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -178,15 +178,15 @@
   <templates uuid="5b061b2e-0535-40d2-a602-26c3cbdbedb6">
     <name>СтилиСинтаксПомощника</name>
     <synonym>
-      <key>ru</key>
-      <value>Стили синтакс помощника</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Стили синтакс помощника</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Стили синтакс помощника</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Стили синтакс помощника</value>
     </synonym>
     <comment>Таблица каскадных стилей (CSS) для отображения страниц синтакс-помощника</comment>
@@ -195,30 +195,30 @@
   <templates uuid="996c0d92-4f2d-4994-8c8d-9eedacb5e7a2">
     <name>Книги</name>
     <synonym>
-      <key>ru</key>
-      <value>Книги</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Книги</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Книги</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Книги</value>
     </synonym>
   </templates>
   <commands uuid="ace25b95-6377-46ae-8b6b-58ea1705c376">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Синтакс помощник (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Синтакс помощник (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Синтакс помощник (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Синтакс помощник (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

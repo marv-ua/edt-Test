@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Занять файл</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Зайняти файл</value>
+  </synonym>
 </mdclass:CommonPicture>

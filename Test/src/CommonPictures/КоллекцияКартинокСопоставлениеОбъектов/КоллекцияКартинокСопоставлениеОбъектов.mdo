@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Коллекция картинок сопоставление объектов</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Колекція картинок зіставлення об'єктів</value>
+  </synonym>
 </mdclass:CommonPicture>

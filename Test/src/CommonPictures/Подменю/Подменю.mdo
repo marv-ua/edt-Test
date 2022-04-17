@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Подменю</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Підменю</value>
+  </synonym>
 </mdclass:CommonPicture>

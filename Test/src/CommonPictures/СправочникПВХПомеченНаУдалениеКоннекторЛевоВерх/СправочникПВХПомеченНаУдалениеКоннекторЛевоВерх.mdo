@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Справочник ПВХ помечен на удаление коннектор лево верх</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідник ПВХ позначений на видалення коннектор ліво верх</value>
+  </synonym>
 </mdclass:CommonPicture>

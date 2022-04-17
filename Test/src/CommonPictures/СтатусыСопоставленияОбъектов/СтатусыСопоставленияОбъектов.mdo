@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Статусы сопоставления объектов</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Статуси співставлення об'єктів</value>
+  </synonym>
 </mdclass:CommonPicture>

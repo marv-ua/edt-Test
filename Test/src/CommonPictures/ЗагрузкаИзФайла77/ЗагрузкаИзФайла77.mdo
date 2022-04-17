@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7ea0696f-3cb6-43ab-8faa-47134f02cabd">
+  <name>ЗагрузкаИзФайла77</name>
+  <synonym>
+    <key>ru</key>
+    <value>Загрузка из файла 7.7</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Завантаження з файлу 7.7</value>
+  </synonym>
+</mdclass:CommonPicture>

@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирРазличныеЗначенияКолонки</name>
   <synonym>
-    <key>ru</key>
-    <value>Различные значения колонки (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Различные значения колонки (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Различные значения колонки (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Различные значения колонки (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирРазличныеЗначенияКолонки.Form.Форма</defaultForm>
@@ -30,15 +30,15 @@
     </producedTypes>
     <name>Значения</name>
     <synonym>
-      <key>ru</key>
-      <value>Значения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Значения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Значения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Значения</value>
     </synonym>
     <standardAttributes>
@@ -52,15 +52,15 @@
     <attributes uuid="e1ad6395-df97-43c0-aba1-e2e7e46241d3">
       <name>Вес</name>
       <synonym>
-        <key>ru</key>
-        <value>Вес, %</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Вес, %</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Вес, %</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Вес, %</value>
       </synonym>
       <type>
@@ -78,15 +78,15 @@
     <attributes uuid="757677b0-9693-442d-a423-942d68d20a2c">
       <name>Значение</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение</value>
       </synonym>
       <type>
@@ -114,15 +114,15 @@
     <attributes uuid="be32dc80-6467-4247-9433-39697e5bc2bd">
       <name>ЗначениеПредставление</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение представление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение представление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение представление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение представление</value>
       </synonym>
       <type>
@@ -140,15 +140,15 @@
     <attributes uuid="12614684-be98-49ce-8a16-a32147699b06">
       <name>ИДСтроки</name>
       <synonym>
-        <key>ru</key>
-        <value>ИДСтроки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>ИДСтроки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>ИДСтроки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>ИДСтроки</value>
       </synonym>
       <type>
@@ -164,15 +164,15 @@
     <attributes uuid="88405c90-ab38-4e08-a7d0-782978ce2030">
       <name>ИмяТипаЗначения</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя типа значения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя типа значения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя типа значения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя типа значения</value>
       </synonym>
       <type>
@@ -190,15 +190,15 @@
     <attributes uuid="6cd31953-8855-4cc2-8885-3de3323882dc">
       <name>Количество</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество</value>
       </synonym>
       <type>
@@ -214,15 +214,15 @@
     <attributes uuid="236f45d9-af37-4eed-af78-313d69d4f9eb">
       <name>Пометка</name>
       <synonym>
-        <key>ru</key>
-        <value>Пометка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пометка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пометка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пометка</value>
       </synonym>
       <type>
@@ -235,15 +235,15 @@
     <attributes uuid="7b4f094a-e112-47ad-9121-160b29e6bf4c">
       <name>ТипЗначения</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип значения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип значения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип значения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип значения</value>
       </synonym>
       <type>
@@ -262,15 +262,15 @@
   <forms uuid="26636c16-3800-49b1-9c35-bd59991a57ba">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>

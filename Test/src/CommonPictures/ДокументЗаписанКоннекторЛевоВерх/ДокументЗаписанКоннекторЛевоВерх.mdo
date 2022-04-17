@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Документ записан коннектор лево верх</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Документ записаний конектор ліво верх</value>
+  </synonym>
 </mdclass:CommonPicture>

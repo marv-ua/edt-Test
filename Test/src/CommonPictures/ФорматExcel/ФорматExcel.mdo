@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Формат excel</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Формат excel</value>
+  </synonym>
 </mdclass:CommonPicture>

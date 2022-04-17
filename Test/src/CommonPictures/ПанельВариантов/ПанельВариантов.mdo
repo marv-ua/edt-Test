@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c17e98d8-90cf-460f-8643-e486ea4db1b5">
+  <name>ПанельВариантов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Панель вариантов</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Панель варіантів</value>
+  </synonym>
+  <transparentPixel>
+    <x>5</x>
+    <y>10</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

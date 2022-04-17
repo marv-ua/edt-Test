@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Синхронизация данных непринятые по дате</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Синхронізація даних неприйняті по даті</value>
+  </synonym>
 </mdclass:CommonPicture>

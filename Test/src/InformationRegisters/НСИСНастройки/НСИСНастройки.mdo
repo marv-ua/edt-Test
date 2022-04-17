@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="18c95eca-6c91-4e4a-ac0f-b097f910f055">
+  <producedTypes>
+    <selectionType typeId="cbc01bd4-b306-43f6-9ca1-3baef6dcf542" valueTypeId="20107490-904d-4ffe-a1df-b6bf0b1541bf"/>
+    <listType typeId="4dcf35e1-aaa2-4e8d-8121-44351bd9d108" valueTypeId="91dd078d-fae2-41e9-8d1a-7cd973d28941"/>
+    <managerType typeId="d9441994-fd68-439a-aa2e-206b20b59535" valueTypeId="879e1a5d-67ff-431b-8134-58f73e5c8eae"/>
+    <recordSetType typeId="00d88864-4fb2-445d-bec7-196ee9900448" valueTypeId="2a7f6e04-d642-4ea9-8403-33055e98d069"/>
+    <recordKeyType typeId="4a39f4b6-ea51-4860-971d-2fe59989d62e" valueTypeId="fac5f554-c340-401d-aa2d-1addb64180c5"/>
+    <recordType typeId="476614f2-f261-4493-aac8-9eb582dfcb76" valueTypeId="91a207ab-a015-4dd8-a280-e353827f7fb5"/>
+    <recordManagerType typeId="77ed76f5-91cb-4e2c-9367-836965a1197e" valueTypeId="78df5c33-c5a1-411d-947c-d5bac411870c"/>
+  </producedTypes>
+  <name>НСИСНастройки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настройки RDI Service</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Настройки RDI Service</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Active</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>LineNumber</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Recorder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Period</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="07092f81-983a-489f-8b73-4925d98895a8">
+    <name>ЗагружатьНормативныеВеличины</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать нормативные величины</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Завантажувати нормативні величини</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="7273e62d-d0b5-4dc8-b2b1-f42b84a64b35">
+    <name>ЗагружатьКлассификаторы</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать классификаторы</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Завантажувати класифікатори</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="1018009b-e928-4301-8e72-3099b3d0754f">
+    <name>ЗагружатьКурсыВалют</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать курсы валют</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Завантажувати курси валют</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="c8008fa1-cf46-4737-af66-23e3d3567b23">
+    <name>ЗагружатьНовости</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать новости</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Завантажувати новини</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="e9257555-8549-427b-b55b-1a15294df30e">
+    <name>ЗагружатьКалендарь</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать календарь</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Завантажувати календар</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="dfa77f47-7b52-4e1d-aeef-9d6d43c2e646">
+    <name>СписокРегистров</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список регистров</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Список регістрів</value>
+    </synonym>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="991e806f-4268-4fc3-9b25-11afea6592cb">
+    <name>СписокКлассификаторов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список классификаторов</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Список класифікаторів</value>
+    </synonym>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="c29d951c-70f3-4412-9bbf-d196a1ce85ef">
+    <name>СписокНовостей</name>
+    <synonym>
+      <key>ru</key>
+      <value>Список новостей</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Список новин</value>
+    </synonym>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="1d74f441-21a8-432f-9547-804539249838">
+    <name>КоличествоНовостей</name>
+    <synonym>
+      <key>ru</key>
+      <value>Количество новостей</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Кількість новин</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="7e01fd46-f1ba-48a4-8350-1d4f028acfcf">
+    <name>ОткрыватьИнформациюПриСтарте</name>
+    <synonym>
+      <key>ru</key>
+      <value>Открывать информацию при старте</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Відкривати інформацію при старті</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="98c649ad-560b-4e88-a79d-fd9ae1cf5224">
+    <name>УчетныеДанные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Учетные данные</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Облікові дані</value>
+    </synonym>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="8d8a95d5-04ba-4251-ae63-27563ecef7b7">
+    <name>ЗагружатьДанныеПриСтарте</name>
+    <synonym>
+      <key>ru</key>
+      <value>Загружать данные при старте</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Загружать данные при старте</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+</mdclass:InformationRegister>

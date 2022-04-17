@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4af27829-731a-47d2-8894-3b8d0f4d9ca2">
+  <name>ЛокализацияПереопределяемый</name>
+  <synonym>
+    <key>ru</key>
+    <value>Локализация переопределяемый</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Локалізація</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+  <serverCall>true</serverCall>
+</mdclass:CommonModule>

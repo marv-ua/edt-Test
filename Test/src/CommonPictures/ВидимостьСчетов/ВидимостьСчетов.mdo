@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="83c0eeb9-a7a0-4722-859a-1e730b008dd7">
+  <name>ВидимостьСчетов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Видимость счетов</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Видимість рахунків</value>
+  </synonym>
+  <transparentPixel>
+    <y>4</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

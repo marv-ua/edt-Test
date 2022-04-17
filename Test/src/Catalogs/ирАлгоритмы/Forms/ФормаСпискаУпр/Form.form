@@ -445,7 +445,7 @@
           <horizontalAlign>Left</horizontalAlign>
         </extInfo>
       </extendedTooltip>
-      <commandName>0:60b48362-4a19-4a23-95da-9a9ce4ad14c5</commandName>
+      <commandName>0</commandName>
       <representation>Auto</representation>
       <autoMaxWidth>true</autoMaxWidth>
       <autoMaxHeight>true</autoMaxHeight>
@@ -493,28 +493,28 @@
   <formCommands>
     <name>КонсольКода</name>
     <title>
-      <key>ru</key>
-      <value>Консоль кода</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Консоль кода</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Консоль кода</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Консоль кода</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Консоль кода</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Консоль кода</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Консоль кода</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Консоль кода</value>
     </toolTip>
     <use>
@@ -534,28 +534,28 @@
   <formCommands>
     <name>НастройкиАлгоритмов</name>
     <title>
-      <key>ru</key>
-      <value>Настройки справочника</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Настройки справочника</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Настройки справочника</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Настройки справочника</value>
     </title>
     <id>2</id>
     <toolTip>
-      <key>ru</key>
-      <value>Настройки справочника</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Настройки справочника</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Настройки справочника</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Настройки справочника</value>
     </toolTip>
     <use>

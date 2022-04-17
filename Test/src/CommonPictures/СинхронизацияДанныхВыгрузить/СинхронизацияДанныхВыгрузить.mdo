@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Синхронизация данных выгрузить</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Синхронізація даних вивантажити</value>
+  </synonym>
 </mdclass:CommonPicture>

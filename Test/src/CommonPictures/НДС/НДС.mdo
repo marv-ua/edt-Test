@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c98f6d2c-99db-42c5-929e-5e1223372b17">
+  <name>НДС</name>
+  <synonym>
+    <key>ru</key>
+    <value>НДС</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>ПДВ</value>
+  </synonym>
+</mdclass:CommonPicture>

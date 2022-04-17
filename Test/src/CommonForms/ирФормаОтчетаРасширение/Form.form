@@ -26,28 +26,28 @@
   <formCommands>
     <name>ирОтладить</name>
     <title>
-      <key>ru</key>
-      <value>Отладить (ИР)</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отладить (ИР)</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отладить (ИР)</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отладить (ИР)</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Отладить схему и настройки компоновки в консоли компоновки данных (ИР)</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Отладить схему и настройки компоновки в консоли компоновки данных (ИР)</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Отладить схему и настройки компоновки в консоли компоновки данных (ИР)</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Отладить схему и настройки компоновки в консоли компоновки данных (ИР)</value>
     </toolTip>
     <use>

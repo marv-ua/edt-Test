@@ -6,11 +6,11 @@
     <value>Bank and cash desk (read write)</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Банк и касса (чтение запись)</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Банк та каса (читання запис)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Банк и касса (чтение запись)</value>
   </synonym>
 </mdclass:Role>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Скрытая настройка отчета</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Прихована настройка звіту</value>
+  </synonym>
 </mdclass:CommonPicture>

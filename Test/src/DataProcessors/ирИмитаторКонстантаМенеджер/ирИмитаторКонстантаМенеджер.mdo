@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирИмитаторКонстантаМенеджер</name>
   <synonym>
-    <key>ru</key>
-    <value>Константа менеджер значения</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Константа менеджер значения</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Константа менеджер значения</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Константа менеджер значения</value>
+  </synonym>
   <comment>Вспомогательная</comment>
   <attributes uuid="9e803f06-b4d0-495a-9683-c6d088c2caaf">
     <name>Данные</name>
-    <synonym>
-      <key>ru</key>
-      <value>Данные</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Данные</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Данные</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Данные</value>
     </synonym>
     <type/>
@@ -39,15 +39,15 @@
   <attributes uuid="a20648f4-d9ae-49d3-a611-e601156ef667">
     <name>ДополнительныеСвойства</name>
     <synonym>
-      <key>ru</key>
-      <value>Дополнительные свойства</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дополнительные свойства</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дополнительные свойства</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дополнительные свойства</value>
     </synonym>
     <type/>
@@ -57,15 +57,15 @@
   <attributes uuid="aaf33c76-dae3-4a44-a3e9-9721b96df414">
     <name>ОбменДанными</name>
     <synonym>
-      <key>ru</key>
-      <value>Обмен данными</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Обмен данными</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Обмен данными</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Обмен данными</value>
     </synonym>
     <type/>

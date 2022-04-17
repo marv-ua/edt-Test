@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a0a9d82a-772c-414a-9cec-32af65fd8471">
+  <name>Этап08</name>
+  <synonym>
+    <key>ru</key>
+    <value>Этап08</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Етап08</value>
+  </synonym>
+</mdclass:CommonPicture>

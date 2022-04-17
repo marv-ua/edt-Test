@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Прочие пользовательские настройки</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Інші користувацькі настройки</value>
+  </synonym>
 </mdclass:CommonPicture>

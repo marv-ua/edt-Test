@@ -9,12 +9,12 @@
     <value>Sum</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Сумма</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Сума</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Сумма</value>
   </synonym>
   <type>
     <types>Number</types>

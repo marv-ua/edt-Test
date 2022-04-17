@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b115224b-1cd1-4316-8edc-b70a569ad636">
+  <name>ТреугольникВверх</name>
+  <synonym>
+    <key>ru</key>
+    <value>Треугольник вверх</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Трикутник вверх</value>
+  </synonym>
+  <transparentPixel>
+    <x>13</x>
+    <y>2</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

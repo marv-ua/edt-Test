@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Формат TXT</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Формат TXT</value>
+  </synonym>
 </mdclass:CommonPicture>

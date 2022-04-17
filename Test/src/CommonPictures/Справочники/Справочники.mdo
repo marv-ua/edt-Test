@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b10b909-c1f6-4609-a525-cf74b770e69b">
+  <name>Справочники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочники</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідники</value>
+  </synonym>
+</mdclass:CommonPicture>

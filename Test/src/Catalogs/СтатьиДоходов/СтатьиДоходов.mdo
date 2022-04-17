@@ -13,12 +13,12 @@
     <value>Income items</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Статьи доходов</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Статті доходів</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи доходов</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.СтатьиДоходов.StandardAttribute.Code</inputByString>

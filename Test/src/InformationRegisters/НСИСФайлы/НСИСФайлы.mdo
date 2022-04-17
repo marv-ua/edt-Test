@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="69abf673-4844-4556-a7dc-40b77bb516af">
+  <producedTypes>
+    <selectionType typeId="67b22abd-a3b7-46da-bfea-c5f55d6d7cf4" valueTypeId="da7e6461-f2ad-40ad-b6f4-b5df137ec2c6"/>
+    <listType typeId="b2641ee9-d74c-4d39-8571-bf552369c9e3" valueTypeId="531203cb-f7fb-4943-b177-ca190c2b68fa"/>
+    <managerType typeId="442dcec4-1063-4709-9b32-a4ccb0dd1453" valueTypeId="4c27e501-ecaa-4b26-9115-ecd5a131c3bc"/>
+    <recordSetType typeId="c0a3f2f6-16f5-46e5-ae1c-1761ce100291" valueTypeId="71a786d2-6699-454a-8939-b3616b219702"/>
+    <recordKeyType typeId="7f4a7cbc-fecc-4f3c-a71c-6cb2b0dc4204" valueTypeId="eb00f50d-8604-43d6-9a86-115a747ed158"/>
+    <recordType typeId="3965a4a9-d0ec-41ab-866a-25ca917fb5a6" valueTypeId="d8ab30fe-e8a3-4795-bff8-22c76a9e6bce"/>
+    <recordManagerType typeId="fad2da48-29b2-4df7-bc52-665c61894b9f" valueTypeId="2255f24f-7abd-4d7b-8266-3e2fe55f570e"/>
+  </producedTypes>
+  <name>НСИСФайлы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Файлы RDI</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Файли RDI</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Active</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>LineNumber</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Recorder</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Period</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fillChecking>ShowError</fillChecking>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <resources uuid="ffa8b0f2-8c5c-40b2-af78-61a07bf4f848">
+    <name>Файл</name>
+    <synonym>
+      <key>ru</key>
+      <value>Файл</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Файл</value>
+    </synonym>
+    <type>
+      <types>ValueStorage</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <resources uuid="8ef25977-e275-4879-82bf-6818a47e0ce6">
+    <name>Версия</name>
+    <synonym>
+      <key>ru</key>
+      <value>Версия</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Версія</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:UndefinedValue"/>
+  </resources>
+  <dimensions uuid="a2a5578e-dc4b-4687-9766-1c1f97f71029">
+    <name>Идентификатор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Идентификатор</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Ідентифікатор</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>100</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <mainFilter>true</mainFilter>
+  </dimensions>
+</mdclass:InformationRegister>

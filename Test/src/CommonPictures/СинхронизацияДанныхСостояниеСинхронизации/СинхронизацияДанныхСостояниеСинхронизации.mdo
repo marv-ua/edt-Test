@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Состояние синхронизации данных</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стан синхронізації даних</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Обновить файл из файла на диске</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Оновити файл із файлу на диску</value>
+  </synonym>
 </mdclass:CommonPicture>

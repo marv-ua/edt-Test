@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>ru</key>
-    <value>Настройка списка (ИР)</value>
-  </title>
-  <title>
     <key>en</key>
     <value>Настройка списка (ИР)</value>
   </title>
   <title>
     <key>uk</key>
+    <value>Настройка списка (ИР)</value>
+  </title>
+  <title>
+    <key>ru</key>
     <value>Настройка списка (ИР)</value>
   </title>
   <items xsi:type="form:FormGroup">
@@ -19,15 +19,15 @@
       <name>ФиксированныеНастройкиОтбор1</name>
       <id>146</id>
       <title>
-        <key>ru</key>
-        <value>Фикс. отбор</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Фикс. отбор</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Фикс. отбор</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Фикс. отбор</value>
       </title>
       <visible>true</visible>
@@ -92,15 +92,15 @@
             <common>true</common>
           </userVisible>
           <title>
-            <key>ru</key>
-            <value>Пользовательские настройки</value>
-          </title>
-          <title>
             <key>en</key>
             <value>Пользовательские настройки</value>
           </title>
           <title>
             <key>uk</key>
+            <value>Пользовательские настройки</value>
+          </title>
+          <title>
+            <key>ru</key>
             <value>Пользовательские настройки</value>
           </title>
           <extendedTooltip>
@@ -135,15 +135,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Пользовательские</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Пользовательские</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Пользовательские</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Пользовательские</value>
         </title>
         <extendedTooltip>
@@ -552,10 +552,6 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Фиксированные</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Фиксированные</value>
         </title>
@@ -563,16 +559,20 @@
           <key>uk</key>
           <value>Фиксированные</value>
         </title>
-        <toolTip>
+        <title>
           <key>ru</key>
-          <value>Фиксированные настройки</value>
-        </toolTip>
+          <value>Фиксированные</value>
+        </title>
         <toolTip>
           <key>en</key>
           <value>Фиксированные настройки</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Фиксированные настройки</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Фиксированные настройки</value>
         </toolTip>
         <extendedTooltip>
@@ -983,10 +983,6 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Обычные</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Обычные</value>
         </title>
@@ -994,16 +990,20 @@
           <key>uk</key>
           <value>Обычные</value>
         </title>
-        <toolTip>
+        <title>
           <key>ru</key>
-          <value>Обычные настройки</value>
-        </toolTip>
+          <value>Обычные</value>
+        </title>
         <toolTip>
           <key>en</key>
           <value>Обычные настройки</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Обычные настройки</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Обычные настройки</value>
         </toolTip>
         <extendedTooltip>
@@ -1472,10 +1472,6 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Исполняемые</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Исполняемые</value>
         </title>
@@ -1483,16 +1479,20 @@
           <key>uk</key>
           <value>Исполняемые</value>
         </title>
-        <toolTip>
+        <title>
           <key>ru</key>
-          <value>Исполняемые настройки</value>
-        </toolTip>
+          <value>Исполняемые</value>
+        </title>
         <toolTip>
           <key>en</key>
           <value>Исполняемые настройки</value>
         </toolTip>
         <toolTip>
           <key>uk</key>
+          <value>Исполняемые настройки</value>
+        </toolTip>
+        <toolTip>
+          <key>ru</key>
           <value>Исполняемые настройки</value>
         </toolTip>
         <readOnly>true</readOnly>
@@ -1523,10 +1523,6 @@
         <common>true</common>
       </userVisible>
       <title>
-        <key>ru</key>
-        <value>Группа панель</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Группа панель</value>
       </title>
@@ -1534,16 +1530,20 @@
         <key>uk</key>
         <value>Группа панель</value>
       </title>
-      <toolTip>
+      <title>
         <key>ru</key>
         <value>Группа панель</value>
-      </toolTip>
+      </title>
       <toolTip>
         <key>en</key>
         <value>Группа панель</value>
       </toolTip>
       <toolTip>
         <key>uk</key>
+        <value>Группа панель</value>
+      </toolTip>
+      <toolTip>
+        <key>ru</key>
         <value>Группа панель</value>
       </toolTip>
       <extendedTooltip>
@@ -1740,15 +1740,15 @@
   <attributes>
     <name>КомпоновщикРезультата</name>
     <title>
-      <key>ru</key>
-      <value>Компоновщик результата</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Компоновщик результата</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Компоновщик результата</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Компоновщик результата</value>
     </title>
     <id>2</id>
@@ -1765,15 +1765,15 @@
   <attributes>
     <name>АдресСхемы</name>
     <title>
-      <key>ru</key>
-      <value>Адрес схемы</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Адрес схемы</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Адрес схемы</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Адрес схемы</value>
     </title>
     <id>3</id>
@@ -1791,15 +1791,15 @@
   <formCommands>
     <name>Применить</name>
     <title>
-      <key>ru</key>
-      <value>Применить</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Применить</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Применить</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Применить</value>
     </title>
     <id>1</id>
@@ -1816,15 +1816,15 @@
   <formCommands>
     <name>ПрименитьИЗакрыть</name>
     <title>
-      <key>ru</key>
-      <value>Применить и закрыть</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Применить и закрыть</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Применить и закрыть</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Применить и закрыть</value>
     </title>
     <id>2</id>
@@ -1841,28 +1841,28 @@
   <formCommands>
     <name>ОтладитьКомпоновку</name>
     <title>
-      <key>ru</key>
-      <value>Отладить компоновку</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отладить компоновку</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отладить компоновку</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отладить компоновку</value>
     </title>
     <id>3</id>
     <toolTip>
-      <key>ru</key>
-      <value>Посмотреть исполняемую компоновку в консоли компоновки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Посмотреть исполняемую компоновку в консоли компоновки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Посмотреть исполняемую компоновку в консоли компоновки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Посмотреть исполняемую компоновку в консоли компоновки</value>
     </toolTip>
     <use>

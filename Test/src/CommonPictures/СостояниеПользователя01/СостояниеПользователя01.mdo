@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Состояние пользователя 01</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стан користувача 01</value>
+  </synonym>
 </mdclass:CommonPicture>

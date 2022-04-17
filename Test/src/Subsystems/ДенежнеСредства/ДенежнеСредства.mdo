@@ -6,12 +6,12 @@
     <value>Cash</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Денежне средства</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Грошові кошти</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Денежне средства</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
@@ -27,4 +27,5 @@
   <content>CommonPicture.БанкИКасса</content>
   <content>AccumulationRegister.Взаиморасчеты</content>
   <content>Role.БанкИКассаЧтениеЗапись</content>
+  <content>Catalog.Валюты</content>
 </mdclass:Subsystem>

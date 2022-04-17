@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Пиктограммы план обмена узел</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Піктограми план обміну вузол</value>
+  </synonym>
 </mdclass:CommonPicture>

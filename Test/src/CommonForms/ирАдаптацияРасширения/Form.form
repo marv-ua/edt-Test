@@ -50,15 +50,15 @@
       <name>ДекорацияГлобальныеКоманды</name>
       <id>52</id>
       <title>
-        <key>ru</key>
-        <value>Глобальное контекстное меню подсистемы вызывается сочетанием CTRL+~(тильда или ё) в любой управляемой форме. Это не требует адаптации расширения.</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Глобальное контекстное меню подсистемы вызывается сочетанием CTRL+~(тильда или ё) в любой управляемой форме. Это не требует адаптации расширения.</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Глобальное контекстное меню подсистемы вызывается сочетанием CTRL+~(тильда или ё) в любой управляемой форме. Это не требует адаптации расширения.</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Глобальное контекстное меню подсистемы вызывается сочетанием CTRL+~(тильда или ё) в любой управляемой форме. Это не требует адаптации расширения.</value>
       </title>
       <visible>true</visible>
@@ -107,15 +107,15 @@
       <common>true</common>
     </userVisible>
     <title>
-      <key>ru</key>
-      <value>Глобальное меню</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Глобальное меню</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Глобальное меню</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Глобальное меню</value>
     </title>
     <height>4</height>
@@ -154,15 +154,15 @@
     <name>Использование</name>
     <id>77</id>
     <title>
-      <key>ru</key>
-      <value>Открывать это окно при следующем обновлении расширения</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Открывать это окно при следующем обновлении расширения</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Открывать это окно при следующем обновлении расширения</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Открывать это окно при следующем обновлении расширения</value>
     </title>
     <visible>true</visible>
@@ -175,15 +175,15 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <toolTip>
-      <key>ru</key>
-      <value>Чтобы адаптация сохранялась при обновлении, ее нужно выполнять заново. Флажок устанавливается автоматически при выполнении адаптации.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Чтобы адаптация сохранялась при обновлении, ее нужно выполнять заново. Флажок устанавливается автоматически при выполнении адаптации.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Чтобы адаптация сохранялась при обновлении, ее нужно выполнять заново. Флажок устанавливается автоматически при выполнении адаптации.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Чтобы адаптация сохранялась при обновлении, ее нужно выполнять заново. Флажок устанавливается автоматически при выполнении адаптации.</value>
     </toolTip>
     <extendedTooltip>
@@ -222,17 +222,17 @@
     <name>Декорация3</name>
     <id>74</id>
     <title>
-      <key>ru</key>
-      <value>При выполнении адаптации используется конфигуратор текущей базы. После завершения операции для вступления изменений в силу сеанс будет перезапущен.
-</value>
-    </title>
-    <title>
       <key>en</key>
       <value>При выполнении адаптации используется конфигуратор текущей базы. После завершения операции для вступления изменений в силу сеанс будет перезапущен.
 </value>
     </title>
     <title>
       <key>uk</key>
+      <value>При выполнении адаптации используется конфигуратор текущей базы. После завершения операции для вступления изменений в силу сеанс будет перезапущен.
+</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>При выполнении адаптации используется конфигуратор текущей базы. После завершения операции для вступления изменений в силу сеанс будет перезапущен.
 </value>
     </title>
@@ -422,15 +422,15 @@
     <name>ДобавитьРольВсеПрава</name>
     <id>68</id>
     <title>
-      <key>ru</key>
-      <value>Сгенерировать роль ирВсеПрава</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Сгенерировать роль ирВсеПрава</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Сгенерировать роль ирВсеПрава</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Сгенерировать роль ирВсеПрава</value>
     </title>
     <enabled>true</enabled>
@@ -442,15 +442,15 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <toolTip>
-      <key>ru</key>
-      <value>Обеспечит доступ на чтение ко всем таблицам в базе. Эта роль будет добавляться пользователю при автоматическом добавлении роли ирРазработчик</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Обеспечит доступ на чтение ко всем таблицам в базе. Эта роль будет добавляться пользователю при автоматическом добавлении роли ирРазработчик</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Обеспечит доступ на чтение ко всем таблицам в базе. Эта роль будет добавляться пользователю при автоматическом добавлении роли ирРазработчик</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Обеспечит доступ на чтение ко всем таблицам в базе. Эта роль будет добавляться пользователю при автоматическом добавлении роли ирРазработчик</value>
     </toolTip>
     <toolTipRepresentation>ShowAuto</toolTipRepresentation>
@@ -501,15 +501,15 @@
     </dataPath>
     <titleLocation>Right</titleLocation>
     <toolTip>
-      <key>ru</key>
-      <value>Необходимо для работы инструмента &quot;Отладка внешних обработок БСП&quot; в БСП 2.4+</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Необходимо для работы инструмента &quot;Отладка внешних обработок БСП&quot; в БСП 2.4+</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Необходимо для работы инструмента &quot;Отладка внешних обработок БСП&quot; в БСП 2.4+</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Необходимо для работы инструмента &quot;Отладка внешних обработок БСП&quot; в БСП 2.4+</value>
     </toolTip>
     <toolTipRepresentation>ShowAuto</toolTipRepresentation>
@@ -567,15 +567,15 @@
         <name>ПодключитьОтладкуОтчетовРасширеннаяПодсказка</name>
         <id>90</id>
         <title>
-          <key>ru</key>
-          <value>Добавляет кнопку передачи схемы и настроек компоновки отчета из основной формы отчета в консоль компоновки</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Добавляет кнопку передачи схемы и настроек компоновки отчета из основной формы отчета в консоль компоновки</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Добавляет кнопку передачи схемы и настроек компоновки отчета из основной формы отчета в консоль компоновки</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Добавляет кнопку передачи схемы и настроек компоновки отчета из основной формы отчета в консоль компоновки</value>
         </title>
         <visible>true</visible>
@@ -613,15 +613,15 @@
       <name>Декорация1</name>
       <id>3</id>
       <title>
-        <key>ru</key>
-        <value>Подключение этих параметризуемых команд позволит передавать ссылки объектов прямо из их форм элементов и списков. Снятый флажок &quot;Подключить&quot; приведет к отключению команды. Подключение хотя бы одной команды влечет добавление в расширение всех ссылочных типов.</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Подключение этих параметризуемых команд позволит передавать ссылки объектов прямо из их форм элементов и списков. Снятый флажок &quot;Подключить&quot; приведет к отключению команды. Подключение хотя бы одной команды влечет добавление в расширение всех ссылочных типов.</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Подключение этих параметризуемых команд позволит передавать ссылки объектов прямо из их форм элементов и списков. Снятый флажок &quot;Подключить&quot; приведет к отключению команды. Подключение хотя бы одной команды влечет добавление в расширение всех ссылочных типов.</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Подключение этих параметризуемых команд позволит передавать ссылки объектов прямо из их форм элементов и списков. Снятый флажок &quot;Подключить&quot; приведет к отключению команды. Подключение хотя бы одной команды влечет добавление в расширение всех ссылочных типов.</value>
       </title>
       <visible>true</visible>
@@ -680,15 +680,15 @@
         <name>СписокКомандПодключить</name>
         <id>22</id>
         <title>
-          <key>ru</key>
-          <value>Подключить</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Подключить</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Подключить</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Подключить</value>
         </title>
         <visible>true</visible>
@@ -735,15 +735,15 @@
         <name>СписокКомандИмяКоманды</name>
         <id>25</id>
         <title>
-          <key>ru</key>
-          <value>Команда</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Команда</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Команда</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Команда</value>
         </title>
         <visible>true</visible>
@@ -1021,15 +1021,15 @@
       <common>true</common>
     </userVisible>
     <title>
-      <key>ru</key>
-      <value>Подключаемые команды (устаревшее)</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Подключаемые команды (устаревшее)</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Подключаемые команды (устаревшее)</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Подключаемые команды (устаревшее)</value>
     </title>
     <extendedTooltip>
@@ -1065,15 +1065,15 @@
       <name>ФормаЗакрыть</name>
       <id>31</id>
       <title>
-        <key>ru</key>
-        <value>Пропустить</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Пропустить</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Пропустить</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Пропустить</value>
       </title>
       <visible>true</visible>
@@ -1165,15 +1165,15 @@
   <attributes>
     <name>СписокКоманд</name>
     <title>
-      <key>ru</key>
-      <value>Список команд</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Список команд</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Список команд</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Список команд</value>
     </title>
     <id>1</id>
@@ -1189,15 +1189,15 @@
     <columns>
       <name>ИмяКоманды</name>
       <title>
-        <key>ru</key>
-        <value>Имя команды</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Имя команды</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Имя команды</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Имя команды</value>
       </title>
       <id>1</id>
@@ -1215,15 +1215,15 @@
     <columns>
       <name>Подключить</name>
       <title>
-        <key>ru</key>
-        <value>Подключить</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Подключить</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Подключить</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Подключить</value>
       </title>
       <id>2</id>
@@ -1240,15 +1240,15 @@
     <columns>
       <name>СинонимКоманды</name>
       <title>
-        <key>ru</key>
-        <value>Синооним команды</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Синооним команды</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Синооним команды</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Синооним команды</value>
       </title>
       <id>3</id>
@@ -1266,15 +1266,15 @@
     <columns>
       <name>Подсказка</name>
       <title>
-        <key>ru</key>
-        <value>Подсказка</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Подсказка</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Подсказка</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Подсказка</value>
       </title>
       <id>4</id>
@@ -1293,15 +1293,15 @@
   <attributes>
     <name>ГлобальныеСочетанияКлавиш</name>
     <title>
-      <key>ru</key>
-      <value>Глобальные сочетания клавиш</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Глобальные сочетания клавиш</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Глобальные сочетания клавиш</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Глобальные сочетания клавиш</value>
     </title>
     <id>2</id>
@@ -1317,15 +1317,15 @@
     <columns>
       <name>СочетаниеКлавиш</name>
       <title>
-        <key>ru</key>
-        <value>Сочетание клавиш</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Сочетание клавиш</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Сочетание клавиш</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Сочетание клавиш</value>
       </title>
       <id>2</id>
@@ -1343,15 +1343,15 @@
     <columns>
       <name>ИмяКоманды</name>
       <title>
-        <key>ru</key>
-        <value>Имя команды</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Имя команды</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Имя команды</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Имя команды</value>
       </title>
       <id>1</id>
@@ -1369,15 +1369,15 @@
     <columns>
       <name>СинонимКоманды</name>
       <title>
-        <key>ru</key>
-        <value>Синооним команды</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Синооним команды</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Синооним команды</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Синооним команды</value>
       </title>
       <id>3</id>
@@ -1395,15 +1395,15 @@
     <columns>
       <name>Подсказка</name>
       <title>
-        <key>ru</key>
-        <value>Подсказка</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Подсказка</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Подсказка</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Подсказка</value>
       </title>
       <id>4</id>
@@ -1422,15 +1422,15 @@
   <attributes>
     <name>СгенерироватьРольВсеПрава</name>
     <title>
-      <key>ru</key>
-      <value>Сгенерировать роль все права</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Сгенерировать роль все права</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Сгенерировать роль все права</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Сгенерировать роль все права</value>
     </title>
     <id>3</id>
@@ -1447,15 +1447,15 @@
   <attributes>
     <name>ПодключитьОтладкуВнешнихОбработокБСП</name>
     <title>
-      <key>ru</key>
-      <value>Подключить отладку внешних обработок БСП</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Подключить отладку внешних обработок БСП</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Подключить отладку внешних обработок БСП</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Подключить отладку внешних обработок БСП</value>
     </title>
     <id>4</id>
@@ -1472,15 +1472,15 @@
   <attributes>
     <name>ОткрыватьАдаптациюПриОбновлении</name>
     <title>
-      <key>ru</key>
-      <value>Открывать адаптацию при обновлении</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Открывать адаптацию при обновлении</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Открывать адаптацию при обновлении</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Открывать адаптацию при обновлении</value>
     </title>
     <id>5</id>
@@ -1497,15 +1497,15 @@
   <attributes>
     <name>ИмяПользователя</name>
     <title>
-      <key>ru</key>
-      <value>Имя пользователя</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Имя пользователя</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Имя пользователя</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Имя пользователя</value>
     </title>
     <id>6</id>
@@ -1525,15 +1525,15 @@
   <attributes>
     <name>ПарольПользователя</name>
     <title>
-      <key>ru</key>
-      <value>Пароль пользователя</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Пароль пользователя</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Пароль пользователя</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Пароль пользователя</value>
     </title>
     <id>7</id>
@@ -1553,15 +1553,15 @@
   <attributes>
     <name>ПодключитьОтладкуОтчетов</name>
     <title>
-      <key>ru</key>
-      <value>Команда отладки отчета</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Команда отладки отчета</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Команда отладки отчета</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Команда отладки отчета</value>
     </title>
     <id>8</id>
@@ -1578,28 +1578,28 @@
   <formCommands>
     <name>Выполнить</name>
     <title>
-      <key>ru</key>
-      <value>Выполнить</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Выполнить</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Выполнить</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Выполнить</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Выполнить адаптацию расширения конфигурации</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Выполнить адаптацию расширения конфигурации</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Выполнить адаптацию расширения конфигурации</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Выполнить адаптацию расширения конфигурации</value>
     </toolTip>
     <use>

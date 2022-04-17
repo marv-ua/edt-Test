@@ -185,15 +185,15 @@
               <segments>АктуальнаяВерсия</segments>
             </dataPath>
             <toolTip>
-              <key>ru</key>
-              <value>Актуальная версия на сайте. Если пустая, значит нет доступа к сайту и не получится скачать файл автоматически.</value>
-            </toolTip>
-            <toolTip>
               <key>en</key>
               <value>Актуальная версия на сайте. Если пустая, значит нет доступа к сайту и не получится скачать файл автоматически.</value>
             </toolTip>
             <toolTip>
               <key>uk</key>
+              <value>Актуальная версия на сайте. Если пустая, значит нет доступа к сайту и не получится скачать файл автоматически.</value>
+            </toolTip>
+            <toolTip>
+              <key>ru</key>
               <value>Актуальная версия на сайте. Если пустая, значит нет доступа к сайту и не получится скачать файл автоматически.</value>
             </toolTip>
             <extendedTooltip>
@@ -240,15 +240,15 @@
             <name>ДекорацияСкачатьВручную</name>
             <id>28</id>
             <title>
-              <key>ru</key>
-              <value>Скачать вручную</value>
-            </title>
-            <title>
               <key>en</key>
               <value>Скачать вручную</value>
             </title>
             <title>
               <key>uk</key>
+              <value>Скачать вручную</value>
+            </title>
+            <title>
+              <key>ru</key>
               <value>Скачать вручную</value>
             </title>
             <visible>true</visible>
@@ -334,15 +334,15 @@
             <segments>ФайлРасширения</segments>
           </dataPath>
           <toolTip>
-            <key>ru</key>
-            <value>Если файл указан, то устанавливаться будет он. Иначе будет скачиваться актуальная версия с сайта.</value>
-          </toolTip>
-          <toolTip>
             <key>en</key>
             <value>Если файл указан, то устанавливаться будет он. Иначе будет скачиваться актуальная версия с сайта.</value>
           </toolTip>
           <toolTip>
             <key>uk</key>
+            <value>Если файл указан, то устанавливаться будет он. Иначе будет скачиваться актуальная версия с сайта.</value>
+          </toolTip>
+          <toolTip>
+            <key>ru</key>
             <value>Если файл указан, то устанавливаться будет он. Иначе будет скачиваться актуальная версия с сайта.</value>
           </toolTip>
           <handlers>
@@ -527,15 +527,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Установка</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Установка</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Установка</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Установка</value>
         </title>
         <extendedTooltip>
@@ -571,15 +571,15 @@
           <name>ДекорацияНужноДобавитьПользователя</name>
           <id>53</id>
           <title>
-            <key>ru</key>
-            <value>Нужно добавить пользователя, чтобы сделать расширение видимым.</value>
-          </title>
-          <title>
             <key>en</key>
             <value>Нужно добавить пользователя, чтобы сделать расширение видимым.</value>
           </title>
           <title>
             <key>uk</key>
+            <value>Нужно добавить пользователя, чтобы сделать расширение видимым.</value>
+          </title>
+          <title>
+            <key>ru</key>
             <value>Нужно добавить пользователя, чтобы сделать расширение видимым.</value>
           </title>
           <visible>true</visible>
@@ -630,15 +630,15 @@
             <name>Декорация2</name>
             <id>33</id>
             <title>
-              <key>ru</key>
-              <value>После первой установки расширения - инструменты станут видимыми только у первого вошедшего администратора</value>
-            </title>
-            <title>
               <key>en</key>
               <value>После первой установки расширения - инструменты станут видимыми только у первого вошедшего администратора</value>
             </title>
             <title>
               <key>uk</key>
+              <value>После первой установки расширения - инструменты станут видимыми только у первого вошедшего администратора</value>
+            </title>
+            <title>
+              <key>ru</key>
               <value>После первой установки расширения - инструменты станут видимыми только у первого вошедшего администратора</value>
             </title>
             <visible>true</visible>
@@ -688,15 +688,15 @@
               <name>Декорация3</name>
               <id>38</id>
               <title>
-                <key>ru</key>
-                <value>Сделать инструменты видимыми текущему пользователю.</value>
-              </title>
-              <title>
                 <key>en</key>
                 <value>Сделать инструменты видимыми текущему пользователю.</value>
               </title>
               <title>
                 <key>uk</key>
+                <value>Сделать инструменты видимыми текущему пользователю.</value>
+              </title>
+              <title>
+                <key>ru</key>
                 <value>Сделать инструменты видимыми текущему пользователю.</value>
               </title>
               <visible>true</visible>
@@ -807,15 +807,15 @@
               <name>ПараметрЗапуска</name>
               <id>48</id>
               <title>
-                <key>ru</key>
-                <value>Сделать инструменты видимыми можно с помощью параметра запуска</value>
-              </title>
-              <title>
                 <key>en</key>
                 <value>Сделать инструменты видимыми можно с помощью параметра запуска</value>
               </title>
               <title>
                 <key>uk</key>
+                <value>Сделать инструменты видимыми можно с помощью параметра запуска</value>
+              </title>
+              <title>
+                <key>ru</key>
                 <value>Сделать инструменты видимыми можно с помощью параметра запуска</value>
               </title>
               <titleTextColor xsi:type="core:ColorRef">
@@ -903,17 +903,17 @@
             <name>Декорация4</name>
             <id>60</id>
             <title>
-              <key>ru</key>
-              <value>Если активное расширение не удается сделать видимым, то включите его видимость через настройку панели разделов.
-</value>
-            </title>
-            <title>
               <key>en</key>
               <value>Если активное расширение не удается сделать видимым, то включите его видимость через настройку панели разделов.
 </value>
             </title>
             <title>
               <key>uk</key>
+              <value>Если активное расширение не удается сделать видимым, то включите его видимость через настройку панели разделов.
+</value>
+            </title>
+            <title>
+              <key>ru</key>
               <value>Если активное расширение не удается сделать видимым, то включите его видимость через настройку панели разделов.
 </value>
             </title>
@@ -962,15 +962,15 @@
             <common>true</common>
           </userVisible>
           <title>
-            <key>ru</key>
-            <value>Группа способы сделать видимыми</value>
-          </title>
-          <title>
             <key>en</key>
             <value>Группа способы сделать видимыми</value>
           </title>
           <title>
             <key>uk</key>
+            <value>Группа способы сделать видимыми</value>
+          </title>
+          <title>
+            <key>ru</key>
             <value>Группа способы сделать видимыми</value>
           </title>
           <extendedTooltip>
@@ -1002,15 +1002,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Видимость</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Видимость</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Видимость</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Видимость</value>
         </title>
         <extendedTooltip>
@@ -1143,15 +1143,15 @@
   <attributes>
     <name>ФайлРасширения</name>
     <title>
-      <key>ru</key>
-      <value>Файл расширения</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Файл расширения</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Файл расширения</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Файл расширения</value>
     </title>
     <id>2</id>
@@ -1172,15 +1172,15 @@
   <attributes>
     <name>НазваниеВарианта</name>
     <title>
-      <key>ru</key>
-      <value>Название варианта</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Название варианта</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Название варианта</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Название варианта</value>
     </title>
     <id>4</id>
@@ -1198,15 +1198,15 @@
   <attributes>
     <name>СсылкаНаСтраницуСкачивания</name>
     <title>
-      <key>ru</key>
-      <value>Ссылка на страницу скачивания</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Ссылка на страницу скачивания</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Ссылка на страницу скачивания</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Ссылка на страницу скачивания</value>
     </title>
     <id>5</id>
@@ -1224,15 +1224,15 @@
   <attributes>
     <name>РасширениеУстановлено</name>
     <title>
-      <key>ru</key>
-      <value>Расширение установлено</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Расширение установлено</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Расширение установлено</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Расширение установлено</value>
     </title>
     <id>6</id>
@@ -1249,15 +1249,15 @@
   <attributes>
     <name>УстановкаВозможна</name>
     <title>
-      <key>ru</key>
-      <value>Установка возможна</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Установка возможна</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Установка возможна</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Установка возможна</value>
     </title>
     <id>7</id>
@@ -1274,15 +1274,15 @@
   <attributes>
     <name>АктуальнаяВерсия</name>
     <title>
-      <key>ru</key>
-      <value>Актуальная версия</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Актуальная версия</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Актуальная версия</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Актуальная версия</value>
     </title>
     <id>8</id>
@@ -1300,15 +1300,15 @@
   <attributes>
     <name>РасширениеАктивно</name>
     <title>
-      <key>ru</key>
-      <value>Расширение активно</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Расширение активно</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Расширение активно</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Расширение активно</value>
     </title>
     <id>9</id>
@@ -1325,15 +1325,15 @@
   <attributes>
     <name>ПараметрЗапуска</name>
     <title>
-      <key>ru</key>
-      <value>Параметр запуска</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Параметр запуска</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Параметр запуска</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Параметр запуска</value>
     </title>
     <id>3</id>
@@ -1351,28 +1351,28 @@
   <formCommands>
     <name>Установить</name>
     <title>
-      <key>ru</key>
-      <value>Установить расширение</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Установить расширение</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Установить расширение</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Установить расширение</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Установить расширение, сделать видимым и запустить новый сеанс</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Установить расширение, сделать видимым и запустить новый сеанс</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Установить расширение, сделать видимым и запустить новый сеанс</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Установить расширение, сделать видимым и запустить новый сеанс</value>
     </toolTip>
     <use>
@@ -1388,28 +1388,28 @@
   <formCommands>
     <name>СделатьВидимыми</name>
     <title>
-      <key>ru</key>
-      <value>Сделать видимыми</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Сделать видимыми</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Сделать видимыми</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Сделать видимыми</value>
     </title>
     <id>2</id>
     <toolTip>
-      <key>ru</key>
-      <value>Сделать инструменты видимыми текущему пользователю. Ему будет добавлена роль ирРазработчик. Свойство &quot;Активно&quot; расширения будет включено, а &quot;Безопасный режим&quot; - выключено. Далее будет запущен новый сеанс.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Сделать инструменты видимыми текущему пользователю. Ему будет добавлена роль ирРазработчик. Свойство &quot;Активно&quot; расширения будет включено, а &quot;Безопасный режим&quot; - выключено. Далее будет запущен новый сеанс.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Сделать инструменты видимыми текущему пользователю. Ему будет добавлена роль ирРазработчик. Свойство &quot;Активно&quot; расширения будет включено, а &quot;Безопасный режим&quot; - выключено. Далее будет запущен новый сеанс.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Сделать инструменты видимыми текущему пользователю. Ему будет добавлена роль ирРазработчик. Свойство &quot;Активно&quot; расширения будет включено, а &quot;Безопасный режим&quot; - выключено. Далее будет запущен новый сеанс.</value>
     </toolTip>
     <use>
@@ -1425,28 +1425,28 @@
   <formCommands>
     <name>Удалить</name>
     <title>
-      <key>ru</key>
-      <value>Удалить расширение</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Удалить расширение</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Удалить расширение</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Удалить расширение</value>
     </title>
     <id>3</id>
     <toolTip>
-      <key>ru</key>
-      <value>Удалить расширение</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Удалить расширение</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Удалить расширение</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Удалить расширение</value>
     </toolTip>
     <use>
@@ -1462,26 +1462,19 @@
   <formCommands>
     <name>ЗапуститьОднократно</name>
     <title>
-      <key>ru</key>
-      <value>Запустить в одном сеансе</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Запустить в одном сеансе</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Запустить в одном сеансе</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Запустить в одном сеансе</value>
     </title>
     <id>4</id>
     <toolTip>
-      <key>ru</key>
-      <value>Установить расширение, запустить новый сеанс, удалить расширение. 
-Таким образом расширение подключится только в одном сеансе. 
-Для ускорения установки указывайте файл.
-Доступно только если расширение не установлено.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Установить расширение, запустить новый сеанс, удалить расширение. 
 Таким образом расширение подключится только в одном сеансе. 
@@ -1490,6 +1483,13 @@
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Установить расширение, запустить новый сеанс, удалить расширение. 
+Таким образом расширение подключится только в одном сеансе. 
+Для ускорения установки указывайте файл.
+Доступно только если расширение не установлено.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Установить расширение, запустить новый сеанс, удалить расширение. 
 Таким образом расширение подключится только в одном сеансе. 
 Для ускорения установки указывайте файл.

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Варианты отчетов доступные всем пользователям</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Варіанти звітів доступні всім користувачам</value>
+  </synonym>
 </mdclass:CommonPicture>

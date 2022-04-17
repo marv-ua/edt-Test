@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирКонсольКомпоновокДанных</name>
   <synonym>
-    <key>ru</key>
-    <value>Консоль компоновок данных (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Консоль компоновок данных (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Консоль компоновок данных (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Консоль компоновок данных (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирКонсольКомпоновокДанных.Form.Форма</defaultForm>
   <attributes uuid="d60b82b8-3597-483a-8e3b-5e3433903f00">
     <name>Автофиксация</name>
-    <synonym>
-      <key>ru</key>
-      <value>Автофиксация</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Автофиксация</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Автофиксация</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Автофиксация</value>
     </synonym>
     <type>
@@ -41,15 +41,15 @@
   <attributes uuid="75fcdae0-0829-4cc6-8dd7-eff2b9058d91">
     <name>ВыполнятьНаСервере</name>
     <synonym>
-      <key>ru</key>
-      <value>Выполнять на сервере</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выполнять на сервере</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <type>
@@ -61,15 +61,15 @@
   <attributes uuid="fbdd33f0-0f34-478a-994b-acad8fc0b40a">
     <name>ДеревоОтчетов</name>
     <synonym>
-      <key>ru</key>
-      <value>Дерево отчетов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дерево отчетов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дерево отчетов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дерево отчетов</value>
     </synonym>
     <type>
@@ -81,15 +81,15 @@
   <attributes uuid="50b28cd7-fe49-4db4-8afa-06bf2f0edb7e">
     <name>КомпоновщикНастроек</name>
     <synonym>
-      <key>ru</key>
-      <value>Компоновщик настроек</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Компоновщик настроек</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Компоновщик настроек</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Компоновщик настроек</value>
     </synonym>
     <type>
@@ -101,15 +101,15 @@
   <forms uuid="9bf7db45-1b11-4d56-b5e9-394a5c5fdbad">
     <name>РедакторВыраженияКомпоновки</name>
     <synonym>
-      <key>ru</key>
-      <value>Конструктор выражения компоновки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Конструктор выражения компоновки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Конструктор выражения компоновки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Конструктор выражения компоновки</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -119,15 +119,15 @@
   <forms uuid="05d8affb-7080-4444-afa2-a222045d3e49">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -143,15 +143,15 @@
   <forms uuid="95174be5-cc9d-40c4-bbcf-f5d4b96a0241">
     <name>ФормаВыбораСтрокиДереваОтчетов</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора строки дерева отчетов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора строки дерева отчетов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора строки дерева отчетов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора строки дерева отчетов</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -161,15 +161,15 @@
   <forms uuid="08730d5b-e1e9-468d-ad86-c1f1c61f0ba1">
     <name>ФормаСохраненияНастроек</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма сохранения настроек</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма сохранения настроек</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма сохранения настроек</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма сохранения настроек</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -185,15 +185,15 @@
   <templates uuid="d13e960d-72f7-4afa-8edf-dd021e45e35b">
     <name>АлгоритмПередВыполнением</name>
     <synonym>
-      <key>ru</key>
-      <value>Перед выполнением</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Перед выполнением</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Перед выполнением</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Перед выполнением</value>
     </synonym>
   </templates>
@@ -212,15 +212,15 @@
   <commands uuid="7223b756-5568-4712-95f6-dff6a136c9da">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Консоль компоновок данных (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Консоль компоновок данных (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Консоль компоновок данных (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Консоль компоновок данных (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

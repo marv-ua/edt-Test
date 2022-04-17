@@ -1667,7 +1667,7 @@
           <horizontalStretch>true</horizontalStretch>
           <verticalStretch>true</verticalStretch>
           <valuesPicture xsi:type="core:PictureRef">
-            <picture>CommonPicture.КоллекцияЗадачиИБизнесПроцессы</picture>
+            <picture>CommonPicture.КоллекцияБизнесПроцессыИЗадачи</picture>
           </valuesPicture>
         </extInfo>
       </items>

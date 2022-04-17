@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Банк и касса</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Банк і каса</value>
+  </synonym>
 </mdclass:CommonPicture>

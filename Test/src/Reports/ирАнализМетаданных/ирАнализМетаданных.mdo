@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирАнализМетаданных</name>
   <synonym>
-    <key>ru</key>
-    <value>Анализ метаданных (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Анализ метаданных (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Анализ метаданных (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Анализ метаданных (ИР)</value>
+  </synonym>
   <defaultForm>Report.ирАнализМетаданных.Form.ФормаОтчета</defaultForm>
   <attributes uuid="9b395b30-bddd-4818-bff7-ca5647b41dfc">
     <name>ТипОбъектов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Тип объектов</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Тип объектов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Тип объектов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Тип объектов</value>
     </synonym>
     <type>
@@ -42,15 +42,15 @@
   <attributes uuid="4392e900-c040-4df8-867a-875e3358fced">
     <name>РасширенныеПредставления</name>
     <synonym>
-      <key>ru</key>
-      <value>Расширенные представления</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Расширенные представления</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Расширенные представления</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Расширенные представления</value>
     </synonym>
     <type>
@@ -62,15 +62,15 @@
   <forms uuid="7ce7230f-c421-4e00-a6c7-6aa635b1e774">
     <name>ФормаОтчета</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма отчета</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -80,15 +80,15 @@
   <commands uuid="853e4145-a464-4490-be0d-ee2844ff6873">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Анализ метаданных (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Анализ метаданных (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Анализ метаданных (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Анализ метаданных (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

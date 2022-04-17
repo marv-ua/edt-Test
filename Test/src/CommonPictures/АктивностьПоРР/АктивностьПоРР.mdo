@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6ca2cc75-7ee4-4c63-aa28-90cdb244f936">
+  <name>АктивностьПоРР</name>
+  <synonym>
+    <key>ru</key>
+    <value>Активность по РР</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Активність по РР</value>
+  </synonym>
+</mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Отчеты</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Звіти</value>
+  </synonym>
 </mdclass:CommonPicture>

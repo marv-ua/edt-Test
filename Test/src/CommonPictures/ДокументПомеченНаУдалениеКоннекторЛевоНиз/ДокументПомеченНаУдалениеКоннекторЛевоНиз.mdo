@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Документ помечен на удаление коннектор лево низ</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Документ відмічений для вилучення конектор ліво низ</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b199474e-49f7-476a-9547-7ca1c580520b">
+  <name>КИТелефон</name>
+  <synonym>
+    <key>ru</key>
+    <value>КИТелефон</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>КІТелефон</value>
+  </synonym>
+</mdclass:CommonPicture>

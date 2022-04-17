@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирВыгрузкаЗагрузкаДанныхЧерезФайл</name>
   <synonym>
-    <key>ru</key>
-    <value>Выгрузка/загрузка данных через файл (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Выгрузка/загрузка данных через файл (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Выгрузка/загрузка данных через файл (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Выгрузка/загрузка данных через файл (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирВыгрузкаЗагрузкаДанныхЧерезФайл.Form.Форма</defaultForm>
@@ -26,15 +26,15 @@
   <attributes uuid="46a956b9-d270-4745-966c-9044e957264a">
     <name>ВыгружатьДвиженияВместеСДокументами</name>
     <synonym>
-      <key>ru</key>
-      <value>Выгружать движения вместе с документами</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выгружать движения вместе с документами</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выгружать движения вместе с документами</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выгружать движения вместе с документами</value>
     </synonym>
     <type>
@@ -46,30 +46,30 @@
   <attributes uuid="57c03cb9-34e8-4a5b-9e18-1367605d7c98">
     <name>ВыполнятьНаСервере</name>
     <synonym>
-      <key>ru</key>
-      <value>Выполнять на сервере</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выполнять на сервере</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <type>
       <types>Boolean</types>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Выполнять обработку объектов на сервере (через фоновое задание)</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Выполнять обработку объектов на сервере (через фоновое задание)</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Выполнять обработку объектов на сервере (через фоновое задание)</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Выполнять обработку объектов на сервере (через фоновое задание)</value>
     </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -78,15 +78,15 @@
   <attributes uuid="74161d3b-53db-469d-8b32-b29c53834644">
     <name>ДвоичныеДанные</name>
     <synonym>
-      <key>ru</key>
-      <value>Двоичные данные</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Двоичные данные</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Двоичные данные</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Двоичные данные</value>
     </synonym>
     <type/>
@@ -96,15 +96,15 @@
   <attributes uuid="8434d834-d87e-4cc9-bc69-98cda588353d">
     <name>ИмяФайла</name>
     <synonym>
-      <key>ru</key>
-      <value>Имя файла</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Имя файла</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Имя файла</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Имя файла</value>
     </synonym>
     <type>
@@ -117,15 +117,15 @@
   <attributes uuid="bdd7a685-1c0d-498f-a923-57c132d2eb5f">
     <name>ИспользоватьXDTO</name>
     <synonym>
-      <key>ru</key>
-      <value>Использовать XDTO</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Использовать XDTO</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Использовать XDTO</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Использовать XDTO</value>
     </synonym>
     <type>
@@ -137,15 +137,15 @@
   <attributes uuid="f192a30d-d7c4-4af1-8e1e-5fc3e82248f3">
     <name>КоличествоОбъектовВПорции</name>
     <synonym>
-      <key>ru</key>
-      <value>Количество объектов в порции</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Количество объектов в порции</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Количество объектов в порции</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Количество объектов в порции</value>
     </synonym>
     <type>
@@ -156,15 +156,15 @@
       </numberQualifiers>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
     </toolTip>
     <minValue xsi:type="core:StringValue">
@@ -177,15 +177,15 @@
   <attributes uuid="b4451fc1-aeb6-41a7-851a-6f30e2d5c200">
     <name>КоличествоПотоков</name>
     <synonym>
-      <key>ru</key>
-      <value>Количество потоков</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Количество потоков</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Количество потоков</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Количество потоков</value>
     </synonym>
     <type>
@@ -196,15 +196,15 @@
       </numberQualifiers>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
     </toolTip>
     <minValue xsi:type="core:StringValue">
@@ -217,15 +217,15 @@
   <attributes uuid="6456a8ab-3c74-40b3-9560-36ec7cb41bac">
     <name>ПропускатьОшибки</name>
     <synonym>
-      <key>ru</key>
-      <value>Пропускать ошибки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Пропускать ошибки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Пропускать ошибки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Пропускать ошибки</value>
     </synonym>
     <type>
@@ -237,15 +237,15 @@
   <attributes uuid="15de5879-d17e-4a86-94e0-8fa5eb9c1ec8">
     <name>СопоставлятьПредопределенные</name>
     <synonym>
-      <key>ru</key>
-      <value>Сопоставлять предопределенные</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Сопоставлять предопределенные</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Сопоставлять предопределенные</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Сопоставлять предопределенные</value>
     </synonym>
     <type>
@@ -257,15 +257,15 @@
   <attributes uuid="2f5abd80-3b06-4501-bb6b-ca60a95159c6">
     <name>ТипыВыгружаемыеПоСсылке</name>
     <synonym>
-      <key>ru</key>
-      <value>Типы выгружаемые по ссылке</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Типы выгружаемые по ссылке</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Типы выгружаемые по ссылке</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Типы выгружаемые по ссылке</value>
     </synonym>
     <type>
@@ -277,15 +277,15 @@
   <attributes uuid="cfa17da6-530a-4436-87d5-760000778069">
     <name>УзелВыборкиДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Узел выборки данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Узел выборки данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Узел выборки данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Узел выборки данных</value>
     </synonym>
     <type>
@@ -297,15 +297,15 @@
   <attributes uuid="7e6e50f7-9ec6-43b7-942c-9ec8cf2be313">
     <name>УзелОтправитель</name>
     <synonym>
-      <key>ru</key>
-      <value>Узел отправитель</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Узел отправитель</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Узел отправитель</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Узел отправитель</value>
     </synonym>
     <type>
@@ -321,15 +321,15 @@
     </producedTypes>
     <name>РезультатОбработки</name>
     <synonym>
-      <key>ru</key>
-      <value>Результат обработки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Результат обработки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Результат обработки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Результат обработки</value>
     </synonym>
     <standardAttributes>
@@ -343,15 +343,15 @@
     <attributes uuid="3f323d7a-36d8-4744-bcba-7a059a7ecf62">
       <name>XML</name>
       <synonym>
-        <key>ru</key>
-        <value>XML</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>XML</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>XML</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>XML</value>
       </synonym>
       <type>
@@ -384,15 +384,15 @@
     <attributes uuid="22082572-7d19-45b2-8298-a91eea50eb30">
       <name>КлючОбъекта</name>
       <synonym>
-        <key>ru</key>
-        <value>Ключ объекта</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ключ объекта</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ключ объекта</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ключ объекта</value>
       </synonym>
       <type>
@@ -411,15 +411,15 @@
     <attributes uuid="4520f63a-7e79-4821-9628-569bac47ff80">
       <name>ОписаниеОшибки</name>
       <synonym>
-        <key>ru</key>
-        <value>Описание ошибки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Описание ошибки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Описание ошибки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Описание ошибки</value>
       </synonym>
       <type>
@@ -435,15 +435,15 @@
     <attributes uuid="5a4aa453-876a-4fb3-b290-4d03c233061a">
       <name>Порядок</name>
       <synonym>
-        <key>ru</key>
-        <value>Порядок</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Порядок</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Порядок</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Порядок</value>
       </synonym>
       <type>
@@ -460,15 +460,15 @@
     <attributes uuid="b7ea3044-bfbd-4b88-8988-2277c3e6a0af">
       <name>Сообщения</name>
       <synonym>
-        <key>ru</key>
-        <value>Сообщения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Сообщения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Сообщения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Сообщения</value>
       </synonym>
       <type>
@@ -484,15 +484,15 @@
     <attributes uuid="084c172c-98ab-4a2a-a774-84e8ff28f943">
       <name>Таблица</name>
       <synonym>
-        <key>ru</key>
-        <value>Таблица</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Таблица</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Таблица</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Таблица</value>
       </synonym>
       <type>
@@ -511,15 +511,15 @@
   <forms uuid="54d80a86-f032-4e5f-87d7-9e9605d8445c">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -529,15 +529,15 @@
   <commands uuid="a5bba1fe-5732-43e9-bc9d-fb4c11aef1e5">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Выгрузка/загрузка данных через файл (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выгрузка/загрузка данных через файл (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выгрузка/загрузка данных через файл (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выгрузка/загрузка данных через файл (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

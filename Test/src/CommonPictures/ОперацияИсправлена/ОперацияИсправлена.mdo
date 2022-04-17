@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d3aa4761-bc2f-43a5-bff6-122a9b7617d8">
+  <name>ОперацияИсправлена</name>
+  <synonym>
+    <key>ru</key>
+    <value>Операция исправлена</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Операція виправлена</value>
+  </synonym>
+  <comment>Регламентная операция выполнена и исправлена вручную</comment>
+  <transparentPixel>
+    <x>4</x>
+    <y>2</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

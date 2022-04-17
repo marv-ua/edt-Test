@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Подписан ЭП</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Підписаний ЕП</value>
+  </synonym>
 </mdclass:CommonPicture>

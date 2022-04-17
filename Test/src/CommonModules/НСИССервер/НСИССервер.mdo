@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6c572a71-c6f9-49ba-bc53-aacdc91a36e6">
+  <name>НСИССервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>НСИС сервер</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>НСІС сервер</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+  <clientOrdinaryApplication>true</clientOrdinaryApplication>
+</mdclass:CommonModule>

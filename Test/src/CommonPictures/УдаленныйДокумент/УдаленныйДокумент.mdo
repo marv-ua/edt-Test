@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="63432ff3-1b0a-4a0d-8014-c3d4f60e45a4">
+  <name>УдаленныйДокумент</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удаленный документ</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Вилучений документ</value>
+  </synonym>
+  <transparentPixel>
+    <x>4</x>
+  </transparentPixel>
+</mdclass:CommonPicture>

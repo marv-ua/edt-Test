@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирИмитаторАлгоритмОбъект</name>
   <synonym>
-    <key>ru</key>
-    <value>Алгоритм объект</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Алгоритм объект</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Алгоритм объект</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Алгоритм объект</value>
+  </synonym>
   <comment>Вспомогательная</comment>
   <attributes uuid="d81354f5-57e8-4e49-99a5-8cfb6db3c3af">
     <name>ТекстАлгоритма</name>
-    <synonym>
-      <key>ru</key>
-      <value>Текст алгоритма</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Текст алгоритма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Текст алгоритма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Текст алгоритма</value>
     </synonym>
     <type>
@@ -44,15 +44,15 @@
   <attributes uuid="fa80f047-7537-40dd-8dfd-a28bed8bd634">
     <name>ДатаИзменения</name>
     <synonym>
-      <key>ru</key>
-      <value>Дата изменения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дата изменения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дата изменения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дата изменения</value>
     </synonym>
     <type>
@@ -65,15 +65,15 @@
   <attributes uuid="a115f8e8-6d28-45fe-8cd9-a8867b7191e0">
     <name>Комментарий</name>
     <synonym>
-      <key>ru</key>
-      <value>Комментарий</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Комментарий</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Комментарий</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Комментарий</value>
     </synonym>
     <type>
@@ -86,15 +86,15 @@
   <attributes uuid="7af4efb3-2d90-4d26-a212-8d58e7240f41">
     <name>ОбменДанными</name>
     <synonym>
-      <key>ru</key>
-      <value>Обмен данными</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Обмен данными</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Обмен данными</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Обмен данными</value>
     </synonym>
     <type/>
@@ -104,15 +104,15 @@
   <attributes uuid="199a58f2-d22e-4754-aa8c-b415beab261e">
     <name>Наименование</name>
     <synonym>
-      <key>ru</key>
-      <value>Наименование</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Наименование</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Наименование</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Наименование</value>
     </synonym>
     <type>
@@ -131,15 +131,15 @@
     </producedTypes>
     <name>Параметры</name>
     <synonym>
-      <key>ru</key>
-      <value>Параметры</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Параметры</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Параметры</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Параметры</value>
     </synonym>
     <standardAttributes>
@@ -153,15 +153,15 @@
     <attributes uuid="4473840e-034f-4b6a-9cbe-208028fe91cc">
       <name>Вход</name>
       <synonym>
-        <key>ru</key>
-        <value>Вход</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Вход</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Вход</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Вход</value>
       </synonym>
       <type>
@@ -174,15 +174,15 @@
     <attributes uuid="da7e3b69-64b1-422d-85f2-f47baebeafec">
       <name>Выход</name>
       <synonym>
-        <key>ru</key>
-        <value>Выход</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Выход</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Выход</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Выход</value>
       </synonym>
       <type>
@@ -195,15 +195,15 @@
     <attributes uuid="1f2aea42-9cae-47c9-bcda-f9eecde9f4e3">
       <name>Значение</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение</value>
       </synonym>
       <type>
@@ -230,15 +230,15 @@
     <attributes uuid="07d3d781-414c-4343-bd50-ea3cb16ae535">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>

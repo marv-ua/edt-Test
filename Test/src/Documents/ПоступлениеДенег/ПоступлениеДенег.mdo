@@ -13,12 +13,12 @@
     <value>Cash receipts</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Поступление денег</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Надходження грошей</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Поступление денег</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Document.ПоступлениеДенег.StandardAttribute.Number</inputByString>
@@ -41,11 +41,11 @@
       <value>Сounterparty</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Контрагент</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Контрагент</value>
     </synonym>
     <type>
@@ -64,12 +64,12 @@
       <value>Sum</value>
     </synonym>
     <synonym>
-      <key>ru</key>
-      <value>Сумма</value>
-    </synonym>
-    <synonym>
       <key>uk</key>
       <value>Сума</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
     </synonym>
     <type>
       <types>DefinedType.Сумма</types>
@@ -87,12 +87,12 @@
       <value>Item of income</value>
     </synonym>
     <synonym>
-      <key>ru</key>
-      <value>Статья дохода</value>
-    </synonym>
-    <synonym>
       <key>uk</key>
       <value>Стаття доходу</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Статья дохода</value>
     </synonym>
     <type>
       <types>CatalogRef.СтатьиДоходов</types>
@@ -110,11 +110,11 @@
       <value>Currency</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Валюта</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Валюта</value>
     </synonym>
     <type>

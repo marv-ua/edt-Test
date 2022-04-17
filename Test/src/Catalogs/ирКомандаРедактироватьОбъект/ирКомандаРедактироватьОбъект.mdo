@@ -9,15 +9,15 @@
   </producedTypes>
   <name>ирКомандаРедактироватьОбъект</name>
   <synonym>
-    <key>ru</key>
-    <value>.Редактировать объект (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>.Редактировать объект (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>.Редактировать объект (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>.Редактировать объект (ИР)</value>
   </synonym>
   <comment>Справочник-команда. Во вводе на основании нужно указать все типы объектов, для которых применяется команда.</comment>
@@ -112,15 +112,15 @@
   <forms uuid="6c6a1433-f6e8-4148-bb93-9e91fdc597a2">
     <name>ФормаЭлемента</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма элемента</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма элемента</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма элемента</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма элемента</value>
     </synonym>
     <formType>Ordinary</formType>

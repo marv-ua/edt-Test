@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c55dc140-53e0-4f3d-9900-b3eb1da44e14">
+  <name>ПереходС77ВОчереди_Проведение</name>
+  <synonym>
+    <key>ru</key>
+    <value>Переход с 77 в очереди проведение</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Перехід з 77 у черзі проведення</value>
+  </synonym>
+  <transparentPixel>
+    <x>25</x>
+    <y>5</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

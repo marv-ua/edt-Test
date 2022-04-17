@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирСтатистикаПоЗапросамСУБД</name>
   <synonym>
-    <key>ru</key>
-    <value>Статистика по запросам СУБД (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Статистика по запросам СУБД (ИР)</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Статистика по запросам СУБД (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статистика по запросам СУБД (ИР)</value>
+  </synonym>
   <defaultForm>Report.ирСтатистикаПоЗапросамСУБД.Form.ФормаОтчета</defaultForm>
   <mainDataCompositionSchema>Report.ирСтатистикаПоЗапросамСУБД.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
   <forms uuid="745aba41-2db2-4baa-bc4a-4d1c36cb6b02">
     <name>ФормаОтчета</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма отчета</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Форма отчета</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма отчета</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -40,15 +40,15 @@
   <templates uuid="2f496386-2da5-4526-938b-9b427c62798e">
     <name>ОсновнаяСхемаКомпоновкиДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Основная схема компоновки данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Основная схема компоновки данных</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -56,15 +56,15 @@
   <templates uuid="1ed1f0de-ff78-47f4-a800-d0d35f089854">
     <name>ЗапросMSSQL</name>
     <synonym>
-      <key>ru</key>
-      <value>Запрос MSSQL</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Запрос MSSQL</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Запрос MSSQL</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Запрос MSSQL</value>
     </synonym>
     <templateType>TextDocument</templateType>
@@ -72,15 +72,15 @@
   <commands uuid="21e3859b-3878-45fc-8fb3-7fef7ec43d5d">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Статистика по запросам СУБД (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Статистика по запросам СУБД (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Статистика по запросам СУБД (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Статистика по запросам СУБД (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Контактная информация неактуально</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Контактна інформація неактуально</value>
+  </synonym>
 </mdclass:CommonPicture>

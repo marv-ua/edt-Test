@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Использовать пользовательский макет</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Використовувати користувацький макет</value>
+  </synonym>
 </mdclass:CommonPicture>

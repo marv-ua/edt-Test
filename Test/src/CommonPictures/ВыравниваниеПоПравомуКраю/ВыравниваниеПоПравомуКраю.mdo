@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Выравнивание по правому краю</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Вирівнювання по правому краю</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирКонсольЗапросов</name>
   <synonym>
-    <key>ru</key>
-    <value>Консоль запросов (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Консоль запросов (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Консоль запросов (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Консоль запросов (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирКонсольЗапросов.Form.Форма</defaultForm>
@@ -26,15 +26,15 @@
   <attributes uuid="d3c87783-4e92-45f7-827b-f0634422cbd7">
     <name>ВключатьДеревоЗапросаПриОтладке</name>
     <synonym>
-      <key>ru</key>
-      <value>Включать дерево запроса при отладке</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Включать дерево запроса при отладке</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Включать дерево запроса при отладке</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Включать дерево запроса при отладке</value>
     </synonym>
     <type>
@@ -46,15 +46,15 @@
   <attributes uuid="7c45aad9-f136-4bf1-b357-da2028a86843">
     <name>ВыполнятьВТранзакции</name>
     <synonym>
-      <key>ru</key>
-      <value>Выполнять в транзакции</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Выполнять в транзакции</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выполнять в транзакции</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выполнять в транзакции</value>
     </synonym>
     <type>
@@ -66,15 +66,15 @@
   <attributes uuid="44205f39-a79b-47ac-88ff-38ccf451e3dc">
     <name>ДеревоЗапросов</name>
     <synonym>
-      <key>ru</key>
-      <value>Дерево запросов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дерево запросов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дерево запросов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дерево запросов</value>
     </synonym>
     <type>
@@ -86,15 +86,15 @@
   <attributes uuid="6c7ea592-632f-4a37-a61b-0c7059b2d996">
     <name>ИнтервалАвтосохранения</name>
     <synonym>
-      <key>ru</key>
-      <value>Интервал автосохранения (с)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Интервал автосохранения (с)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Интервал автосохранения (с)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Интервал автосохранения (с)</value>
     </synonym>
     <type>
@@ -109,15 +109,15 @@
   <attributes uuid="e3b0a734-272a-48e8-9598-fb30cd775895">
     <name>ИспользоватьАвтосохранение</name>
     <synonym>
-      <key>ru</key>
-      <value>Использовать автосохранение</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Использовать автосохранение</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Использовать автосохранение</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Использовать автосохранение</value>
     </synonym>
     <type>
@@ -129,15 +129,15 @@
   <attributes uuid="5c919c7d-4b22-4859-b21d-e3d934a1e6c9">
     <name>КаталогЖурнала</name>
     <synonym>
-      <key>ru</key>
-      <value>Каталог журнала</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Каталог журнала</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Каталог журнала</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Каталог журнала</value>
     </synonym>
     <type>
@@ -150,15 +150,15 @@
   <attributes uuid="c184debe-cc81-46a2-af30-b62c698fb852">
     <name>НаСервере</name>
     <synonym>
-      <key>ru</key>
-      <value>На сервере</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>На сервере</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>На сервере</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>На сервере</value>
     </synonym>
     <type>
@@ -174,15 +174,15 @@
     </producedTypes>
     <name>КлассыWMI</name>
     <synonym>
-      <key>ru</key>
-      <value>Классы WMI</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Классы WMI</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Классы WMI</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Классы WMI</value>
     </synonym>
     <standardAttributes>
@@ -196,15 +196,15 @@
     <attributes uuid="3d38dbee-2807-47c5-ac08-1a57cf265593">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -220,15 +220,15 @@
     <attributes uuid="319262b5-4864-4d5b-b6e5-34a70fe26a76">
       <name>Описание</name>
       <synonym>
-        <key>ru</key>
-        <value>Описание</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Описание</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Описание</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Описание</value>
       </synonym>
       <type>
@@ -244,15 +244,15 @@
     <attributes uuid="f74e6310-bf99-4e3c-b024-f696fd1c789e">
       <name>Представление</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление</value>
       </synonym>
       <type>
@@ -268,15 +268,15 @@
     <attributes uuid="08950e60-2ddd-490c-8e17-19fa8813dd77">
       <name>ТочкаПодключения</name>
       <synonym>
-        <key>ru</key>
-        <value>Точка подключения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Точка подключения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Точка подключения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Точка подключения</value>
       </synonym>
       <type>
@@ -295,15 +295,15 @@
   <forms uuid="9dd110c1-44b8-4227-b2d7-66657daaba8f">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -313,15 +313,15 @@
   <forms uuid="8dab503c-fe5a-45b0-907e-bac31435d0f8">
     <name>ФормаНастройки</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма настройки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма настройки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма настройки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма настройки</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -331,15 +331,15 @@
   <forms uuid="990f64af-0949-4e5e-a040-0da3770b9332">
     <name>ПомещениеВоВременнуюТаблицу</name>
     <synonym>
-      <key>ru</key>
-      <value>Помещение во временную таблицу</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Помещение во временную таблицу</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Помещение во временную таблицу</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Помещение во временную таблицу</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -349,30 +349,30 @@
   <templates uuid="a1c453d0-037a-4c29-aa12-3231b386c380">
     <name>ПлатформыADODB</name>
     <synonym>
-      <key>ru</key>
-      <value>Платформы ADODB</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Платформы ADODB</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Платформы ADODB</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Платформы ADODB</value>
     </synonym>
   </templates>
   <commands uuid="899de1c8-4d6e-46a5-95f2-c56460454d73">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Консоль запросов (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Консоль запросов (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Консоль запросов (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Консоль запросов (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

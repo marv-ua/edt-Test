@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Восклицательный знак красный</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Знак оклику червоний</value>
+  </synonym>
 </mdclass:CommonPicture>

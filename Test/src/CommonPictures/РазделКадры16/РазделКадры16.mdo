@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d8d6993d-3046-4e7f-ba05-2fa0b9bf85a1">
+  <name>РазделКадры16</name>
+  <synonym>
+    <key>ru</key>
+    <value>Раздел кадры16</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Розділ кадри 16</value>
+  </synonym>
+</mdclass:CommonPicture>

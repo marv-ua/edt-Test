@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Обновление внешних компонент с сайта</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Оновлення зовнішніх компонент з сайту</value>
+  </synonym>
 </mdclass:CommonPicture>

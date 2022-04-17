@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fe396376-057d-4e54-9e2c-35f7eba27af3">
+  <name>ЗначокКлиентБанка16</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок клиент банка16</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок клієнт банку 16</value>
+  </synonym>
+</mdclass:CommonPicture>

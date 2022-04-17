@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ba1806e3-0027-4dfb-ad1b-cb2e7d7639da">
+  <name>ПравилаРегистрацииОбъектов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Правила регистрации объектов</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Правила реєстрації об'єктів</value>
+  </synonym>
+</mdclass:CommonPicture>

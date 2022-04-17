@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7b53a547-ee83-4c7f-88c0-78aac56b9106">
+  <name>Квадрат</name>
+  <synonym>
+    <key>ru</key>
+    <value>Квадрат</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Квадрат</value>
+  </synonym>
+</mdclass:CommonPicture>

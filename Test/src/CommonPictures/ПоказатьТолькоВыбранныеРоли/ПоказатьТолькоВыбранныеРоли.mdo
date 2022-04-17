@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Показать только выбранные роли</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Показати тільки обрані ролі</value>
+  </synonym>
 </mdclass:CommonPicture>

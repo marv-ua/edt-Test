@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Компьютер клиент</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Комп'ютер клієнт</value>
+  </synonym>
 </mdclass:CommonPicture>

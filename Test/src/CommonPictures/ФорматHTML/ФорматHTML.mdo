@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Формат HTML</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Формат HTML</value>
+  </synonym>
 </mdclass:CommonPicture>

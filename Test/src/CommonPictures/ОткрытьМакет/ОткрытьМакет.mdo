@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Открыть макет</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Відкрити макет</value>
+  </synonym>
 </mdclass:CommonPicture>

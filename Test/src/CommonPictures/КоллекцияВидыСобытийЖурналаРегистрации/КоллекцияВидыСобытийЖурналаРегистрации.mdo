@@ -5,5 +5,9 @@
     <key>ru</key>
     <value>Коллекция видов событий журнала регистрации</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Колекція видів подій журналу реєстрації</value>
+  </synonym>
   <comment>Коллекция картинок видов событий</comment>
 </mdclass:CommonPicture>

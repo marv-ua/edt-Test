@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5842bd1e-3543-48b3-aa8d-bab0e077945a">
+  <name>ВыборАдреса</name>
+  <synonym>
+    <key>ru</key>
+    <value>Выбор адреса</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Вибір адреси</value>
+  </synonym>
+</mdclass:CommonPicture>

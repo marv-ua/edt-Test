@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирВводВыраженияВстроенногоЯзыка</name>
   <synonym>
-    <key>ru</key>
-    <value>Ввод выражения встроенного языка (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Ввод выражения встроенного языка (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Ввод выражения встроенного языка (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Ввод выражения встроенного языка (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирВводВыраженияВстроенногоЯзыка.Form.Форма</defaultForm>
   <attributes uuid="33789885-a172-438c-9c0d-71fccfdee14e">
     <name>КонтекстВыполнения</name>
-    <synonym>
-      <key>ru</key>
-      <value>Контекст, в котором будет выполняться программный код</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Контекст, в котором будет выполняться программный код</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Контекст, в котором будет выполняться программный код</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Контекст, в котором будет выполняться программный код</value>
     </synonym>
     <comment>Если не задан, используется глобальный контекст.</comment>
@@ -40,15 +40,15 @@
   <attributes uuid="e3b14ea1-cff2-4b61-9500-9b19e901539b">
     <name>МетодВыполнения</name>
     <synonym>
-      <key>ru</key>
-      <value>Метод, который будет вызван у объекта выполнения для выполнения прогаммы. Должен иметь один параметр - текст для выполнения в своем контексте.</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Метод, который будет вызван у объекта выполнения для выполнения прогаммы. Должен иметь один параметр - текст для выполнения в своем контексте.</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Метод, который будет вызван у объекта выполнения для выполнения прогаммы. Должен иметь один параметр - текст для выполнения в своем контексте.</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Метод, который будет вызван у объекта выполнения для выполнения прогаммы. Должен иметь один параметр - текст для выполнения в своем контексте.</value>
     </synonym>
     <type>
@@ -61,15 +61,15 @@
   <attributes uuid="b3215188-a680-430a-af57-c0437fafe51b">
     <name>НаСервере</name>
     <synonym>
-      <key>ru</key>
-      <value>На сервере</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>На сервере</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>На сервере</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>На сервере</value>
     </synonym>
     <type>
@@ -81,15 +81,15 @@
   <attributes uuid="06324df3-9cc4-47f6-a0d3-6a71911a49b1">
     <name>Описание</name>
     <synonym>
-      <key>ru</key>
-      <value>Описание</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Описание</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Описание</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Описание</value>
     </synonym>
     <type>
@@ -102,15 +102,15 @@
   <attributes uuid="d7ae4c99-16a3-4d29-8845-07715134a34d">
     <name>Формула</name>
     <synonym>
-      <key>ru</key>
-      <value>Формула</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Формула</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Формула</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Формула</value>
     </synonym>
     <type>
@@ -123,15 +123,15 @@
   <forms uuid="37d0ccc2-d7e4-437b-af2a-1d300da0955b">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>

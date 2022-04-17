@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Позвонить</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Зателефонувати</value>
+  </synonym>
 </mdclass:CommonPicture>

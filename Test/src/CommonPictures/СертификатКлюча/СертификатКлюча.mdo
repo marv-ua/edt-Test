@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Сертификат ключа</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Сертифікат ключа</value>
+  </synonym>
 </mdclass:CommonPicture>

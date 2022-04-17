@@ -6,25 +6,21 @@
   </producedTypes>
   <name>ирУстановщикРасширения</name>
   <synonym>
-    <key>ru</key>
-    <value>Установщик расширения &quot;Инструменты разработчика&quot;</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Установщик расширения &quot;Инструменты разработчика&quot;</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Установщик расширения &quot;Инструменты разработчика&quot;</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Установщик расширения &quot;Инструменты разработчика&quot;</value>
   </synonym>
   <comment>5.99</comment>
   <defaultForm>DataProcessor.ирУстановщикРасширения.Form.Форма</defaultForm>
   <auxiliaryForm>DataProcessor.ирУстановщикРасширения.Form.ФормаОбычная</auxiliaryForm>
   <explanation>
-    <key>ru</key>
-    <value>Внешняя обработка, позволяющая установить/удалить расширение &quot;Инструменты разработчика&quot;</value>
-  </explanation>
-  <explanation>
     <key>en</key>
     <value>Внешняя обработка, позволяющая установить/удалить расширение &quot;Инструменты разработчика&quot;</value>
   </explanation>
@@ -32,18 +28,22 @@
     <key>uk</key>
     <value>Внешняя обработка, позволяющая установить/удалить расширение &quot;Инструменты разработчика&quot;</value>
   </explanation>
+  <explanation>
+    <key>ru</key>
+    <value>Внешняя обработка, позволяющая установить/удалить расширение &quot;Инструменты разработчика&quot;</value>
+  </explanation>
   <forms uuid="293bca98-610f-451e-aadc-fc2a1dd5be7f">
     <name>Форма</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
@@ -52,15 +52,15 @@
   <forms uuid="b7296755-196b-46c1-94a4-6c4c8247a0ca">
     <name>ФормаОбычная</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма обычная</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма обычная</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма обычная</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма обычная</value>
     </synonym>
     <formType>Ordinary</formType>

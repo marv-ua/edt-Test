@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Добавить родительский</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Додати батьківський</value>
+  </synonym>
 </mdclass:CommonPicture>

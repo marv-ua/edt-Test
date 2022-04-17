@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирРедакторОграниченияДоступа</name>
   <synonym>
-    <key>ru</key>
-    <value>Редактор ограничения доступа (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Редактор ограничения доступа (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Редактор ограничения доступа (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Редактор ограничения доступа (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирРедакторОграниченияДоступа.Form.Форма</defaultForm>
@@ -26,15 +26,15 @@
   <forms uuid="888c73c4-0df9-4043-b08b-9b97f126987f">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -44,15 +44,15 @@
   <forms uuid="664cc47c-6467-459d-b150-b7546e312b8d">
     <name>КэшРолей</name>
     <synonym>
-      <key>ru</key>
-      <value>Кэш ролей</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Кэш ролей</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Кэш ролей</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Кэш ролей</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -62,15 +62,15 @@
   <commands uuid="f19de56e-e12c-4c1b-9ec3-710e190d1813">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Редактор ограничения доступа (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Редактор ограничения доступа (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Редактор ограничения доступа (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Редактор ограничения доступа (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

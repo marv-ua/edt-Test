@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Пользовательский макет удалить</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Користувацький макет вилучити</value>
+  </synonym>
 </mdclass:CommonPicture>

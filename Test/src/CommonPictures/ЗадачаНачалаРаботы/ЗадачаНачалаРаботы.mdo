@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bfc4d4ad-a357-41f3-b8ae-6df71e29faac">
+  <name>ЗадачаНачалаРаботы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Задача начала работы</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Задача початку роботи</value>
+  </synonym>
+</mdclass:CommonPicture>

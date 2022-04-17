@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Стрелка влево</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Стрілка вліво</value>
+  </synonym>
 </mdclass:CommonPicture>

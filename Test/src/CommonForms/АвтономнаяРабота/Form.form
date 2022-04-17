@@ -48,7 +48,7 @@
           <autoMaxHeight>true</autoMaxHeight>
           <extInfo xsi:type="form:PictureDecorationExtInfo">
             <picture xsi:type="core:PictureRef">
-              <picture>CommonPicture.УдалитьИнформация</picture>
+              <picture>CommonPicture.Информация</picture>
             </picture>
           </extInfo>
         </items>

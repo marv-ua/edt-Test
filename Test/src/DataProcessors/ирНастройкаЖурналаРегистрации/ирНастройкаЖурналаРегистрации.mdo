@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирНастройкаЖурналаРегистрации</name>
   <synonym>
-    <key>ru</key>
-    <value>Настройка журнала регистрации (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Настройка журнала регистрации (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Настройка журнала регистрации (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Настройка журнала регистрации (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирНастройкаЖурналаРегистрации.Form.Форма</defaultForm>
   <forms uuid="dca2782a-e635-4cb8-ae5e-d74b39c24c83">
     <name>Форма</name>
-    <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -39,15 +39,15 @@
   <forms uuid="f20d499a-f648-4afe-a24d-96a8b9e7ccf2">
     <name>ФормаНастройкиДоступа</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма настройки доступа</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма настройки доступа</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма настройки доступа</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма настройки доступа</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -57,15 +57,15 @@
   <forms uuid="bd4c062e-5b41-401c-a1f0-d1d98bb3679a">
     <name>ФормаВыбораПолей</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма выбора полей</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма выбора полей</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма выбора полей</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма выбора полей</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -75,15 +75,15 @@
   <forms uuid="74065c2d-73bf-49c3-a0d4-b018b53051e3">
     <name>ФормаПроверкиМетаданных</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма проверки метаданных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма проверки метаданных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма проверки метаданных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма проверки метаданных</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -93,30 +93,30 @@
   <templates uuid="c7dce5ce-027f-4073-afc0-40b82935efa3">
     <name>СобытияЖР</name>
     <synonym>
-      <key>ru</key>
-      <value>События ЖР</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>События ЖР</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>События ЖР</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>События ЖР</value>
     </synonym>
   </templates>
   <commands uuid="e71c1ccc-44e3-4d76-b188-9aa4d8a63790">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Настройка журнала регистрации (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Настройка журнала регистрации (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Настройка журнала регистрации (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Настройка журнала регистрации (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

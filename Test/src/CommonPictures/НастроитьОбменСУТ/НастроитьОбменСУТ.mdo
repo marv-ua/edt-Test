@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5cc4f7da-a0c2-49df-a171-7ef5a2494746">
+  <name>НастроитьОбменСУТ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Настроить обмен с УТ</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Настроїти обмін з УТ</value>
+  </synonym>
+</mdclass:CommonPicture>

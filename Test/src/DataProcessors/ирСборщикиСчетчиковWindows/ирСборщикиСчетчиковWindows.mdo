@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирСборщикиСчетчиковWindows</name>
   <synonym>
-    <key>ru</key>
-    <value>Сборщики счетчиков Windows (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Сборщики счетчиков Windows (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Сборщики счетчиков Windows (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Сборщики счетчиков Windows (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирСборщикиСчетчиковWindows.Form.Форма</defaultForm>
@@ -25,15 +25,15 @@
     </producedTypes>
     <name>СборщикиСчетчиков</name>
     <synonym>
-      <key>ru</key>
-      <value>Сборщики счетчиков</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Сборщики счетчиков</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Сборщики счетчиков</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Сборщики счетчиков</value>
     </synonym>
     <standardAttributes>
@@ -47,15 +47,15 @@
     <attributes uuid="3d3a1647-9235-41fa-be1c-60670759ed62">
       <name>Выполняется</name>
       <synonym>
-        <key>ru</key>
-        <value>Выполняется</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Выполняется</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Выполняется</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Выполняется</value>
       </synonym>
       <type>
@@ -68,15 +68,15 @@
     <attributes uuid="6da19b51-d574-4c2e-96c4-09df053b0930">
       <name>ДатаИзмененияФайла</name>
       <synonym>
-        <key>ru</key>
-        <value>Дата изменения файла</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Дата изменения файла</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Дата изменения файла</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Дата изменения файла</value>
       </synonym>
       <type>
@@ -90,15 +90,15 @@
     <attributes uuid="96cd2e4a-528a-48f6-a684-71f71a47e144">
       <name>Добавление</name>
       <synonym>
-        <key>ru</key>
-        <value>Добавление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Добавление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Добавление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Добавление</value>
       </synonym>
       <type>
@@ -111,15 +111,15 @@
     <attributes uuid="d2741901-65b7-414c-83d8-02048c9489d3">
       <name>Замена</name>
       <synonym>
-        <key>ru</key>
-        <value>Замена</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Замена</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Замена</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Замена</value>
       </synonym>
       <type>
@@ -132,15 +132,15 @@
     <attributes uuid="1bad8f63-d8d6-4414-be63-ba7a02c7a8a1">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -158,15 +158,15 @@
     <attributes uuid="802fcd59-c14b-4a91-968b-19cba65ffcbd">
       <name>КорневойПуть</name>
       <synonym>
-        <key>ru</key>
-        <value>Корневой путь</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Корневой путь</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Корневой путь</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Корневой путь</value>
       </synonym>
       <type>
@@ -184,15 +184,15 @@
     <attributes uuid="b33d0b96-0fc3-4eed-a601-ec0c2eacee3d">
       <name>МаксимальныйРазмерСегмента</name>
       <synonym>
-        <key>ru</key>
-        <value>Максимальный размер сегмента, МБ</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Максимальный размер сегмента, МБ</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Максимальный размер сегмента, МБ</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Максимальный размер сегмента, МБ</value>
       </synonym>
       <type>
@@ -209,15 +209,15 @@
     <attributes uuid="e2c20aff-f904-4117-8bc7-bcfd3fbdd956">
       <name>ПериодичностьСекунд</name>
       <synonym>
-        <key>ru</key>
-        <value>Периодичность, секунд</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Периодичность, секунд</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Периодичность, секунд</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Периодичность, секунд</value>
       </synonym>
       <type>
@@ -234,15 +234,15 @@
     <attributes uuid="dc25abea-dc38-484c-b600-29db82a601b2">
       <name>ПользовательОС</name>
       <synonym>
-        <key>ru</key>
-        <value>Пользователь ОС</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пользователь ОС</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пользователь ОС</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пользователь ОС</value>
       </synonym>
       <type>
@@ -260,15 +260,15 @@
     <attributes uuid="7157f0da-ac67-47b9-b1bb-62e035ac05f4">
       <name>РазмерФайлаКБ</name>
       <synonym>
-        <key>ru</key>
-        <value>Размер файла КБ</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Размер файла КБ</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Размер файла КБ</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Размер файла КБ</value>
       </synonym>
       <type>
@@ -284,15 +284,15 @@
     <attributes uuid="78fc2453-f51a-486d-8154-f4c45e1351e5">
       <name>Расписания</name>
       <synonym>
-        <key>ru</key>
-        <value>Расписания</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Расписания</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Расписания</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Расписания</value>
       </synonym>
       <type>
@@ -305,15 +305,15 @@
     <attributes uuid="43c59ee9-6714-4d7c-9672-07c549c97328">
       <name>Сегмент</name>
       <synonym>
-        <key>ru</key>
-        <value>Сегмент</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Сегмент</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Сегмент</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Сегмент</value>
       </synonym>
       <type>
@@ -326,15 +326,15 @@
     <attributes uuid="bf164e39-bd78-489e-b1e8-50d2355294df">
       <name>Счетчики</name>
       <synonym>
-        <key>ru</key>
-        <value>Счетчики</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Счетчики</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Счетчики</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Счетчики</value>
       </synonym>
       <type>
@@ -350,15 +350,15 @@
     <attributes uuid="b5b47833-37c6-46ae-83ae-6c25926cb7e5">
       <name>ТекущийФайл</name>
       <synonym>
-        <key>ru</key>
-        <value>Текущий файл</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Текущий файл</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Текущий файл</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Текущий файл</value>
       </synonym>
       <type>
@@ -376,15 +376,15 @@
     <attributes uuid="124c5951-7905-4898-bbff-119003e1d50d">
       <name>Циклический</name>
       <synonym>
-        <key>ru</key>
-        <value>Циклический</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Циклический</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Циклический</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Циклический</value>
       </synonym>
       <type>
@@ -397,15 +397,15 @@
     <attributes uuid="4f82c762-4ffa-47cd-b90c-9861d42351db">
       <name>ЭтоГруппа</name>
       <synonym>
-        <key>ru</key>
-        <value>Это группа</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Это группа</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Это группа</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Это группа</value>
       </synonym>
       <type>
@@ -423,15 +423,15 @@
     </producedTypes>
     <name>СчетчикиНового</name>
     <synonym>
-      <key>ru</key>
-      <value>Счетчики нового</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Счетчики нового</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Счетчики нового</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Счетчики нового</value>
     </synonym>
     <standardAttributes>
@@ -445,15 +445,15 @@
     <attributes uuid="28747a90-1839-4f16-84a5-4a5f904feff9">
       <name>Категория</name>
       <synonym>
-        <key>ru</key>
-        <value>Категория</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Категория</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Категория</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Категория</value>
       </synonym>
       <type>
@@ -471,15 +471,15 @@
     <attributes uuid="a710a8b0-bc1e-460d-94f4-ded0bec57ba9">
       <name>Пометка</name>
       <synonym>
-        <key>ru</key>
-        <value>Пометка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пометка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пометка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пометка</value>
       </synonym>
       <type>
@@ -492,15 +492,15 @@
     <attributes uuid="7b8d0ba8-38e0-4527-9b9b-fce397b59b31">
       <name>Счетчик</name>
       <synonym>
-        <key>ru</key>
-        <value>Счетчик</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Счетчик</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Счетчик</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Счетчик</value>
       </synonym>
       <type>
@@ -517,15 +517,15 @@
   <forms uuid="0df9ff57-d366-4b0f-95d8-978a3e46b8a5">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -535,30 +535,30 @@
   <templates uuid="a0c0366e-eeec-4d9b-a17f-7c5ae31f41e7">
     <name>СтандартныеСчетчики</name>
     <synonym>
-      <key>ru</key>
-      <value>Стандартные счетчики</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Стандартные счетчики</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Стандартные счетчики</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Стандартные счетчики</value>
     </synonym>
   </templates>
   <templates uuid="ed62b927-b169-4e54-aede-9c1fd2de20cd">
     <name>ПатчРеестраФорматИмениПроцесса</name>
     <synonym>
-      <key>ru</key>
-      <value>Патч реестра формат имени процесса</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Патч реестра формат имени процесса</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Патч реестра формат имени процесса</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Патч реестра формат имени процесса</value>
     </synonym>
     <templateType>TextDocument</templateType>
@@ -566,15 +566,15 @@
   <templates uuid="5f33f869-d491-4e95-b635-adf828d2bbbb">
     <name>СозданиеГруппыСборщиков</name>
     <synonym>
-      <key>ru</key>
-      <value>Создание группы сборщиков</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Создание группы сборщиков</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Создание группы сборщиков</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Создание группы сборщиков</value>
     </synonym>
     <templateType>TextDocument</templateType>
@@ -582,15 +582,15 @@
   <templates uuid="da57626c-176d-4c8e-8301-5aad73deb44d">
     <name>СхемаКомпоновки</name>
     <synonym>
-      <key>ru</key>
-      <value>Схема компоновки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Схема компоновки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Схема компоновки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Схема компоновки</value>
     </synonym>
     <templateType>DataCompositionSchema</templateType>
@@ -598,15 +598,15 @@
   <commands uuid="4768e602-7121-4e4c-93a7-8dd1b1132795">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Сборщики счетчиков Windows (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Сборщики счетчиков Windows (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Сборщики счетчиков Windows (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Сборщики счетчиков Windows (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

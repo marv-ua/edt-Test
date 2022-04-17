@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Примечание журнала регистрации</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Примітка журналу реєстрації</value>
+  </synonym>
 </mdclass:CommonPicture>

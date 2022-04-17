@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирПоискБитыхСсылок</name>
   <synonym>
-    <key>ru</key>
-    <value>Поиск битых ссылок (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Поиск битых ссылок (ИР)</value>
   </synonym>
@@ -17,34 +13,38 @@
     <key>uk</key>
     <value>Поиск битых ссылок (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Поиск битых ссылок (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирПоискБитыхСсылок.Form.Форма</defaultForm>
   <attributes uuid="9129362c-831e-4080-b7c5-4a367d092da3">
     <name>ВыполнятьНаСервере</name>
-    <synonym>
-      <key>ru</key>
-      <value>Выполнять на сервере</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Выполнять на сервере</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Выполнять на сервере</value>
     </synonym>
     <type>
       <types>Boolean</types>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Выполнять обработку объектов на сервере (через фоновое задание). Отображение результатов до завершения поиска будет невозможно.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Выполнять обработку объектов на сервере (через фоновое задание). Отображение результатов до завершения поиска будет невозможно.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Выполнять обработку объектов на сервере (через фоновое задание). Отображение результатов до завершения поиска будет невозможно.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Выполнять обработку объектов на сервере (через фоновое задание). Отображение результатов до завершения поиска будет невозможно.</value>
     </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
@@ -53,15 +53,15 @@
   <attributes uuid="dfcfb6ca-1c8c-4f38-8524-42d467b686aa">
     <name>КоличествоОбъектовВПорции</name>
     <synonym>
-      <key>ru</key>
-      <value>Количество объектов в порции</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Количество объектов в порции</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Количество объектов в порции</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Количество объектов в порции</value>
     </synonym>
     <type>
@@ -72,15 +72,15 @@
       </numberQualifiers>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Количество объектов в порции для обработки на сервере в многопоточном режиме. Каждая порция обрабатывается в отдельном задании. Рекомендуется такое количество, чтобы оно обрабатывалось 1-5 секунд. При прерывании обработки - задания не прерываются.</value>
     </toolTip>
     <minValue xsi:type="core:StringValue">
@@ -93,15 +93,15 @@
   <attributes uuid="41cce813-61a5-4eec-91b4-f598c95a5710">
     <name>КоличествоПотоков</name>
     <synonym>
-      <key>ru</key>
-      <value>Количество потоков</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Количество потоков</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Количество потоков</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Количество потоков</value>
     </synonym>
     <type>
@@ -112,15 +112,15 @@
       </numberQualifiers>
     </type>
     <toolTip>
-      <key>ru</key>
-      <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Количество одновременных потоков для обработки на сервере. Позволяет ускорить обработку за счет увеличения нагрузки на сервер.</value>
     </toolTip>
     <minValue xsi:type="core:StringValue">
@@ -133,15 +133,15 @@
   <attributes uuid="8467cff5-6e87-4144-a320-6ed10cee2644">
     <name>ЛиВсеТипы</name>
     <synonym>
-      <key>ru</key>
-      <value>Ли все типы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Ли все типы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Ли все типы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Ли все типы</value>
     </synonym>
     <type>
@@ -153,15 +153,15 @@
   <attributes uuid="f9d1d0bd-8d59-4434-b7f8-952f04bede36">
     <name>ТипыСсылокДляПоиска</name>
     <synonym>
-      <key>ru</key>
-      <value>Типы ссылок для поиска</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Типы ссылок для поиска</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Типы ссылок для поиска</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Типы ссылок для поиска</value>
     </synonym>
     <type>
@@ -173,15 +173,15 @@
   <attributes uuid="d541cd2c-b2e2-4121-a297-ca8cd079c7d4">
     <name>ТолькоРегистраторы</name>
     <synonym>
-      <key>ru</key>
-      <value>Только регистраторы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Только регистраторы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Только регистраторы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Только регистраторы</value>
     </synonym>
     <type>
@@ -193,15 +193,15 @@
   <attributes uuid="b35f1427-f347-4922-aae7-ce97ed33b763">
     <name>УчитыватьВиртуальныеТаблицы</name>
     <synonym>
-      <key>ru</key>
-      <value>Учитывать виртуальные таблицы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Учитывать виртуальные таблицы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Учитывать виртуальные таблицы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Учитывать виртуальные таблицы</value>
     </synonym>
     <type>
@@ -213,15 +213,15 @@
   <attributes uuid="f746a4eb-e94b-4c70-9979-fc583e4ffbb0">
     <name>УчитыватьВсеКолонкиТаблицИзменений</name>
     <synonym>
-      <key>ru</key>
-      <value>Учитывать все колонки таблиц изменений</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Учитывать все колонки таблиц изменений</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Учитывать все колонки таблиц изменений</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Учитывать все колонки таблиц изменений</value>
     </synonym>
     <type>
@@ -237,15 +237,15 @@
     </producedTypes>
     <name>БитыеСсылки</name>
     <synonym>
-      <key>ru</key>
-      <value>Битые ссылки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Битые ссылки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Битые ссылки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Битые ссылки</value>
     </synonym>
     <standardAttributes>
@@ -259,15 +259,15 @@
     <attributes uuid="26dd811e-d46a-4c23-b299-223a8bed8558">
       <name>ИменаСсылающихсяТаблиц</name>
       <synonym>
-        <key>ru</key>
-        <value>Имена ссылающихся таблиц</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имена ссылающихся таблиц</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имена ссылающихся таблиц</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имена ссылающихся таблиц</value>
       </synonym>
       <type>
@@ -283,15 +283,15 @@
     <attributes uuid="bf595a43-fd36-4b12-92fd-ece787d2ff04">
       <name>ИмяТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <type>
@@ -309,15 +309,15 @@
     <attributes uuid="d10d1107-92bb-4c92-a2be-9050dc6f5e1b">
       <name>КоличествоСсылающихся</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество ссылающихся</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество ссылающихся</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество ссылающихся</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество ссылающихся</value>
       </synonym>
       <type>
@@ -333,15 +333,15 @@
     <attributes uuid="0a22eeda-0ad9-483d-a44c-d8b31234e609">
       <name>ПредставлениеТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление типа ссылки</value>
       </synonym>
       <type>
@@ -359,15 +359,15 @@
     <attributes uuid="5d750716-30e9-4d24-b108-a1243efe0a44">
       <name>ПредставленияСсылающихсяТаблиц</name>
       <synonym>
-        <key>ru</key>
-        <value>Представления ссылающихся таблиц</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представления ссылающихся таблиц</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представления ссылающихся таблиц</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представления ссылающихся таблиц</value>
       </synonym>
       <type>
@@ -383,15 +383,15 @@
     <attributes uuid="10238bc5-7572-41e3-ab68-dfbdfb1cb0ff">
       <name>Ссылка</name>
       <synonym>
-        <key>ru</key>
-        <value>Ссылка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ссылка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ссылка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ссылка</value>
       </synonym>
       <type>
@@ -409,15 +409,15 @@
     </producedTypes>
     <name>СвязанныеДанные</name>
     <synonym>
-      <key>ru</key>
-      <value>Связанные данные</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Связанные данные</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Связанные данные</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Связанные данные</value>
     </synonym>
     <standardAttributes>
@@ -431,15 +431,15 @@
     <attributes uuid="150822a7-a94d-4c4b-8914-ad14d9ee70d7">
       <name>ИмяКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя колонки</value>
       </synonym>
       <type>
@@ -457,15 +457,15 @@
     <attributes uuid="07daec18-8e01-4b62-af7a-78d63238cd0f">
       <name>ИмяТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя таблицы</value>
       </synonym>
       <type>
@@ -483,15 +483,15 @@
     <attributes uuid="02da6f75-a976-4350-bbde-0ef7297c74e7">
       <name>ИмяТипаСсылки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя типа ссылки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя типа ссылки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя типа ссылки</value>
       </synonym>
       <type>
@@ -507,15 +507,15 @@
     <attributes uuid="78fc4356-3a90-4230-b180-2dbac4bdfd63">
       <name>КоличествоСсылающихся</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество ссылающихся</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество ссылающихся</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество ссылающихся</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество ссылающихся</value>
       </synonym>
       <type>
@@ -535,15 +535,15 @@
     <attributes uuid="12a7a7a4-2b4d-41c9-95dd-d29744ec5b69">
       <name>КоличествоТипов</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество типов</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество типов</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество типов</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество типов</value>
       </synonym>
       <type>
@@ -559,15 +559,15 @@
     <attributes uuid="c80a1de6-cd2f-42fb-819d-647066c64276">
       <name>ПолноеИмяТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Полное имя таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Полное имя таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Полное имя таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Полное имя таблицы</value>
       </synonym>
       <type>
@@ -585,15 +585,15 @@
     <attributes uuid="69f2274c-111a-408b-be29-6d27faa1d232">
       <name>ПредставлениеКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление колонки</value>
       </synonym>
       <type>
@@ -611,15 +611,15 @@
     <attributes uuid="73d12ddb-1bf7-445f-b96d-63a4192adc0e">
       <name>ПредставлениеТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление таблицы</value>
       </synonym>
       <type>
@@ -637,15 +637,15 @@
     <attributes uuid="6f0637dd-2007-489e-bcc3-35b82ea03280">
       <name>Ссылка</name>
       <synonym>
-        <key>ru</key>
-        <value>Ссылка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ссылка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ссылка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ссылка</value>
       </synonym>
       <type>
@@ -658,15 +658,15 @@
     <attributes uuid="14b6e088-c733-4752-9b79-023e52ac160f">
       <name>ТипТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип таблицы</value>
       </synonym>
       <type>
@@ -685,15 +685,15 @@
   <forms uuid="80e65d2f-1402-47b0-ac15-3cbdb60e65e0">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -703,15 +703,15 @@
   <commands uuid="2f533766-b687-47b7-a377-455d8f8ea6f9">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Поиск битых ссылок (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Поиск битых ссылок (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Поиск битых ссылок (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Поиск битых ссылок (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

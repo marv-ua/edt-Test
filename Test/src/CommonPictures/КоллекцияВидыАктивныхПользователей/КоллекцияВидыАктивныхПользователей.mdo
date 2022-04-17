@@ -5,5 +5,9 @@
     <key>ru</key>
     <value>Виды активных пользователей</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Види активних користувачів</value>
+  </synonym>
   <comment>Коллекция видов активных пользователей</comment>
 </mdclass:CommonPicture>

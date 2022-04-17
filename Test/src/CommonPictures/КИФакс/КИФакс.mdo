@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1cc25c36-c57b-4d80-aa84-1bd820ad4879">
+  <name>КИФакс</name>
+  <synonym>
+    <key>ru</key>
+    <value>КИФакс</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>КІФакс</value>
+  </synonym>
+</mdclass:CommonPicture>

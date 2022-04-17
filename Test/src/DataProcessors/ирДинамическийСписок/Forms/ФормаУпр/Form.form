@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>ru</key>
-    <value>Динамический список (ИР)</value>
-  </title>
-  <title>
     <key>en</key>
     <value>Динамический список (ИР)</value>
   </title>
   <title>
     <key>uk</key>
+    <value>Динамический список (ИР)</value>
+  </title>
+  <title>
+    <key>ru</key>
     <value>Динамический список (ИР)</value>
   </title>
   <items xsi:type="form:FormGroup">
@@ -19,15 +19,15 @@
       <name>ПолноеИмяТаблицы</name>
       <id>14</id>
       <title>
-        <key>ru</key>
-        <value>Таблица</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Таблица</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Таблица</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Таблица</value>
       </title>
       <visible>true</visible>
@@ -175,15 +175,15 @@
         <segments>фОбъект.ВместоОсновной</segments>
       </dataPath>
       <toolTip>
-        <key>ru</key>
-        <value>Открывать эту форму вместо основной формы выбора. Эта настройка запоминается для каждой таблицы отдельно.</value>
-      </toolTip>
-      <toolTip>
         <key>en</key>
         <value>Открывать эту форму вместо основной формы выбора. Эта настройка запоминается для каждой таблицы отдельно.</value>
       </toolTip>
       <toolTip>
         <key>uk</key>
+        <value>Открывать эту форму вместо основной формы выбора. Эта настройка запоминается для каждой таблицы отдельно.</value>
+      </toolTip>
+      <toolTip>
+        <key>ru</key>
         <value>Открывать эту форму вместо основной формы выбора. Эта настройка запоминается для каждой таблицы отдельно.</value>
       </toolTip>
       <handlers>
@@ -226,15 +226,15 @@
       <name>ОбъектРежимИмяСиноним</name>
       <id>34</id>
       <title>
-        <key>ru</key>
-        <value>Имя/Синоним</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Имя/Синоним</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Имя/Синоним</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Имя/Синоним</value>
       </title>
       <visible>true</visible>
@@ -285,15 +285,15 @@
       <name>ПраваДоступаКСтрокам</name>
       <id>86</id>
       <title>
-        <key>ru</key>
-        <value>RLS</value>
-      </title>
-      <title>
         <key>en</key>
         <value>RLS</value>
       </title>
       <title>
         <key>uk</key>
+        <value>RLS</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>RLS</value>
       </title>
       <visible>true</visible>
@@ -305,15 +305,15 @@
         <segments>ЕстьОграниченияДоступа</segments>
       </dataPath>
       <toolTip>
-        <key>ru</key>
-        <value>Наличие ограничений прав доступа к строкам (RLS)</value>
-      </toolTip>
-      <toolTip>
         <key>en</key>
         <value>Наличие ограничений прав доступа к строкам (RLS)</value>
       </toolTip>
       <toolTip>
         <key>uk</key>
+        <value>Наличие ограничений прав доступа к строкам (RLS)</value>
+      </toolTip>
+      <toolTip>
+        <key>ru</key>
         <value>Наличие ограничений прав доступа к строкам (RLS)</value>
       </toolTip>
       <extendedTooltip>
@@ -361,15 +361,15 @@
       <name>ФиксированныйОтбор</name>
       <id>22</id>
       <title>
-        <key>ru</key>
-        <value>Фикс. отбор</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Фикс. отбор</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Фикс. отбор</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Фикс. отбор</value>
       </title>
       <visible>true</visible>
@@ -625,15 +625,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Настройки</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Настройки</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Настройки</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Настройки</value>
         </title>
         <extendedTooltip>
@@ -823,15 +823,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Значения</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Значения</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Значения</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Значения</value>
         </title>
         <extendedTooltip>
@@ -1240,15 +1240,15 @@
               <common>true</common>
             </userVisible>
             <title>
-              <key>ru</key>
-              <value>Левое значение</value>
-            </title>
-            <title>
               <key>en</key>
               <value>Левое значение</value>
             </title>
             <title>
               <key>uk</key>
+              <value>Левое значение</value>
+            </title>
+            <title>
+              <key>ru</key>
               <value>Левое значение</value>
             </title>
             <extendedTooltip>
@@ -1441,15 +1441,15 @@
               <common>true</common>
             </userVisible>
             <title>
-              <key>ru</key>
-              <value>Правое значение</value>
-            </title>
-            <title>
               <key>en</key>
               <value>Правое значение</value>
             </title>
             <title>
               <key>uk</key>
+              <value>Правое значение</value>
+            </title>
+            <title>
+              <key>ru</key>
               <value>Правое значение</value>
             </title>
             <extendedTooltip>
@@ -1531,15 +1531,15 @@
             <common>true</common>
           </userVisible>
           <title>
-            <key>ru</key>
-            <value>Основные элементы отбора</value>
-          </title>
-          <title>
             <key>en</key>
             <value>Основные элементы отбора</value>
           </title>
           <title>
             <key>uk</key>
+            <value>Основные элементы отбора</value>
+          </title>
+          <title>
+            <key>ru</key>
             <value>Основные элементы отбора</value>
           </title>
           <extendedTooltip>
@@ -1618,15 +1618,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Отбор</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Отбор</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Отбор</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Отбор</value>
         </title>
         <extendedTooltip>
@@ -1763,15 +1763,15 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>ru</key>
-          <value>Применение</value>
-        </title>
-        <title>
           <key>en</key>
           <value>Применение</value>
         </title>
         <title>
           <key>uk</key>
+          <value>Применение</value>
+        </title>
+        <title>
+          <key>ru</key>
           <value>Применение</value>
         </title>
         <extendedTooltip>
@@ -2769,10 +2769,6 @@
         <common>true</common>
       </userVisible>
       <title>
-        <key>ru</key>
-        <value>Последние отборы</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Последние отборы</value>
       </title>
@@ -2780,16 +2776,20 @@
         <key>uk</key>
         <value>Последние отборы</value>
       </title>
-      <toolTip>
+      <title>
         <key>ru</key>
-        <value>Список ранее выбранных элементов</value>
-      </toolTip>
+        <value>Последние отборы</value>
+      </title>
       <toolTip>
         <key>en</key>
         <value>Список ранее выбранных элементов</value>
       </toolTip>
       <toolTip>
         <key>uk</key>
+        <value>Список ранее выбранных элементов</value>
+      </toolTip>
+      <toolTip>
+        <key>ru</key>
         <value>Список ранее выбранных элементов</value>
       </toolTip>
       <extendedTooltip>
@@ -2884,10 +2884,6 @@
         <common>true</common>
       </userVisible>
       <title>
-        <key>ru</key>
-        <value>Последние выбранные</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Последние выбранные</value>
       </title>
@@ -2895,16 +2891,20 @@
         <key>uk</key>
         <value>Последние выбранные</value>
       </title>
-      <toolTip>
+      <title>
         <key>ru</key>
-        <value>Список ранее выбранных элементов</value>
-      </toolTip>
+        <value>Последние выбранные</value>
+      </title>
       <toolTip>
         <key>en</key>
         <value>Список ранее выбранных элементов</value>
       </toolTip>
       <toolTip>
         <key>uk</key>
+        <value>Список ранее выбранных элементов</value>
+      </toolTip>
+      <toolTip>
+        <key>ru</key>
         <value>Список ранее выбранных элементов</value>
       </toolTip>
       <extendedTooltip>
@@ -3606,15 +3606,15 @@
   <attributes>
     <name>фОбъект</name>
     <title>
-      <key>ru</key>
-      <value>Ф объект</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Ф объект</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Ф объект</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Ф объект</value>
     </title>
     <id>1</id>
@@ -3631,15 +3631,15 @@
   <attributes>
     <name>ДинамическийСписок</name>
     <title>
-      <key>ru</key>
-      <value>Динамический список</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Динамический список</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Динамический список</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Динамический список</value>
     </title>
     <id>2</id>
@@ -3663,15 +3663,15 @@
   <attributes>
     <name>РежимВыбора</name>
     <title>
-      <key>ru</key>
-      <value>Режим выбора</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Режим выбора</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Режим выбора</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Режим выбора</value>
     </title>
     <id>4</id>
@@ -3688,15 +3688,15 @@
   <attributes>
     <name>мКлючУникальности</name>
     <title>
-      <key>ru</key>
-      <value>М ключ уникальности</value>
-    </title>
-    <title>
       <key>en</key>
       <value>М ключ уникальности</value>
     </title>
     <title>
       <key>uk</key>
+      <value>М ключ уникальности</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>М ключ уникальности</value>
     </title>
     <id>5</id>
@@ -3711,15 +3711,15 @@
   <attributes>
     <name>ЕстьОграниченияДоступа</name>
     <title>
-      <key>ru</key>
-      <value>Есть ограничения доступа</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Есть ограничения доступа</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Есть ограничения доступа</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Есть ограничения доступа</value>
     </title>
     <id>6</id>
@@ -3736,15 +3736,15 @@
   <attributes>
     <name>СоединяемыеРегистры</name>
     <title>
-      <key>ru</key>
-      <value>Соединяемые регистры</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Соединяемые регистры</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Соединяемые регистры</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Соединяемые регистры</value>
     </title>
     <id>7</id>
@@ -3760,15 +3760,15 @@
     <columns>
       <name>Имя</name>
       <title>
-        <key>ru</key>
-        <value>Имя регистра</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Имя регистра</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Имя регистра</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Имя регистра</value>
       </title>
       <id>1</id>
@@ -3786,15 +3786,15 @@
     <columns>
       <name>Представление</name>
       <title>
-        <key>ru</key>
-        <value>Представление регистра</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Представление регистра</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Представление регистра</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Представление регистра</value>
       </title>
       <id>2</id>
@@ -3812,15 +3812,15 @@
     <columns>
       <name>Соединить</name>
       <title>
-        <key>ru</key>
-        <value>Соединить</value>
-      </title>
-      <title>
         <key>en</key>
         <value>Соединить</value>
       </title>
       <title>
         <key>uk</key>
+        <value>Соединить</value>
+      </title>
+      <title>
+        <key>ru</key>
         <value>Соединить</value>
       </title>
       <id>3</id>
@@ -3856,15 +3856,15 @@
   <attributes>
     <name>ПараметрТекущаяКолонка</name>
     <title>
-      <key>ru</key>
-      <value>Параметр текущая колонка</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Параметр текущая колонка</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Параметр текущая колонка</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Параметр текущая колонка</value>
     </title>
     <id>3</id>
@@ -3882,15 +3882,15 @@
   <attributes>
     <name>СтарыйКомпоновщик</name>
     <title>
-      <key>ru</key>
-      <value>Старый компоновщик</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Старый компоновщик</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Старый компоновщик</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Старый компоновщик</value>
     </title>
     <id>8</id>
@@ -3907,28 +3907,28 @@
   <formCommands>
     <name>НовоеОкно</name>
     <title>
-      <key>ru</key>
-      <value>Новое окно</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Новое окно</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Новое окно</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Новое окно</value>
     </title>
     <id>1</id>
     <toolTip>
-      <key>ru</key>
-      <value>Новое окно</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Новое окно</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Новое окно</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Новое окно</value>
     </toolTip>
     <use>
@@ -3947,28 +3947,28 @@
   <formCommands>
     <name>ОПодсистеме</name>
     <title>
-      <key>ru</key>
-      <value>О подсистеме</value>
-    </title>
-    <title>
       <key>en</key>
       <value>О подсистеме</value>
     </title>
     <title>
       <key>uk</key>
+      <value>О подсистеме</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>О подсистеме</value>
     </title>
     <id>2</id>
     <toolTip>
-      <key>ru</key>
-      <value>О подсистеме</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>О подсистеме</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>О подсистеме</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>О подсистеме</value>
     </toolTip>
     <use>
@@ -3987,28 +3987,28 @@
   <formCommands>
     <name>ИзменитьСтрокуЧерезРедакторОбъектаБД</name>
     <title>
-      <key>ru</key>
-      <value>Изменить</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Изменить</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Изменить</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Изменить</value>
     </title>
     <id>3</id>
     <toolTip>
-      <key>ru</key>
-      <value>Изменить через независимый редактор объекта БД строки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Изменить через независимый редактор объекта БД строки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Изменить через независимый редактор объекта БД строки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Изменить через независимый редактор объекта БД строки</value>
     </toolTip>
     <use>
@@ -4026,28 +4026,28 @@
   <formCommands>
     <name>ОсновнаяФорма</name>
     <title>
-      <key>ru</key>
-      <value>Основная форма</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Основная форма</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Основная форма</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Основная форма</value>
     </title>
     <id>4</id>
     <toolTip>
-      <key>ru</key>
-      <value>Открыть основную форму списка с передачей текущей строки, отбора и владельца. Закрыть текущую форму, если она в режиме выбора.</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Открыть основную форму списка с передачей текущей строки, отбора и владельца. Закрыть текущую форму, если она в режиме выбора.</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Открыть основную форму списка с передачей текущей строки, отбора и владельца. Закрыть текущую форму, если она в режиме выбора.</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Открыть основную форму списка с передачей текущей строки, отбора и владельца. Закрыть текущую форму, если она в режиме выбора.</value>
     </toolTip>
     <use>
@@ -4063,28 +4063,28 @@
   <formCommands>
     <name>СброситьНастройкиСписка</name>
     <title>
-      <key>ru</key>
-      <value>Сбросить</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Сбросить</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Сбросить</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Сбросить</value>
     </title>
     <id>5</id>
     <toolTip>
-      <key>ru</key>
-      <value>Сбросить настройки списка</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Сбросить настройки списка</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Сбросить настройки списка</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Сбросить настройки списка</value>
     </toolTip>
     <use>
@@ -4100,28 +4100,28 @@
   <formCommands>
     <name>СколькоСтрок</name>
     <title>
-      <key>ru</key>
-      <value>Сколько строк?</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Сколько строк?</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Сколько строк?</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Сколько строк?</value>
     </title>
     <id>6</id>
     <toolTip>
-      <key>ru</key>
-      <value>Сколько строк с учетом отбора?</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Сколько строк с учетом отбора?</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Сколько строк с учетом отбора?</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Сколько строк с учетом отбора?</value>
     </toolTip>
     <use>
@@ -4140,28 +4140,28 @@
   <formCommands>
     <name>РедакторОбъектаБДЯчейки</name>
     <title>
-      <key>ru</key>
-      <value>Ячейка</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Ячейка</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Ячейка</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Ячейка</value>
     </title>
     <id>7</id>
     <toolTip>
-      <key>ru</key>
-      <value>Редактор объекта БД ячейки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Редактор объекта БД ячейки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Редактор объекта БД ячейки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Редактор объекта БД ячейки</value>
     </toolTip>
     <use>
@@ -4179,28 +4179,28 @@
   <formCommands>
     <name>ВыделитьНужноеКоличество</name>
     <title>
-      <key>ru</key>
-      <value>Выделить N</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Выделить N</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Выделить N</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Выделить N</value>
     </title>
     <id>8</id>
     <toolTip>
-      <key>ru</key>
-      <value>Выделить нужное количество первых элементов</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Выделить нужное количество первых элементов</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Выделить нужное количество первых элементов</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Выделить нужное количество первых элементов</value>
     </toolTip>
     <use>
@@ -4216,28 +4216,28 @@
   <formCommands>
     <name>РазличныеЗначенияКолонки</name>
     <title>
-      <key>ru</key>
-      <value>Различные значения колонки</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Различные значения колонки</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Различные значения колонки</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Различные значения колонки</value>
     </title>
     <id>9</id>
     <toolTip>
-      <key>ru</key>
-      <value>Различные значения колонки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Различные значения колонки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Различные значения колонки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Различные значения колонки</value>
     </toolTip>
     <use>
@@ -4257,28 +4257,28 @@
   <formCommands>
     <name>НастройкаСписка</name>
     <title>
-      <key>ru</key>
-      <value>Настройка списка (ИР)</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Настройка списка (ИР)</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Настройка списка (ИР)</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Настройка списка (ИР)</value>
     </title>
     <id>10</id>
     <toolTip>
-      <key>ru</key>
-      <value>Настройка списка (ИР)</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Настройка списка (ИР)</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Настройка списка (ИР)</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Настройка списка (ИР)</value>
     </toolTip>
     <use>
@@ -4297,28 +4297,28 @@
   <formCommands>
     <name>ОбработатьОбъекты</name>
     <title>
-      <key>ru</key>
-      <value>Обработать объекты</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Обработать объекты</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Обработать объекты</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Обработать объекты</value>
     </title>
     <id>11</id>
     <toolTip>
-      <key>ru</key>
-      <value>Передать строки в инструмент &quot;Подбор и обработка объектов&quot;</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Передать строки в инструмент &quot;Подбор и обработка объектов&quot;</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Передать строки в инструмент &quot;Подбор и обработка объектов&quot;</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Передать строки в инструмент &quot;Подбор и обработка объектов&quot;</value>
     </toolTip>
     <use>
@@ -4337,28 +4337,28 @@
   <formCommands>
     <name>ОтборБезЗначенияВТекущейКолонке</name>
     <title>
-      <key>ru</key>
-      <value>Отбор без значения</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отбор без значения</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отбор без значения</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отбор без значения</value>
     </title>
     <id>12</id>
     <toolTip>
-      <key>ru</key>
-      <value>Отбор без значения в текущей колонке</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Отбор без значения в текущей колонке</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Отбор без значения в текущей колонке</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Отбор без значения в текущей колонке</value>
     </toolTip>
     <use>
@@ -4376,28 +4376,28 @@
   <formCommands>
     <name>ВывестиСтроки</name>
     <title>
-      <key>ru</key>
-      <value>Вывести строки</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Вывести строки</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Вывести строки</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Вывести строки</value>
     </title>
     <id>13</id>
     <toolTip>
-      <key>ru</key>
-      <value>Вывести в табличный документ или таблицу значений</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Вывести в табличный документ или таблицу значений</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Вывести в табличный документ или таблицу значений</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Вывести в табличный документ или таблицу значений</value>
     </toolTip>
     <use>
@@ -4416,28 +4416,28 @@
   <formCommands>
     <name>ОтключитьОтбор</name>
     <title>
-      <key>ru</key>
-      <value>Отключить отбор</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отключить отбор</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отключить отбор</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отключить отбор</value>
     </title>
     <id>14</id>
     <toolTip>
-      <key>ru</key>
-      <value>Отключить пользовательский отбор</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Отключить пользовательский отбор</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Отключить пользовательский отбор</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Отключить пользовательский отбор</value>
     </toolTip>
     <use>
@@ -4456,28 +4456,28 @@
   <formCommands>
     <name>ОтображениеИдентификаторов</name>
     <title>
-      <key>ru</key>
-      <value>Отображение идентификаторов</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отображение идентификаторов</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отображение идентификаторов</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отображение идентификаторов</value>
     </title>
     <id>15</id>
     <toolTip>
-      <key>ru</key>
-      <value>Отображать пустые значения и идентификаторы вместо представлений значений</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Отображать пустые значения и идентификаторы вместо представлений значений</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Отображать пустые значения и идентификаторы вместо представлений значений</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Отображать пустые значения и идентификаторы вместо представлений значений</value>
     </toolTip>
     <use>
@@ -4496,15 +4496,15 @@
   <formCommands>
     <name>ПоследниеВыбранные1</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные1</value>
     </title>
     <id>16</id>
@@ -4521,28 +4521,28 @@
   <formCommands>
     <name>СтруктураФормы</name>
     <title>
-      <key>ru</key>
-      <value>Структура формы</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Структура формы</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Структура формы</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Структура формы</value>
     </title>
     <id>17</id>
     <toolTip>
-      <key>ru</key>
-      <value>Показать структуру формы</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Показать структуру формы</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Показать структуру формы</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Показать структуру формы</value>
     </toolTip>
     <use>
@@ -4561,28 +4561,28 @@
   <formCommands>
     <name>НастройкаКолонок</name>
     <title>
-      <key>ru</key>
-      <value>Колонки...</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Колонки...</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Колонки...</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Колонки...</value>
     </title>
     <id>18</id>
     <toolTip>
-      <key>ru</key>
-      <value>Настройка колонок</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Настройка колонок</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Настройка колонок</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Настройка колонок</value>
     </toolTip>
     <use>
@@ -4598,28 +4598,28 @@
   <formCommands>
     <name>ДобавитьСтрокуЧерезРедакторОбъектаБД</name>
     <title>
-      <key>ru</key>
-      <value>Добавить</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Добавить</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Добавить</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Добавить</value>
     </title>
     <id>19</id>
     <toolTip>
-      <key>ru</key>
-      <value>Добавить через независимый редактор объекта БД строки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Добавить через независимый редактор объекта БД строки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Добавить через независимый редактор объекта БД строки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Добавить через независимый редактор объекта БД строки</value>
     </toolTip>
     <use>
@@ -4639,28 +4639,28 @@
   <formCommands>
     <name>СвязанныйРедакторОбъектаБДСтроки</name>
     <title>
-      <key>ru</key>
-      <value>Связанный</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Связанный</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Связанный</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Связанный</value>
     </title>
     <id>20</id>
     <toolTip>
-      <key>ru</key>
-      <value>Связанный редактор объекта БД строки</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Связанный редактор объекта БД строки</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Связанный редактор объекта БД строки</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Связанный редактор объекта БД строки</value>
     </toolTip>
     <use>
@@ -4680,28 +4680,28 @@
   <formCommands>
     <name>НайтиВыбратьПоID</name>
     <title>
-      <key>ru</key>
-      <value>Найти/Выбрать по ID</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Найти/Выбрать по ID</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Найти/Выбрать по ID</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Найти/Выбрать по ID</value>
     </title>
     <id>21</id>
     <toolTip>
-      <key>ru</key>
-      <value>Найти или выбрать ссылку по внутреннему идентификатору</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Найти или выбрать ссылку по внутреннему идентификатору</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Найти или выбрать ссылку по внутреннему идентификатору</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Найти или выбрать ссылку по внутреннему идентификатору</value>
     </toolTip>
     <use>
@@ -4720,28 +4720,28 @@
   <formCommands>
     <name>ОткрытьОбъектМетаданных</name>
     <title>
-      <key>ru</key>
-      <value>Открыть объект метаданных</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Открыть объект метаданных</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Открыть объект метаданных</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Открыть объект метаданных</value>
     </title>
     <id>22</id>
     <toolTip>
-      <key>ru</key>
-      <value>Открыть объект метаданных</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Открыть объект метаданных</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Открыть объект метаданных</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Открыть объект метаданных</value>
     </toolTip>
     <use>
@@ -4760,28 +4760,28 @@
   <formCommands>
     <name>СправкаМетаданного</name>
     <title>
-      <key>ru</key>
-      <value>Справка метаданного</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Справка метаданного</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Справка метаданного</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Справка метаданного</value>
     </title>
     <id>23</id>
     <toolTip>
-      <key>ru</key>
-      <value>Справка метаданного</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Справка метаданного</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Справка метаданного</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Справка метаданного</value>
     </toolTip>
     <use>
@@ -4800,28 +4800,28 @@
   <formCommands>
     <name>ОтборПоЗначенияВТекущейКолонке</name>
     <title>
-      <key>ru</key>
-      <value>Отбор по значению</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Отбор по значению</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Отбор по значению</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Отбор по значению</value>
     </title>
     <id>24</id>
     <toolTip>
-      <key>ru</key>
-      <value>Отбор по значению в текущей колонке</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Отбор по значению в текущей колонке</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Отбор по значению в текущей колонке</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Отбор по значению в текущей колонке</value>
     </toolTip>
     <use>
@@ -4840,15 +4840,15 @@
   <formCommands>
     <name>ПоследниеВыбранные2</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>25</id>
@@ -4865,15 +4865,15 @@
   <formCommands>
     <name>ПоследниеВыбранные3</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>26</id>
@@ -4890,15 +4890,15 @@
   <formCommands>
     <name>ПоследниеВыбранные4</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>27</id>
@@ -4915,15 +4915,15 @@
   <formCommands>
     <name>ПоследниеВыбранные5</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>28</id>
@@ -4940,15 +4940,15 @@
   <formCommands>
     <name>ПоследниеВыбранные6</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>29</id>
@@ -4965,15 +4965,15 @@
   <formCommands>
     <name>ПоследниеВыбранные7</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>30</id>
@@ -4990,15 +4990,15 @@
   <formCommands>
     <name>ПоследниеВыбранные8</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>31</id>
@@ -5015,15 +5015,15 @@
   <formCommands>
     <name>ПоследниеВыбранные9</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>32</id>
@@ -5040,15 +5040,15 @@
   <formCommands>
     <name>ПоследниеВыбранные0</name>
     <title>
-      <key>ru</key>
-      <value>Последние выбранные нажатие1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние выбранные нажатие1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние выбранные нажатие1</value>
     </title>
     <id>33</id>
@@ -5065,28 +5065,28 @@
   <formCommands>
     <name>СтруктураКоманднойПанели</name>
     <title>
-      <key>ru</key>
-      <value>Структура командной панели</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Структура командной панели</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Структура командной панели</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Структура командной панели</value>
     </title>
     <id>34</id>
     <toolTip>
-      <key>ru</key>
-      <value>Показать структуру командной панели</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Показать структуру командной панели</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Показать структуру командной панели</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Показать структуру командной панели</value>
     </toolTip>
     <use>
@@ -5105,28 +5105,28 @@
   <formCommands>
     <name>Сравнить2Строки</name>
     <title>
-      <key>ru</key>
-      <value>2</value>
-    </title>
-    <title>
       <key>en</key>
       <value>2</value>
     </title>
     <title>
       <key>uk</key>
+      <value>2</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>2</value>
     </title>
     <id>35</id>
     <toolTip>
-      <key>ru</key>
-      <value>Сравнить 2 строки между собой</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Сравнить 2 строки между собой</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Сравнить 2 строки между собой</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Сравнить 2 строки между собой</value>
     </toolTip>
     <use>
@@ -5145,15 +5145,15 @@
   <formCommands>
     <name>ПоследниеОтборы0</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>36</id>
@@ -5170,15 +5170,15 @@
   <formCommands>
     <name>ПоследниеОтборы1</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>37</id>
@@ -5195,15 +5195,15 @@
   <formCommands>
     <name>ПоследниеОтборы2</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>38</id>
@@ -5220,28 +5220,28 @@
   <formCommands>
     <name>ПоследниеОтборы3</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>39</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5257,28 +5257,28 @@
   <formCommands>
     <name>ПоследниеОтборы4</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>40</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5294,28 +5294,28 @@
   <formCommands>
     <name>ПоследниеОтборы5</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>41</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5331,28 +5331,28 @@
   <formCommands>
     <name>ПоследниеОтборы6</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>42</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5368,28 +5368,28 @@
   <formCommands>
     <name>ПоследниеОтборы7</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>43</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5405,28 +5405,28 @@
   <formCommands>
     <name>ПоследниеОтборы8</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>44</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>
@@ -5442,28 +5442,28 @@
   <formCommands>
     <name>ПоследниеОтборы9</name>
     <title>
-      <key>ru</key>
-      <value>Последние отборы нажатие 1</value>
-    </title>
-    <title>
       <key>en</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <title>
       <key>uk</key>
+      <value>Последние отборы нажатие 1</value>
+    </title>
+    <title>
+      <key>ru</key>
       <value>Последние отборы нажатие 1</value>
     </title>
     <id>45</id>
     <toolTip>
-      <key>ru</key>
-      <value>Последние отборы3</value>
-    </toolTip>
-    <toolTip>
       <key>en</key>
       <value>Последние отборы3</value>
     </toolTip>
     <toolTip>
       <key>uk</key>
+      <value>Последние отборы3</value>
+    </toolTip>
+    <toolTip>
+      <key>ru</key>
       <value>Последние отборы3</value>
     </toolTip>
     <use>

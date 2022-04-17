@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Коллекция объекты метаданных</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Колекція об'єкти метаданих</value>
+  </synonym>
 </mdclass:CommonPicture>

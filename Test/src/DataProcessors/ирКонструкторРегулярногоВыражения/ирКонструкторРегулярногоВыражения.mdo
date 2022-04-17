@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирКонструкторРегулярногоВыражения</name>
   <synonym>
-    <key>ru</key>
-    <value>Конструктор регулярного выражения (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Конструктор регулярного выражения (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Конструктор регулярного выражения (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Конструктор регулярного выражения (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирКонструкторРегулярногоВыражения.Form.Форма</defaultForm>
@@ -26,15 +26,15 @@
   <attributes uuid="b99bebda-7352-4ac3-a5ee-9e4d3137eb45">
     <name>ДвижокВычислителя</name>
     <synonym>
-      <key>ru</key>
-      <value>Движок вычислителя</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Движок вычислителя</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Движок вычислителя</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Движок вычислителя</value>
     </synonym>
     <type>
@@ -53,15 +53,15 @@
     </producedTypes>
     <name>Параметры</name>
     <synonym>
-      <key>ru</key>
-      <value>Параметры</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Параметры</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Параметры</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Параметры</value>
     </synonym>
     <standardAttributes>
@@ -75,15 +75,15 @@
     <attributes uuid="02a602e9-0707-4f26-9e35-93b5ae1f7736">
       <name>Значение</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение</value>
       </synonym>
       <type>
@@ -99,15 +99,15 @@
     <attributes uuid="5652782d-f62d-4cba-809f-ef3e9b913229">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -125,15 +125,15 @@
     <attributes uuid="5fdec49e-431f-4edf-81db-543d90e3ffe8">
       <name>Корректно</name>
       <synonym>
-        <key>ru</key>
-        <value>Корректно</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Корректно</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Корректно</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Корректно</value>
       </synonym>
       <type>
@@ -146,15 +146,15 @@
     <attributes uuid="a34fc4f8-f158-41c2-905b-6882ea6cd108">
       <name>НИмя</name>
       <synonym>
-        <key>ru</key>
-        <value>Н имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Н имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Н имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Н имя</value>
       </synonym>
       <type>
@@ -170,15 +170,15 @@
     <attributes uuid="936c570d-39a5-418b-bcc0-8c11ea1d1da0">
       <name>Список</name>
       <synonym>
-        <key>ru</key>
-        <value>Список</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Список</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Список</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Список</value>
       </synonym>
       <type>
@@ -191,15 +191,15 @@
     <attributes uuid="8feb0a63-2af7-45e5-a3f2-a335d0370869">
       <name>ЭтоВариант</name>
       <synonym>
-        <key>ru</key>
-        <value>Это вариант</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Это вариант</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Это вариант</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Это вариант</value>
       </synonym>
       <type>
@@ -212,15 +212,15 @@
     <attributes uuid="80d57770-f13b-4478-8629-8c5bddfc9f8a">
       <name>Комментарий</name>
       <synonym>
-        <key>ru</key>
-        <value>Комментарий</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Комментарий</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Комментарий</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Комментарий</value>
       </synonym>
       <type>
@@ -241,15 +241,15 @@
     </producedTypes>
     <name>ДоступныеЭлементы</name>
     <synonym>
-      <key>ru</key>
-      <value>Доступные элементы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Доступные элементы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Доступные элементы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Доступные элементы</value>
     </synonym>
     <standardAttributes>
@@ -263,15 +263,15 @@
     <attributes uuid="2f749843-3f2a-4ba6-bbaa-05de8885f6ba">
       <name>Текст</name>
       <synonym>
-        <key>ru</key>
-        <value>Текст</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Текст</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Текст</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Текст</value>
       </synonym>
       <type>
@@ -287,15 +287,15 @@
     <attributes uuid="b2a1f9fd-356c-40ed-b74f-328eaf94f30c">
       <name>Описание</name>
       <synonym>
-        <key>ru</key>
-        <value>Описание</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Описание</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Описание</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Описание</value>
       </synonym>
       <type>
@@ -311,15 +311,15 @@
     <attributes uuid="114a8aaa-4998-471d-8e88-53105ce98eff">
       <name>Категория</name>
       <synonym>
-        <key>ru</key>
-        <value>Категория</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Категория</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Категория</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Категория</value>
       </synonym>
       <type>
@@ -337,15 +337,15 @@
     <attributes uuid="89abf411-5373-48ae-ba49-6f2877cf496c">
       <name>Заголовок</name>
       <synonym>
-        <key>ru</key>
-        <value>Заголовок</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Заголовок</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Заголовок</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Заголовок</value>
       </synonym>
       <type>
@@ -363,15 +363,15 @@
     <attributes uuid="80af6f54-5429-4972-9f6d-5b3e3e8b4130">
       <name>ТекстВставки</name>
       <synonym>
-        <key>ru</key>
-        <value>Текст вставки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Текст вставки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Текст вставки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Текст вставки</value>
       </synonym>
       <type>
@@ -389,15 +389,15 @@
     <attributes uuid="66a58dcd-4597-497a-b420-e90eadd3114d">
       <name>ПоддержкаVBScript</name>
       <synonym>
-        <key>ru</key>
-        <value>Поддержка VBScript</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Поддержка VBScript</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Поддержка VBScript</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Поддержка VBScript</value>
       </synonym>
       <type>
@@ -411,15 +411,15 @@
   <forms uuid="08473eac-29dc-4288-bb5c-0f6be9ac7ec5">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -429,15 +429,15 @@
   <forms uuid="2f0ca857-232f-484e-9361-29c4987ec152">
     <name>Настройки</name>
     <synonym>
-      <key>ru</key>
-      <value>Настройки</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Настройки</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Настройки</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Настройки</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -447,30 +447,30 @@
   <templates uuid="e6dd0e35-79e2-432c-ab8a-ef967ba541d8">
     <name>ДоступныеЭлементы</name>
     <synonym>
-      <key>ru</key>
-      <value>Доступные элементы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Доступные элементы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Доступные элементы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Доступные элементы</value>
     </synonym>
   </templates>
   <templates uuid="81ee41d2-8bf3-4f7e-a88b-879a465997fd">
     <name>СправкаRegexp</name>
     <synonym>
-      <key>ru</key>
-      <value>Справка regexp</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Справка regexp</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Справка regexp</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Справка regexp</value>
     </synonym>
     <comment>regexp.chm</comment>
@@ -479,15 +479,15 @@
   <commands uuid="15e0e489-8513-4795-88f6-27608a27326a">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Конструктор регулярного выражения (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Конструктор регулярного выражения (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Конструктор регулярного выражения (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Конструктор регулярного выражения (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

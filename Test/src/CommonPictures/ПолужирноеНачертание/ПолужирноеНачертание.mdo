@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Полужирное начертание</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Напівжирне накреслення</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Объединить ячейки</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Об'єднати комірки</value>
+  </synonym>
 </mdclass:CommonPicture>

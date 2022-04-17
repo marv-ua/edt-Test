@@ -2,15 +2,15 @@
 <mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5176d4a6-c7cb-42c9-820a-a039377969b6">
   <name>КонтекстнаяПодсказка</name>
   <synonym>
-    <key>ru</key>
-    <value>Контекстная подсказка</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Контекстная подсказка</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Контекстная подсказка</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Контекстная подсказка</value>
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>

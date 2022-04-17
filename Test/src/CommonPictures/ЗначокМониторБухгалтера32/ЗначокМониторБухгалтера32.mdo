@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="eb026fa7-6b3c-4c4e-b626-89e6bfdf2c1a">
+  <name>ЗначокМониторБухгалтера32</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок монитор бухгалтера32</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок монітор бухгалтера32</value>
+  </synonym>
+  <transparentPixel>
+    <x>27</x>
+    <y>2</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

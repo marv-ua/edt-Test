@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирРедакторПользователей</name>
   <synonym>
-    <key>ru</key>
-    <value>Редактор пользователей (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Редактор пользователей (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Редактор пользователей (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Редактор пользователей (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирРедакторПользователей.Form.Форма</defaultForm>
@@ -25,15 +25,15 @@
     </producedTypes>
     <name>Пользователи</name>
     <synonym>
-      <key>ru</key>
-      <value>Пользователи</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Пользователи</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Пользователи</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Пользователи</value>
     </synonym>
     <standardAttributes>
@@ -47,15 +47,15 @@
     <attributes uuid="25da270f-cc6c-4b65-aa34-4be76396e149">
       <name>АдресЭлектроннойПочты</name>
       <synonym>
-        <key>ru</key>
-        <value>Адрес электронной почты</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Адрес электронной почты</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Адрес электронной почты</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Адрес электронной почты</value>
       </synonym>
       <type>
@@ -71,15 +71,15 @@
     <attributes uuid="3dfbb3a6-37c6-4055-a29b-55022654794d">
       <name>АутентификацияOpenID</name>
       <synonym>
-        <key>ru</key>
-        <value>Аутентификация OpenID</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Аутентификация OpenID</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Аутентификация OpenID</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Аутентификация OpenID</value>
       </synonym>
       <type>
@@ -92,15 +92,15 @@
     <attributes uuid="b81315c6-8acc-4f8b-96cb-4037d1d87cce">
       <name>АутентификацияОС</name>
       <synonym>
-        <key>ru</key>
-        <value>Аутентификация Windows</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Аутентификация Windows</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Аутентификация Windows</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Аутентификация Windows</value>
       </synonym>
       <type>
@@ -113,15 +113,15 @@
     <attributes uuid="1f3113a9-2c4b-4791-89a8-c2fff74d600e">
       <name>АутентификацияСтандартная</name>
       <synonym>
-        <key>ru</key>
-        <value>Аутентификация 1С:Предприятия</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Аутентификация 1С:Предприятия</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Аутентификация 1С:Предприятия</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Аутентификация 1С:Предприятия</value>
       </synonym>
       <type>
@@ -134,15 +134,15 @@
     <attributes uuid="2b3ccf12-e620-497f-ac88-9999d81476e6">
       <name>ВариантИнтерфейсаКлиентскогоПриложения</name>
       <synonym>
-        <key>ru</key>
-        <value>Вариант интерфейса клиентского приложения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Вариант интерфейса клиентского приложения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Вариант интерфейса клиентского приложения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Вариант интерфейса клиентского приложения</value>
       </synonym>
       <type>
@@ -160,15 +160,15 @@
     <attributes uuid="5881a9ad-d011-44de-a54f-4a23718c2c7c">
       <name>ВариантМасштабаФормКлиентскогоПриложения</name>
       <synonym>
-        <key>ru</key>
-        <value>Вариант масштаба форм клиентского приложения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Вариант масштаба форм клиентского приложения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Вариант масштаба форм клиентского приложения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Вариант масштаба форм клиентского приложения</value>
       </synonym>
       <type>
@@ -190,11 +190,11 @@
         <value>Запрещено восстанавливать пароль</value>
       </synonym>
       <synonym>
-        <key>ru</key>
+        <key>uk</key>
         <value>Запрещено восстанавливать пароль</value>
       </synonym>
       <synonym>
-        <key>uk</key>
+        <key>ru</key>
         <value>Запрещено восстанавливать пароль</value>
       </synonym>
       <type>
@@ -207,15 +207,15 @@
     <attributes uuid="ac23cbd6-486e-43dc-a396-bda4567a213c">
       <name>ЗащитаОтОпасныхДействий</name>
       <synonym>
-        <key>ru</key>
-        <value>Защита от опасных действий</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Защита от опасных действий</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Защита от опасных действий</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Защита от опасных действий</value>
       </synonym>
       <type>
@@ -228,15 +228,15 @@
     <attributes uuid="4415cae5-6e3f-4754-9955-a60242735428">
       <name>Имя</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя</value>
       </synonym>
       <type>
@@ -252,15 +252,15 @@
     <attributes uuid="c0e1fcd6-3c35-49d3-b753-11b5937b5f24">
       <name>ОсновнойИнтерфейс</name>
       <synonym>
-        <key>ru</key>
-        <value>Основной интерфейс</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Основной интерфейс</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Основной интерфейс</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Основной интерфейс</value>
       </synonym>
       <type>
@@ -276,15 +276,15 @@
     <attributes uuid="ee4907bf-4071-441e-a980-a864064fddbc">
       <name>ОсновнойИнтерфейсПредставление</name>
       <synonym>
-        <key>ru</key>
-        <value>Основной интерфейс</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Основной интерфейс</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Основной интерфейс</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Основной интерфейс</value>
       </synonym>
       <type>
@@ -300,15 +300,15 @@
     <attributes uuid="864db8e6-f22e-4ba7-9530-891bff110728">
       <name>ОтборПоРолям</name>
       <synonym>
-        <key>ru</key>
-        <value>Отбор по ролям</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Отбор по ролям</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Отбор по ролям</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Отбор по ролям</value>
       </synonym>
       <type>
@@ -321,15 +321,15 @@
     <attributes uuid="01b1cab4-5833-4cd6-985f-2437fde6e5de">
       <name>ОтображатьПанелиНавигацииИДействий</name>
       <synonym>
-        <key>ru</key>
-        <value>Отображать панели навигации и действий</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Отображать панели навигации и действий</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Отображать панели навигации и действий</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Отображать панели навигации и действий</value>
       </synonym>
       <type>
@@ -342,15 +342,15 @@
     <attributes uuid="ee4745a0-8136-4fa4-8701-9304e5a7e06b">
       <name>ОтображатьПанельРазделов</name>
       <synonym>
-        <key>ru</key>
-        <value>Отображать панель разделов</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Отображать панель разделов</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Отображать панель разделов</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Отображать панель разделов</value>
       </synonym>
       <type>
@@ -363,15 +363,15 @@
     <attributes uuid="41ed419d-fd68-46c5-8517-b98169e32292">
       <name>ПарольУстановлен</name>
       <synonym>
-        <key>ru</key>
-        <value>Пароль установлен</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пароль установлен</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пароль установлен</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пароль установлен</value>
       </synonym>
       <type>
@@ -384,15 +384,15 @@
     <attributes uuid="b203e852-5df7-4709-a711-2116a082667c">
       <name>ПоказыватьВСпискеВыбора</name>
       <synonym>
-        <key>ru</key>
-        <value>Показывать в списке выбора</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Показывать в списке выбора</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Показывать в списке выбора</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Показывать в списке выбора</value>
       </synonym>
       <type>
@@ -405,15 +405,15 @@
     <attributes uuid="25b201df-8a4d-4028-a587-15420b104788">
       <name>ПолноеИмя</name>
       <synonym>
-        <key>ru</key>
-        <value>Полное имя</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Полное имя</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Полное имя</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Полное имя</value>
       </synonym>
       <type>
@@ -429,15 +429,15 @@
     <attributes uuid="4fa800e7-a9f9-48e5-8ddc-2ac12a02cf47">
       <name>ПользовательОС</name>
       <synonym>
-        <key>ru</key>
-        <value>Пользователь Windows</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пользователь Windows</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пользователь Windows</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пользователь Windows</value>
       </synonym>
       <type>
@@ -453,15 +453,15 @@
     <attributes uuid="ddde6b0f-ebf3-41ae-8d7f-0c903bf833ec">
       <name>РазделениеДанныхXML</name>
       <synonym>
-        <key>ru</key>
-        <value>Разделение данных XML</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Разделение данных XML</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Разделение данных XML</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Разделение данных XML</value>
       </synonym>
       <type>
@@ -475,15 +475,15 @@
     <attributes uuid="43fe78d5-2a20-45e4-bb10-7c3639fcda2d">
       <name>РазделениеДанныхПредставление</name>
       <synonym>
-        <key>ru</key>
-        <value>Разделение данных представление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Разделение данных представление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Разделение данных представление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Разделение данных представление</value>
       </synonym>
       <type>
@@ -499,15 +499,15 @@
     <attributes uuid="8adcc5b9-90e0-4998-be84-4ee3462dadc6">
       <name>РежимЗапуска</name>
       <synonym>
-        <key>ru</key>
-        <value>Режим запуска</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Режим запуска</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Режим запуска</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Режим запуска</value>
       </synonym>
       <type>
@@ -525,15 +525,15 @@
     <attributes uuid="3ad4b244-bcbf-40cb-9fb7-44694d771b6e">
       <name>РежимОткрытияФормПриложения</name>
       <synonym>
-        <key>ru</key>
-        <value>Режим открытия форм приложения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Режим открытия форм приложения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Режим открытия форм приложения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Режим открытия форм приложения</value>
       </synonym>
       <type>
@@ -551,15 +551,15 @@
     <attributes uuid="afadf45e-d013-4c1c-9944-20a85ba791c9">
       <name>РолиИмена</name>
       <synonym>
-        <key>ru</key>
-        <value>Роли имена</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Роли имена</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Роли имена</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Роли имена</value>
       </synonym>
       <type>
@@ -573,15 +573,15 @@
     <attributes uuid="3de59d73-3e19-42fd-98c0-79d4ab0299fa">
       <name>РолиПредставление</name>
       <synonym>
-        <key>ru</key>
-        <value>Роли</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Роли</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Роли</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Роли</value>
       </synonym>
       <type>
@@ -595,15 +595,15 @@
     <attributes uuid="e7e69221-1b22-41ff-99a7-c73dd80bf331">
       <name>СкоростьКлиентскогоСоединения</name>
       <synonym>
-        <key>ru</key>
-        <value>Скорость клиентского соединения</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Скорость клиентского соединения</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Скорость клиентского соединения</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Скорость клиентского соединения</value>
       </synonym>
       <type>
@@ -621,15 +621,15 @@
     <attributes uuid="e03cd2dd-df82-451b-977f-06412ee77e00">
       <name>СохраняемоеЗначениеПароля</name>
       <synonym>
-        <key>ru</key>
-        <value>Сохраняемое значение пароля</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Сохраняемое значение пароля</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Сохраняемое значение пароля</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Сохраняемое значение пароля</value>
       </synonym>
       <type>
@@ -647,15 +647,15 @@
     <attributes uuid="baa06385-6be7-4101-a902-bcee08b39d22">
       <name>Ссылка</name>
       <synonym>
-        <key>ru</key>
-        <value>Ссылка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ссылка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ссылка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ссылка</value>
       </synonym>
       <type>
@@ -668,15 +668,15 @@
     <attributes uuid="c3a4abde-343e-4202-8a4d-3d7c8829e3bb">
       <name>УникальныйИдентификатор</name>
       <synonym>
-        <key>ru</key>
-        <value>Уникальный идентификатор</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Уникальный идентификатор</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Уникальный идентификатор</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Уникальный идентификатор</value>
       </synonym>
       <type>
@@ -692,15 +692,15 @@
     <attributes uuid="de3be7a6-11b4-4732-9149-719536a71b48">
       <name>Язык</name>
       <synonym>
-        <key>ru</key>
-        <value>Основной язык</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Основной язык</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Основной язык</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Основной язык</value>
       </synonym>
       <type>
@@ -716,15 +716,15 @@
     <attributes uuid="ade4ce4b-3a39-4132-b4bc-af0e0b92eda3">
       <name>ЯзыкПредставление</name>
       <synonym>
-        <key>ru</key>
-        <value>Основной язык</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Основной язык</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Основной язык</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Основной язык</value>
       </synonym>
       <type>
@@ -745,15 +745,15 @@
     </producedTypes>
     <name>РолиПользователя</name>
     <synonym>
-      <key>ru</key>
-      <value>Роли пользователя</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Роли пользователя</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Роли пользователя</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Роли пользователя</value>
     </synonym>
     <standardAttributes>
@@ -767,15 +767,15 @@
     <attributes uuid="d019828d-c298-434f-87bf-6b3d031d10e7">
       <name>Пометка</name>
       <synonym>
-        <key>ru</key>
-        <value>Пометка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пометка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пометка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пометка</value>
       </synonym>
       <type>
@@ -788,15 +788,15 @@
     <attributes uuid="6f0ea0a6-9ca0-4efa-a272-9efbabc8aa29">
       <name>Роль</name>
       <synonym>
-        <key>ru</key>
-        <value>Роль</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Роль</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Роль</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Роль</value>
       </synonym>
       <type>
@@ -814,15 +814,15 @@
     <attributes uuid="33c61c86-7b8f-4991-89c0-b404d9b44f66">
       <name>Представление</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление</value>
       </synonym>
       <type>
@@ -845,15 +845,15 @@
     </producedTypes>
     <name>РазделениеДанных</name>
     <synonym>
-      <key>ru</key>
-      <value>Разделение данных</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Разделение данных</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Разделение данных</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Разделение данных</value>
     </synonym>
     <standardAttributes>
@@ -867,15 +867,15 @@
     <attributes uuid="1936bb66-6812-4750-9eb3-ae4c3075b2c0">
       <name>Включена</name>
       <synonym>
-        <key>ru</key>
-        <value>Включена</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Включена</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Включена</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Включена</value>
       </synonym>
       <type>
@@ -888,15 +888,15 @@
     <attributes uuid="5dcd2061-9410-4f6a-a2dc-1787cc63bd51">
       <name>Разделитель</name>
       <synonym>
-        <key>ru</key>
-        <value>Разделитель</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Разделитель</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Разделитель</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Разделитель</value>
       </synonym>
       <type>
@@ -914,15 +914,15 @@
     <attributes uuid="a902584c-ab90-4b7b-a249-efa34bf7a0b6">
       <name>Представление</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление</value>
       </synonym>
       <type>
@@ -940,15 +940,15 @@
     <attributes uuid="e87c6362-6992-4eb0-9c16-4957008071f6">
       <name>ЗначениеСтрока</name>
       <synonym>
-        <key>ru</key>
-        <value>Значение строка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Значение строка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Значение строка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Значение строка</value>
       </synonym>
       <type>
@@ -967,15 +967,15 @@
   <forms uuid="2ba5f05b-21c3-4529-b607-e13351a410e7">
     <name>ЗапускПодПользователем</name>
     <synonym>
-      <key>ru</key>
-      <value>Запуск под пользователем</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Запуск под пользователем</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Запуск под пользователем</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Запуск под пользователем</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -985,15 +985,15 @@
   <forms uuid="17f1fa8c-95ce-499c-a391-95eb21b5b968">
     <name>ИзменениеВыбранныхПользователей</name>
     <synonym>
-      <key>ru</key>
-      <value>Изменение выбранных пользователей</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Изменение выбранных пользователей</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Изменение выбранных пользователей</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Изменение выбранных пользователей</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -1003,15 +1003,15 @@
   <forms uuid="9a9f13e7-da0f-4cbb-a857-df708592a63b">
     <name>ПользовательИнфобазы</name>
     <synonym>
-      <key>ru</key>
-      <value>Пользователь инфобазы</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Пользователь инфобазы</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Пользователь инфобазы</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Пользователь инфобазы</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -1026,15 +1026,15 @@
   <forms uuid="4a95a78a-75bf-4ecf-97ee-a119c266cf4a">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -1044,15 +1044,15 @@
   <commands uuid="f8a04176-c57e-47e2-ad2a-89089c069d6d">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Редактор пользователей (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Редактор пользователей (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Редактор пользователей (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Редактор пользователей (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

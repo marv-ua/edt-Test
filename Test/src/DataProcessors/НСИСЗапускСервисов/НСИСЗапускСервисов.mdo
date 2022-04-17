@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="46f3a22f-cd1c-418a-b5e9-6e88ed0e3b3f">
+  <producedTypes>
+    <objectType typeId="0e770e5f-e3c6-461a-b9d2-ebb4e75f18f1" valueTypeId="0866b398-1dc2-4f68-8748-ca8d92bcedea"/>
+    <managerType typeId="3d5f9dfd-490d-4d2c-b212-8cff840d5391" valueTypeId="444ac126-eccd-401a-b40d-f1bdef3fa9a7"/>
+  </producedTypes>
+  <name>НСИСЗапускСервисов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Запуск загрузки RDI</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Запуск завантаження RDI</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.НСИСЗапускСервисов.Form.Форма</defaultForm>
+  <forms uuid="401d0aac-1f39-4a37-8b2e-892e6de49849">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <commands uuid="4204c4aa-8a75-4e7d-b28b-326c99032a7f">
+    <name>НСИСЗапускСервисов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Запуск загрузки RDI</value>
+    </synonym>
+    <synonym>
+      <key>uk</key>
+      <value>Запуск завантаження RDI</value>
+    </synonym>
+    <group>ActionsPanelTools</group>
+    <commandParameterType/>
+    <representation>Auto</representation>
+  </commands>
+</mdclass:DataProcessor>

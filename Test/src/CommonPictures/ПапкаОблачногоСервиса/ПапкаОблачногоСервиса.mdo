@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Папка облачного сервиса</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Папка хмарного сервісу</value>
+  </synonym>
 </mdclass:CommonPicture>

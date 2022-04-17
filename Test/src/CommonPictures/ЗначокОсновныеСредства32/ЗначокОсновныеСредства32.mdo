@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7729be14-3779-4f0a-93bb-da7e41c89566">
+  <name>ЗначокОсновныеСредства32</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок основные средства32</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок основні засоби32</value>
+  </synonym>
+  <transparentPixel>
+    <x>6</x>
+    <y>2</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

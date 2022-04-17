@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Оформление</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Оформлення</value>
+  </synonym>
 </mdclass:CommonPicture>

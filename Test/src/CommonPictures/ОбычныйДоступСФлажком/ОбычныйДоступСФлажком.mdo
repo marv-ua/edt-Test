@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Обычный доступ с флажком</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Звичайний доступ з прапорцем</value>
+  </synonym>
 </mdclass:CommonPicture>

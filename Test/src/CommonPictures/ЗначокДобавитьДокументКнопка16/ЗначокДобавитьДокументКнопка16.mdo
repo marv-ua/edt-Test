@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a2e3a36f-1e7e-4519-b097-0a880f339bd6">
+  <name>ЗначокДобавитьДокументКнопка16</name>
+  <synonym>
+    <key>ru</key>
+    <value>Пиктограмма Добавить документ</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Піктограма Додати документ</value>
+  </synonym>
+</mdclass:CommonPicture>

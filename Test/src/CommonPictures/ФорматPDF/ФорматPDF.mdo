@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Формат PDF</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Формат PDF</value>
+  </synonym>
 </mdclass:CommonPicture>

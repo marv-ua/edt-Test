@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Быстрый доступ удалить</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Швидкий доступ вилучити</value>
+  </synonym>
 </mdclass:CommonPicture>

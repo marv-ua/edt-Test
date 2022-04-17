@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ffac5b51-7d53-4116-8691-c12ef7125d9e">
+  <name>ЗначокЭлементНоменклатуры16</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок элемент номенклатуры16</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок елемент номенклатури 16</value>
+  </synonym>
+</mdclass:CommonPicture>

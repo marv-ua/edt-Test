@@ -14,12 +14,12 @@
     <value>Mutual settlements</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Взаиморасчеты</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Взаєморозрахунки</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Взаиморасчеты</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -31,12 +31,12 @@
       <value>Sum</value>
     </synonym>
     <synonym>
-      <key>ru</key>
-      <value>Сумма</value>
-    </synonym>
-    <synonym>
       <key>uk</key>
       <value>Сума</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Сумма</value>
     </synonym>
     <type>
       <types>DefinedType.Сумма</types>
@@ -52,11 +52,11 @@
       <value>Сounterparty</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Контрагент</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Контрагент</value>
     </synonym>
     <type>
@@ -65,6 +65,7 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
   </dimensions>
   <dimensions uuid="9a581441-8c89-4ef9-86e5-fd6075da5ba8">
     <name>Валюта</name>
@@ -73,11 +74,11 @@
       <value>Currency</value>
     </synonym>
     <synonym>
-      <key>ru</key>
+      <key>uk</key>
       <value>Валюта</value>
     </synonym>
     <synonym>
-      <key>uk</key>
+      <key>ru</key>
       <value>Валюта</value>
     </synonym>
     <type>
@@ -86,5 +87,6 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
     <fullTextSearch>Use</fullTextSearch>
+    <useInTotals>true</useInTotals>
   </dimensions>
 </mdclass:AccumulationRegister>

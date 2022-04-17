@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Дополнительные реквизиты сведения</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Додаткові реквізити відомості</value>
+  </synonym>
 </mdclass:CommonPicture>

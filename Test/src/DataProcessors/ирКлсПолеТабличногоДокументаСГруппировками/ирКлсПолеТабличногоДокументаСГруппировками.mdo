@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирКлсПолеТабличногоДокументаСГруппировками</name>
   <synonym>
-    <key>ru</key>
-    <value>Класс &quot;Поле табличного документа с группировками&quot;</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Класс &quot;Поле табличного документа с группировками&quot;</value>
   </synonym>
@@ -17,20 +13,24 @@
     <key>uk</key>
     <value>Класс &quot;Поле табличного документа с группировками&quot;</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Класс &quot;Поле табличного документа с группировками&quot;</value>
+  </synonym>
   <defaultForm>DataProcessor.ирКлсПолеТабличногоДокументаСГруппировками.Form.ФормаМакет</defaultForm>
   <includeHelpInContents>true</includeHelpInContents>
   <attributes uuid="aa165e16-d356-4046-b3b9-ed767b0a0a0f">
     <name>Имя</name>
-    <synonym>
-      <key>ru</key>
-      <value>Имя</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Имя</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Имя</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Имя</value>
     </synonym>
     <type>
@@ -45,15 +45,15 @@
   <attributes uuid="5fb0b2d0-013a-4aee-adf2-4bbac6441390">
     <name>КоманднаяПанель</name>
     <synonym>
-      <key>ru</key>
-      <value>Командная панель</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Командная панель</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Командная панель</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Командная панель</value>
     </synonym>
     <type/>
@@ -63,15 +63,15 @@
   <attributes uuid="94f6ca1b-63e9-4fed-83ff-c0e9cf965e75">
     <name>ПолеТабличногоДокумента</name>
     <synonym>
-      <key>ru</key>
-      <value>Поле табличного документа</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Поле табличного документа</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Поле табличного документа</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Поле табличного документа</value>
     </synonym>
     <type/>
@@ -81,15 +81,15 @@
   <forms uuid="abdd5a5a-43cc-4389-8759-051bb5b919b4">
     <name>ФормаМакет</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма макет</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма макет</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма макет</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма макет</value>
     </synonym>
     <formType>Ordinary</formType>

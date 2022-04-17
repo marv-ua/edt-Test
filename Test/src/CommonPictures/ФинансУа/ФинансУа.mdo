@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9e967a77-bb32-4421-b4b2-7414aef611e9">
+  <name>ФинансУа</name>
+  <synonym>
+    <key>ru</key>
+    <value>finance.ua</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>finance.ua</value>
+  </synonym>
+  <transparentPixel>
+    <x>160</x>
+    <y>8</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

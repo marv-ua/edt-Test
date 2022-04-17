@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Рабочий каталог по умолчанию</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Робочий каталог по умовчанню</value>
+  </synonym>
 </mdclass:CommonPicture>

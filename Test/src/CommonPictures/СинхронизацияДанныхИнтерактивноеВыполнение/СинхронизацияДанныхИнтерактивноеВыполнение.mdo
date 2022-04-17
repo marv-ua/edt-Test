@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Синхронизация данных интерактивное выполнение</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Синхронізація даних інтерактивне виконання</value>
+  </synonym>
 </mdclass:CommonPicture>

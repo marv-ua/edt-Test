@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Рассылка отчетов</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Розсилка звітів</value>
+  </synonym>
 </mdclass:CommonPicture>

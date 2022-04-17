@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Разрешить редактирование реквизитов объекта</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Дозволити редагування реквізитів об'єкта</value>
+  </synonym>
 </mdclass:CommonPicture>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d865d78c-6636-41e2-b771-fbba8a600500">
+  <name>ЗначокСтруктураПодчиненности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Значок структура подчиненности</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Значок структура підпорядкованості</value>
+  </synonym>
+  <transparentPixel>
+    <x>1</x>
+    <y>5</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

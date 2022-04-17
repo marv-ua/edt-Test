@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="91eb9770-5619-447f-8df8-27f74e46553f">
+  <name>РаскрывающийсяСписок</name>
+  <synonym>
+    <key>ru</key>
+    <value>Раскрывающийся список</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Список, що розкривається</value>
+  </synonym>
+  <transparentPixel>
+    <x>3</x>
+  </transparentPixel>
+</mdclass:CommonPicture>

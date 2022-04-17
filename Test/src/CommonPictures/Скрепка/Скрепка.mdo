@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Скрепка</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Скріпка</value>
+  </synonym>
 </mdclass:CommonPicture>

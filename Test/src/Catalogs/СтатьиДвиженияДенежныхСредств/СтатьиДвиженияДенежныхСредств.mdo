@@ -13,12 +13,12 @@
     <value>Cash flow items</value>
   </synonym>
   <synonym>
-    <key>ru</key>
-    <value>Статьи движения денежных средств</value>
-  </synonym>
-  <synonym>
     <key>uk</key>
     <value>Статті руху грошових коштів</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Статьи движения денежных средств</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <inputByString>Catalog.СтатьиДвиженияДенежныхСредств.StandardAttribute.Code</inputByString>

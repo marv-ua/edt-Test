@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Ошибка</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Помилка</value>
+  </synonym>
 </mdclass:CommonPicture>

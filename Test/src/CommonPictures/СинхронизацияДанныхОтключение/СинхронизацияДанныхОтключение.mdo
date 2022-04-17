@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Синхронизация данных отключение</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Синхронізація даних відключення</value>
+  </synonym>
 </mdclass:CommonPicture>

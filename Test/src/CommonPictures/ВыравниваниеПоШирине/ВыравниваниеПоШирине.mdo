@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Выравнивание по ширине</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Вирівнювання по ширині</value>
+  </synonym>
 </mdclass:CommonPicture>

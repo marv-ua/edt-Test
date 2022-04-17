@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5c70798e-7c9e-4d92-913d-3391d1741f5f">
+  <name>НСИС</name>
+  <synonym>
+    <key>en</key>
+    <value>RDI</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Довідники та НСІ</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Справочники и НСИ</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.Справочники</picture>
+  </picture>
+  <content>DataProcessor.НСИСНовости</content>
+  <content>DataProcessor.НСИСНастройка</content>
+  <content>DataProcessor.НСИСКалендарьБухгалтера</content>
+  <content>DataProcessor.НСИСЗапускСервисов</content>
+  <content>DataProcessor.НСИСЗагрузкаКурсовВалют</content>
+  <content>DataProcessor.НСИСАвтозапускЗагрузки</content>
+  <content>CommonModule.НСИСВызовСервера</content>
+  <content>CommonModule.НСИСКлиент</content>
+  <content>CommonModule.НСИСПереопределяемый</content>
+  <content>CommonModule.НСИССервер</content>
+  <content>Catalog.НСИСДополнительныеФайлы</content>
+  <content>InformationRegister.НСИСФайлы</content>
+  <content>InformationRegister.НСИСНастройки</content>
+  <content>ScheduledJob.НСИСОбновлениеДанных</content>
+</mdclass:Subsystem>

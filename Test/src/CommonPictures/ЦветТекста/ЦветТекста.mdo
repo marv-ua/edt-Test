@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Цвет текста</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Колір тексту</value>
+  </synonym>
 </mdclass:CommonPicture>

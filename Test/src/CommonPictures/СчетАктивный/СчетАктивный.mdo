@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonPicture xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="009cd6f3-c32f-42ff-9499-dba8e5c11f3b">
+  <name>СчетАктивный</name>
+  <synonym>
+    <key>ru</key>
+    <value>Счет активный</value>
+  </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Рахунок активний</value>
+  </synonym>
+  <transparentPixel>
+    <x>13</x>
+    <y>1</y>
+  </transparentPixel>
+</mdclass:CommonPicture>

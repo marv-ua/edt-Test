@@ -9,15 +9,15 @@
   </producedTypes>
   <name>ирОбъектыДляОтладки</name>
   <synonym>
-    <key>ru</key>
-    <value>Объекты для отладки (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Объекты для отладки (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Объекты для отладки (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Объекты для отладки (ИР)</value>
   </synonym>
   <inputByString>Catalog.ирОбъектыДляОтладки.StandardAttribute.Description</inputByString>
@@ -114,15 +114,15 @@
   <attributes uuid="85f1d49b-65e1-456a-bfae-bbe6d3cf14af">
     <name>XML</name>
     <synonym>
-      <key>ru</key>
-      <value>XML</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>XML</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>XML</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>XML</value>
     </synonym>
     <type>
@@ -140,15 +140,15 @@
   <attributes uuid="ef3c7e63-7dc3-4e7a-a871-daaa0e3dd570">
     <name>ДатаИзменения</name>
     <synonym>
-      <key>ru</key>
-      <value>Дата изменения</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Дата изменения</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Дата изменения</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Дата изменения</value>
     </synonym>
     <type>
@@ -165,15 +165,15 @@
   <attributes uuid="9f461635-e06c-4b93-8ded-ffcebdb55a8b">
     <name>ЧислоСимволов</name>
     <synonym>
-      <key>ru</key>
-      <value>Число символов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Число символов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Число символов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Число символов</value>
     </synonym>
     <type>
@@ -191,15 +191,15 @@
   <forms uuid="2be6eae3-1743-49aa-afb0-66a78bcb06b5">
     <name>ФормаСписка</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма списка</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма списка</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма списка</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма списка</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -209,15 +209,15 @@
   <forms uuid="ea4af7e5-9108-491f-b295-ffa7865d5c23">
     <name>ФормаСпискаУП</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма списка УП</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма списка УП</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма списка УП</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма списка УП</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
@@ -226,15 +226,15 @@
   <commands uuid="0845090e-4984-411a-b33b-29754d5de468">
     <name>Отладить</name>
     <synonym>
-      <key>ru</key>
-      <value>Отладить</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Отладить</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Отладить</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Отладить</value>
     </synonym>
     <group>FormCommandBarImportant</group>
@@ -249,15 +249,15 @@
   <commands uuid="308b5d90-8b09-4fcd-b7ba-8b31bed1b4d9">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Объекты для отладки (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Объекты для отладки (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Объекты для отладки (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Объекты для отладки (ИР)</value>
     </synonym>
     <group>CommandGroup.ирРазработка</group>

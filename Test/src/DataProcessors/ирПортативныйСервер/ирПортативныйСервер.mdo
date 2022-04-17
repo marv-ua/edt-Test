@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирПортативныйСервер</name>
   <synonym>
-    <key>ru</key>
-    <value>Портативный сервер (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Портативный сервер (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Портативный сервер (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Портативный сервер (ИР)</value>
   </synonym>
 </mdclass:DataProcessor>

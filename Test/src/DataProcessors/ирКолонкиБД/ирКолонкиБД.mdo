@@ -6,10 +6,6 @@
   </producedTypes>
   <name>ирКолонкиБД</name>
   <synonym>
-    <key>ru</key>
-    <value>Колонки БД (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Колонки БД (ИР)</value>
   </synonym>
@@ -17,19 +13,23 @@
     <key>uk</key>
     <value>Колонки БД (ИР)</value>
   </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Колонки БД (ИР)</value>
+  </synonym>
   <defaultForm>DataProcessor.ирКолонкиБД.Form.Форма</defaultForm>
   <attributes uuid="aa4036ce-86d3-4c4f-90cd-cf228efb72b7">
     <name>УчитыватьВсеКолонкиТаблицИзменений</name>
-    <synonym>
-      <key>ru</key>
-      <value>Учитывать все колонки таблиц изменений</value>
-    </synonym>
     <synonym>
       <key>en</key>
       <value>Учитывать все колонки таблиц изменений</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Учитывать все колонки таблиц изменений</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Учитывать все колонки таблиц изменений</value>
     </synonym>
     <type>
@@ -45,15 +45,15 @@
     </producedTypes>
     <name>КолонкиБД</name>
     <synonym>
-      <key>ru</key>
-      <value>Колонки БД</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Колонки БД</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Колонки БД</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Колонки БД</value>
     </synonym>
     <standardAttributes>
@@ -67,15 +67,15 @@
     <attributes uuid="54f9d003-5295-4821-8cee-a0437475f710">
       <name>ЕстьДоступ</name>
       <synonym>
-        <key>ru</key>
-        <value>Есть доступ</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Есть доступ</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Есть доступ</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Есть доступ</value>
       </synonym>
       <type>
@@ -88,15 +88,15 @@
     <attributes uuid="d7415a4e-93e3-4594-91fc-0fd21f211614">
       <name>ЕстьНайденные</name>
       <synonym>
-        <key>ru</key>
-        <value>Есть найденные</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Есть найденные</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Есть найденные</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Есть найденные</value>
       </synonym>
       <type>
@@ -109,15 +109,15 @@
     <attributes uuid="193cc660-fd3b-4c81-93a2-d8addd1cae12">
       <name>ИмяКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя колонки</value>
       </synonym>
       <type>
@@ -135,15 +135,15 @@
     <attributes uuid="ef5eb1ce-8c80-4750-a9d3-cc635fd01fa8">
       <name>ИмяТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Имя таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Имя таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Имя таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Имя таблицы</value>
       </synonym>
       <type>
@@ -161,15 +161,15 @@
     <attributes uuid="2c8eff93-d5f1-4d80-8ff0-a40d4e9bcfb8">
       <name>Ключевая</name>
       <synonym>
-        <key>ru</key>
-        <value>Ключевая</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Ключевая</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Ключевая</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Ключевая</value>
       </synonym>
       <type>
@@ -182,15 +182,15 @@
     <attributes uuid="e0b85531-7f49-4a7d-a633-5be262142698">
       <name>КоличествоСсылочныхТипов</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество ссылочных типов</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество ссылочных типов</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество ссылочных типов</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество ссылочных типов</value>
       </synonym>
       <type>
@@ -206,15 +206,15 @@
     <attributes uuid="4d363f33-acd2-4b88-ab6b-ec680f641a6f">
       <name>КоличествоСтрокВТаблице</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество строк в таблице</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество строк в таблице</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество строк в таблице</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество строк в таблице</value>
       </synonym>
       <type>
@@ -234,15 +234,15 @@
     <attributes uuid="8574fd40-90ad-4801-8d9c-1d03999cf275">
       <name>КоличествоСтрокНайдено</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество строк найдено</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество строк найдено</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество строк найдено</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество строк найдено</value>
       </synonym>
       <type>
@@ -262,15 +262,15 @@
     <attributes uuid="83fcec47-4361-42a4-a8bd-903256a7d731">
       <name>КоличествоТипов</name>
       <synonym>
-        <key>ru</key>
-        <value>Количество типов</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Количество типов</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Количество типов</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Количество типов</value>
       </synonym>
       <type>
@@ -286,15 +286,15 @@
     <attributes uuid="f4647877-1177-4a3f-9e97-a22c66a39987">
       <name>ПодсказкаКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Подсказка колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Подсказка колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Подсказка колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Подсказка колонки</value>
       </synonym>
       <type>
@@ -312,15 +312,15 @@
     <attributes uuid="7524ba05-75fb-44c2-a4a2-6c47437d6b2d">
       <name>ПолноеИмяКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Полное имя колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Полное имя колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Полное имя колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Полное имя колонки</value>
       </synonym>
       <type>
@@ -338,15 +338,15 @@
     <attributes uuid="f2e850d5-948f-4354-ac05-e370d3267aa8">
       <name>ПолноеИмяТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Полное имя таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Полное имя таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Полное имя таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Полное имя таблицы</value>
       </synonym>
       <type>
@@ -364,15 +364,15 @@
     <attributes uuid="4edb261b-e005-437f-9b72-bc502f2371de">
       <name>Пометка</name>
       <synonym>
-        <key>ru</key>
-        <value>Пометка</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Пометка</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Пометка</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Пометка</value>
       </synonym>
       <type>
@@ -385,15 +385,15 @@
     <attributes uuid="ef7823d7-710b-4d29-bade-d4a13a0030de">
       <name>ПредставлениеКолонки</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление колонки</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление колонки</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление колонки</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление колонки</value>
       </synonym>
       <type>
@@ -411,15 +411,15 @@
     <attributes uuid="95ebe1b4-83af-41d6-9868-d4a587548143">
       <name>ПредставлениеТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Представление таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Представление таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Представление таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Представление таблицы</value>
       </synonym>
       <type>
@@ -437,15 +437,15 @@
     <attributes uuid="db56988c-2713-4cfc-b7d0-efa4cf7b50f5">
       <name>РольМетаданных</name>
       <synonym>
-        <key>ru</key>
-        <value>Роль метаданных</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Роль метаданных</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Роль метаданных</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Роль метаданных</value>
       </synonym>
       <type>
@@ -463,15 +463,15 @@
     <attributes uuid="b8881216-84d5-4ad4-a693-55f6f7e172a7">
       <name>ТипБулевоЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип булево есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип булево есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип булево есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип булево есть</value>
       </synonym>
       <type>
@@ -484,15 +484,15 @@
     <attributes uuid="174c3c19-d23b-43a8-bdb8-d307129f2d6b">
       <name>ТипДатаЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип дата есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип дата есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип дата есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип дата есть</value>
       </synonym>
       <type>
@@ -505,15 +505,15 @@
     <attributes uuid="aff5be34-91fd-4084-b65c-20ad096e1a08">
       <name>ТипДатаЧастьВремя</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип дата часть время</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип дата часть время</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип дата часть время</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип дата часть время</value>
       </synonym>
       <type>
@@ -526,15 +526,15 @@
     <attributes uuid="d9c616d2-5938-4e02-96fc-c8b2c8c5c2bd">
       <name>ТипДатаЧастьДата</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип дата часть дата</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип дата часть дата</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип дата часть дата</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип дата часть дата</value>
       </synonym>
       <type>
@@ -547,15 +547,15 @@
     <attributes uuid="c2c742b1-7cb2-428f-9759-261b775239a8">
       <name>ТипНеопределеноЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип неопределено есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип неопределено есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип неопределено есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип неопределено есть</value>
       </synonym>
       <type>
@@ -568,15 +568,15 @@
     <attributes uuid="7876b213-5bb7-422d-886d-3bec85b7d2b9">
       <name>ТипСсылкаВнешняяЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип ссылка внешняя есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип ссылка внешняя есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип ссылка внешняя есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип ссылка внешняя есть</value>
       </synonym>
       <type>
@@ -589,15 +589,15 @@
     <attributes uuid="88a0fdab-bbf1-41f6-8b30-ecc8e694bc15">
       <name>ТипСсылкаЛокальнаяЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип ссылка локальная есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип ссылка локальная есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип ссылка локальная есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип ссылка локальная есть</value>
       </synonym>
       <type>
@@ -610,15 +610,15 @@
     <attributes uuid="dd2533c5-34cf-4e74-ac47-1a95bb88ed43">
       <name>ТипСтрокаДлина</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип строка длина</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип строка длина</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип строка длина</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип строка длина</value>
       </synonym>
       <type>
@@ -634,15 +634,15 @@
     <attributes uuid="a9a2a930-4c03-45d2-9738-9ed383e01d96">
       <name>ТипСтрокаЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип строка есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип строка есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип строка есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип строка есть</value>
       </synonym>
       <type>
@@ -655,15 +655,15 @@
     <attributes uuid="1078e9c8-790c-45c1-adfb-9f4699ce438d">
       <name>ТипСтрокаФиксированнаяДлина</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип строка фиксированная длина</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип строка фиксированная длина</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип строка фиксированная длина</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип строка фиксированная длина</value>
       </synonym>
       <type>
@@ -676,15 +676,15 @@
     <attributes uuid="6edbe414-4665-43ab-9d9c-311267d622c7">
       <name>ТипТаблицы</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип таблицы</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип таблицы</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип таблицы</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип таблицы</value>
       </synonym>
       <type>
@@ -702,15 +702,15 @@
     <attributes uuid="df915391-4194-4e6b-97ab-3338cd0ee6c6">
       <name>ТипУникальныйИдентификаторЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип уникальный идентификатор есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип уникальный идентификатор есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип уникальный идентификатор есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип уникальный идентификатор есть</value>
       </synonym>
       <type>
@@ -723,15 +723,15 @@
     <attributes uuid="3958da76-3fc3-4571-8edf-95f5102af216">
       <name>ТипХранилищеЗначенияЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип хранилище значения есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип хранилище значения есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип хранилище значения есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип хранилище значения есть</value>
       </synonym>
       <type>
@@ -744,15 +744,15 @@
     <attributes uuid="337de2c6-4ea7-41c8-bcf8-7a9852231c9d">
       <name>ТипЧислоЕсть</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип число есть</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип число есть</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип число есть</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип число есть</value>
       </synonym>
       <type>
@@ -765,15 +765,15 @@
     <attributes uuid="a5f2478d-da39-4731-a56d-2e3da8a479b7">
       <name>ТипЧислоРазрядность</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип число разрядность</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип число разрядность</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип число разрядность</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип число разрядность</value>
       </synonym>
       <type>
@@ -789,15 +789,15 @@
     <attributes uuid="e28095cd-043c-43a0-90c3-623cabbf2b3a">
       <name>ТипЧислоРазрядностьДробнойЧасти</name>
       <synonym>
-        <key>ru</key>
-        <value>Тип число разрядность дробной части</value>
-      </synonym>
-      <synonym>
         <key>en</key>
         <value>Тип число разрядность дробной части</value>
       </synonym>
       <synonym>
         <key>uk</key>
+        <value>Тип число разрядность дробной части</value>
+      </synonym>
+      <synonym>
+        <key>ru</key>
         <value>Тип число разрядность дробной части</value>
       </synonym>
       <type>
@@ -814,15 +814,15 @@
   <forms uuid="3773f9e3-13f8-4312-b012-4fac71ebbf96">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>
@@ -832,15 +832,15 @@
   <commands uuid="c599ffdc-03ea-49a0-8d0c-858ff070229d">
     <name>Команда1</name>
     <synonym>
-      <key>ru</key>
-      <value>Колонки БД (ИР)</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Колонки БД (ИР)</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Колонки БД (ИР)</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Колонки БД (ИР)</value>
     </synonym>
     <group>CommandGroup.ирАдминистрирование</group>

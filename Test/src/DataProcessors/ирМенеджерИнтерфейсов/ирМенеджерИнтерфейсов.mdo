@@ -6,15 +6,15 @@
   </producedTypes>
   <name>ирМенеджерИнтерфейсов</name>
   <synonym>
-    <key>ru</key>
-    <value>Менеджер интерфейсов (ИР)</value>
-  </synonym>
-  <synonym>
     <key>en</key>
     <value>Менеджер интерфейсов (ИР)</value>
   </synonym>
   <synonym>
     <key>uk</key>
+    <value>Менеджер интерфейсов (ИР)</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
     <value>Менеджер интерфейсов (ИР)</value>
   </synonym>
   <defaultForm>DataProcessor.ирМенеджерИнтерфейсов.Form.Форма</defaultForm>
@@ -26,15 +26,15 @@
   <attributes uuid="f63c19d4-96c3-451c-bc03-6af80a031bec">
     <name>СписокИнтерфейсов</name>
     <synonym>
-      <key>ru</key>
-      <value>Список интерфейсов</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Список интерфейсов</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Список интерфейсов</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Список интерфейсов</value>
     </synonym>
     <type>
@@ -46,15 +46,15 @@
   <forms uuid="22508450-d5ed-4b2e-9edf-bbc1cdc0ba08">
     <name>Форма</name>
     <synonym>
-      <key>ru</key>
-      <value>Форма</value>
-    </synonym>
-    <synonym>
       <key>en</key>
       <value>Форма</value>
     </synonym>
     <synonym>
       <key>uk</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
       <value>Форма</value>
     </synonym>
     <formType>Ordinary</formType>

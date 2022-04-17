@@ -5,4 +5,8 @@
     <key>ru</key>
     <value>Быстрый доступ добавить</value>
   </synonym>
+  <synonym>
+    <key>uk</key>
+    <value>Швидкий доступ додати</value>
+  </synonym>
 </mdclass:CommonPicture>
