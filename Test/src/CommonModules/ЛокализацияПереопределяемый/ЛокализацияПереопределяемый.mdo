@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4af27829-731a-47d2-8894-3b8d0f4d9ca2">
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c43abc1e-4d9b-4842-b92e-a7e903d5c5b3">
   <name>ЛокализацияПереопределяемый</name>
   <synonym>
     <key>ru</key>

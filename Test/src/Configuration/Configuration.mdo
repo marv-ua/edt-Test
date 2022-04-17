@@ -2,16 +2,16 @@
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e592f552-54cc-43ff-9b3d-6f5d233b79e4">
   <name>МояКонфигурация</name>
   <synonym>
+    <key>en</key>
+    <value>My configuration</value>
+  </synonym>
+  <synonym>
     <key>uk</key>
     <value>Моя конфігурація</value>
   </synonym>
   <synonym>
     <key>ru</key>
     <value>Моя конфигурация</value>
-  </synonym>
-  <synonym>
-    <key>en</key>
-    <value>My configuration</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0c9a493b-174a-469b-a57e-f3e92e576c5a"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="da16a8ec-741c-4e9f-89a2-8dc4cddfb56f"/>
@@ -29,7 +29,6 @@
   <defaultRoles>Role.ПолныеПрава</defaultRoles>
   <defaultRoles>Role.ирРазработчик</defaultRoles>
   <version>1.0.1.1</version>
-  <updateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</updateCatalogAddress>
   <includeHelpInContents>true</includeHelpInContents>
   <useManagedFormInOrdinaryApplication>true</useManagedFormInOrdinaryApplication>
   <usedMobileApplicationFunctionalities>
@@ -88,12 +87,11 @@
     </synonym>
     <languageCode>en</languageCode>
   </languages>
-  <subsystems>Subsystem.Администрирование</subsystems>
   <subsystems>Subsystem.ПодключаемыеОтчетыИОбработки</subsystems>
   <subsystems>Subsystem.СтандартныеПодсистемы</subsystems>
-  <subsystems>Subsystem.ИнструментыРазработчикаTormozit</subsystems>
   <subsystems>Subsystem.ДенежнеСредства</subsystems>
-  <subsystems>Subsystem.НСИС</subsystems>
+  <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.ИнструментыРазработчикаTormozit</subsystems>
   <styleItems>StyleItem.ВажнаяНадписьШрифт</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряВоскресеньеЦвет</styleItems>
   <styleItems>StyleItem.ВидДняПроизводственногоКалендаряНеУказанЦвет</styleItems>
@@ -1529,9 +1527,6 @@
   <roles>Role.ирПравоАдминистрирование</roles>
   <roles>Role.ирРазработчик</roles>
   <roles>Role.БанкИКассаЧтениеЗапись</roles>
-  <roles>Role.НСИСБазовыеПрава</roles>
-  <roles>Role.НСИСИспользование</roles>
-  <roles>Role.НСИСНастройка</roles>
   <commonTemplates>CommonTemplate.ДанныеПечатиОбщиеРеквизиты</commonTemplates>
   <commonTemplates>CommonTemplate.ДанныеПечатиРегистрСимволов</commonTemplates>
   <commonTemplates>CommonTemplate.ИнструкцияДляУстановкиКодаДляПредопределенногоУзла_ru</commonTemplates>
@@ -1989,14 +1984,9 @@
   <commonModules>CommonModule.ирПортативный</commonModules>
   <commonModules>CommonModule.ирПривилегированный</commonModules>
   <commonModules>CommonModule.ирСервер</commonModules>
-  <commonModules>CommonModule.НСИСВызовСервера</commonModules>
-  <commonModules>CommonModule.НСИСКлиент</commonModules>
-  <commonModules>CommonModule.НСИСПереопределяемый</commonModules>
-  <commonModules>CommonModule.НСИССервер</commonModules>
   <commonModules>CommonModule.Локализация</commonModules>
   <commonModules>CommonModule.ЛокализацияПереопределяемый</commonModules>
   <commonModules>CommonModule.ЛокализацияПовтИсп</commonModules>
-  <commonModules>CommonModule.ОбщегоНазначенияПовтИсп</commonModules>
   <commonAttributes>CommonAttribute.КомментарийЯзык1</commonAttributes>
   <commonAttributes>CommonAttribute.КомментарийЯзык2</commonAttributes>
   <commonAttributes>CommonAttribute.НаименованиеЯзык1</commonAttributes>
@@ -2176,8 +2166,6 @@
   <scheduledJobs>ScheduledJob.УдалениеУстаревшихПараметровРаботыВерсийРасширений</scheduledJobs>
   <scheduledJobs>ScheduledJob.УстановкаПериодаРассчитанныхИтогов</scheduledJobs>
   <scheduledJobs>ScheduledJob.ЭкспортОценкиПроизводительности</scheduledJobs>
-  <scheduledJobs>ScheduledJob.ЗагрузкаКурсовВалют</scheduledJobs>
-  <scheduledJobs>ScheduledJob.НСИСОбновлениеДанных</scheduledJobs>
   <settingsStorages>SettingsStorage.ХранилищеВариантовОтчетов</settingsStorages>
   <functionalOptions>FunctionalOption.АктуальнаяДатаОбновленияПовторноИспользуемыхЗначенийМРО</functionalOptions>
   <functionalOptions>FunctionalOption.ВариантыВерсионированияОбъектов</functionalOptions>
@@ -2691,7 +2679,6 @@
   <catalogs>Catalog.СтатьиДвиженияДенежныхСредств</catalogs>
   <catalogs>Catalog.СтатьиДоходов</catalogs>
   <catalogs>Catalog.СтатьиЗатрат</catalogs>
-  <catalogs>Catalog.НСИСДополнительныеФайлы</catalogs>
   <documents>Document.Анкета</documents>
   <documents>Document.Встреча</documents>
   <documents>Document.ЗапланированноеВзаимодействие</documents>
@@ -2931,13 +2918,6 @@
   <dataProcessors>DataProcessor.ирУправлениеПрофайлами1С</dataProcessors>
   <dataProcessors>DataProcessor.ирУправлениеСлужбамиСервера1С</dataProcessors>
   <dataProcessors>DataProcessor.ирУстановщикРасширения</dataProcessors>
-  <dataProcessors>DataProcessor.ЗагрузкаКурсовВалют</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСАвтозапускЗагрузки</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСЗагрузкаКурсовВалют</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСЗапускСервисов</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСКалендарьБухгалтера</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСНастройка</dataProcessors>
-  <dataProcessors>DataProcessor.НСИСНовости</dataProcessors>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанных</informationRegisters>
   <informationRegisters>InformationRegister.БезопасноеХранилищеДанныхОбластейДанных</informationRegisters>
   <informationRegisters>InformationRegister.БлокировкиСеансовОбластейДанных</informationRegisters>
@@ -3078,8 +3058,6 @@
   <informationRegisters>InformationRegister.УдалитьНастройкиТранспортаОбмена</informationRegisters>
   <informationRegisters>InformationRegister.УдалитьРезультатыОбменаДанными</informationRegisters>
   <informationRegisters>InformationRegister.УдалитьХранимыеФайлыВерсий</informationRegisters>
-  <informationRegisters>InformationRegister.НСИСНастройки</informationRegisters>
-  <informationRegisters>InformationRegister.НСИСФайлы</informationRegisters>
   <accumulationRegisters>AccumulationRegister.Взаиморасчеты</accumulationRegisters>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ВопросыДляАнкетирования</chartsOfCharacteristicTypes>
   <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ДополнительныеРеквизитыИСведения</chartsOfCharacteristicTypes>

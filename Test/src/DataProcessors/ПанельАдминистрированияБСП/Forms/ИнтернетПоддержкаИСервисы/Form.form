@@ -5444,6 +5444,186 @@
       <currentRowUse>Auto</currentRowUse>
     </extInfo>
   </items>
+  <items xsi:type="form:FormGroup">
+    <name>НСИСГруппаНастройки</name>
+    <id>1991</id>
+    <items xsi:type="form:Decoration">
+      <name>ДекорацияРасписаниеЗапускЗагрузкиНСИС</name>
+      <id>1993</id>
+      <title>
+        <key>ru</key>
+        <value>Настроить регламентное задание</value>
+      </title>
+      <title>
+        <key>uk</key>
+        <value>Настроїти регламентне завдання</value>
+      </title>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <toolTip>
+        <key>ru</key>
+        <value>Настройка регламентного задания загрузки данных RDI Service (расписание и т.д.)</value>
+      </toolTip>
+      <toolTip>
+        <key>uk</key>
+        <value>Настройка регламентного завдання завантаження даних RDI Service (розклад тощо)</value>
+      </toolTip>
+      <toolTipRepresentation>ShowBottom</toolTipRepresentation>
+      <extendedTooltip>
+        <name>ДекорацияРасписаниеЗапускЗагрузкиНСИСРасширеннаяПодсказка</name>
+        <id>1995</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <contextMenu>
+        <name>ДекорацияРасписаниеЗапускЗагрузкиНСИСКонтекстноеМеню</name>
+        <id>1994</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <autoFill>true</autoFill>
+      </contextMenu>
+      <type>Label</type>
+      <autoMaxHeight>true</autoMaxHeight>
+      <horizontalStretch>true</horizontalStretch>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <handlers>
+          <event>Click</event>
+          <name>ДекорацияРасписаниеЗапускЗагрузкиНСИСНажатие</name>
+        </handlers>
+        <hyperlink>true</hyperlink>
+        <horizontalAlign>Left</horizontalAlign>
+        <verticalAlign>Top</verticalAlign>
+      </extInfo>
+    </items>
+    <items xsi:type="form:Decoration">
+      <name>ДекорацияНастройкиНСИС</name>
+      <id>1996</id>
+      <title>
+        <key>ru</key>
+        <value>Расширенные настройки</value>
+      </title>
+      <title>
+        <key>uk</key>
+        <value>Розширені настройки</value>
+      </title>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <toolTip>
+        <key>ru</key>
+        <value>Настройка состава загружаемых данных, набора регистров, классификаторов, групп новостей и т.д.</value>
+      </toolTip>
+      <toolTip>
+        <key>uk</key>
+        <value>Настройка складу даних, що завантажуються, набору регістрів, класифікаторів, груп новин і т. д.</value>
+      </toolTip>
+      <toolTipRepresentation>ShowBottom</toolTipRepresentation>
+      <extendedTooltip>
+        <name>ДекорацияНастройкиНСИСРасширеннаяПодсказка</name>
+        <id>1998</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <contextMenu>
+        <name>ДекорацияНастройкиНСИСКонтекстноеМеню</name>
+        <id>1997</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <autoFill>true</autoFill>
+      </contextMenu>
+      <type>Label</type>
+      <autoMaxHeight>true</autoMaxHeight>
+      <horizontalStretch>true</horizontalStretch>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <handlers>
+          <event>Click</event>
+          <name>ДекорацияНастройкиНСИСНажатие</name>
+        </handlers>
+        <hyperlink>true</hyperlink>
+        <horizontalAlign>Left</horizontalAlign>
+        <verticalAlign>Top</verticalAlign>
+      </extInfo>
+    </items>
+    <visible>true</visible>
+    <enabled>true</enabled>
+    <userVisible>
+      <common>true</common>
+    </userVisible>
+    <title>
+      <key>ru</key>
+      <value>RDI Service</value>
+    </title>
+    <title>
+      <key>uk</key>
+      <value>RDI Service</value>
+    </title>
+    <toolTip>
+      <key>ru</key>
+      <value>НСИСГруппа настройки</value>
+    </toolTip>
+    <toolTip>
+      <key>uk</key>
+      <value>НСИС Группа настройка</value>
+    </toolTip>
+    <extendedTooltip>
+      <name>НСИСГруппаНастройкиРасширеннаяПодсказка</name>
+      <id>1992</id>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <type>Label</type>
+      <autoMaxWidth>true</autoMaxWidth>
+      <autoMaxHeight>true</autoMaxHeight>
+      <extInfo xsi:type="form:LabelDecorationExtInfo">
+        <horizontalAlign>Left</horizontalAlign>
+      </extInfo>
+    </extendedTooltip>
+    <type>UsualGroup</type>
+    <extInfo xsi:type="form:UsualGroupExtInfo">
+      <group>HorizontalIfPossible</group>
+      <behavior>Collapsible</behavior>
+      <collapsed>true</collapsed>
+      <controlRepresentation>Picture</controlRepresentation>
+      <representation>NormalSeparation</representation>
+      <showLeftMargin>true</showLeftMargin>
+      <united>true</united>
+      <slaveItemsWidth>Equal</slaveItemsWidth>
+      <showTitle>true</showTitle>
+      <throughAlign>Auto</throughAlign>
+      <currentRowUse>Auto</currentRowUse>
+    </extInfo>
+  </items>
   <autoCommandBar>
     <name>ФормаКоманднаяПанель</name>
     <id>-1</id>
